@@ -1,0 +1,19 @@
+[
+    {
+        "number": 0,
+        "name": "",
+        "symbol": "",  
+         "weight": "",
+        "category": "",
+        "block": "",
+        "period":"",
+        "group":"",
+        "description":"",
+        "usage":"",
+        "source":"",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      }
+]
