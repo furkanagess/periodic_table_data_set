@@ -1,0 +1,155 @@
+[
+    {
+        "number": 109,
+        "name": "Meitneriyum",
+        "symbol": "Mt",  
+        "weight": "278",
+        "category": "Bilinmeyen",
+        "block" :"D",
+        "period":"7",
+        "group":"9",
+        "description":"Yaklaşık beş milisaniyelik yarı ömrü vardır. Bu elementin elde edilişi füzyon tekniklerinin gerçekten yeni ağır çekirdekler yapmakta kullanılabileceğini göstermiştir. Batı Almanya'nın Darmstadt şehrinde bulunan Ağır İyon Araştırmaları Merkezi'nde bulunup elde edilmiştir. ",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 110,
+        "name": "Darmstadtiyum",
+        "symbol": "Ds",  
+        "weight": "281",
+        "category": "Bilinmeyen",
+        "block" :"D",
+        "period":"7",
+        "group":"10",
+        "description":"Keşfedildiği Darmstad (Wihausen bölgesinde bulunan GSI Helmholtz Ağır İyon Araştırma Merkezi) şehrinin adı verilmiştir. Eka-platin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununnilyum (Uun) isimleriyle de bilinmektedir. ",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 111,
+        "name": "Röntgenyum",
+        "symbol": "Rg",  
+        "weight": "282",
+        "category": "Bilinmeyen",
+        "block" :"D",
+        "period":"7",
+        "group":"11",
+        "description":"X ışınlarını bulan Wilhem Contrad Röntgen'in onuruna bu isim verilmiştir. Eka-altın ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen unununyum isimleriyle de bilinmektedir.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 113,
+        "name": "Nihoniyum",
+        "symbol": "Nh",  
+        "weight": "286",
+        "category": "Bilinmeyen",
+        "block" :"P",
+        "period":"7",
+        "group":"13",
+        "description":"Elementin keşfedildiği Japonya'nın Japonca karşılığının adı verilmiştir. Eka-talyum ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununtriyum (Uut) isimleriyle de bilinmektedir.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir..",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 115,
+        "name": "Moskoviyum",
+        "symbol": "Mc",  
+        "weight": "289",
+        "category": "Bilinmeyen",
+        "block" :"P",
+        "period":"7",
+        "group":"15",
+        "description":"Elementin keşfedildiği Moskova Oblastı'nın adı verilmiştir. Eka-bizmut ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafınfan geçici olarak verilen ununpentiyum (Uup) isimleriyle de bilinmektedir.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 116,
+        "name": "Livermoriyum",
+        "symbol": "Lv",  
+        "weight": "293",
+        "category": "Bilinmeyen",
+        "block" :"P",
+        "period":"7",
+        "group":"16",
+        "description":"Adını çiftlik sahini Robert Livermore'dan alan Livermore şehrinde bulunan ve elemetin keşfedilmesinde rol oynayan Lawrence Livermore Ulusal Laboratuvarı'nın onuruna bu isim verilmiştir. Ununheksiyum, geçici sistematik isim olarak kullanılmıştır.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 117,
+        "name": "Tennesin",
+        "symbol": "Ts",  
+        "weight": "294",
+        "category": "Bilinmeyen",
+        "block" :"P",
+        "period":"7",
+        "group":"17",
+        "description":"Kendi ismini Çeroki köyü Tanasi'den alan ve elementin sentezlenmesindeki adımlardan biri için önemli çalışmaların yapıldığı Tennesee eyaletinin adı verilmiştir. Eka-astatin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununseptiyum (Uus) isimleriyle de bilinmektedir.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 118,
+        "name": "Oganesson",
+        "symbol": "Og",  
+        "weight": "294",
+        "category": "Bilinmeyen",
+        "block" :"P",
+        "period":"7",
+        "group":"18",
+        "description":"Süper ağır elementlerin sentezlenmesi alanına en büyük katkı sağlayanlardan biri olan Yuri Oganessian'ın adından. Eka-randon ve geçici olarak Uluslararası Temel ve Uygulamalı Kimya Birliği tarafından ununoctium (Uuo) da denmiştir.",
+        "usage":"Önemli bir ticari kullanımı yoktur.",
+        "source":"Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 119,
+        "name": "Ununennium",
+        "symbol": "Uue",  
+        "weight": "315",
+        "category": "Bilinmeyen",
+        "block" :"S",
+        "period":"8",
+        "group":"1",
+        "description":"Bilinmiyor",
+        "usage":"Bilinmiyor",
+        "source":"Bilinmiyor.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      } 
+]

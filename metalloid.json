@@ -1,0 +1,121 @@
+[
+    {
+        "number": 5,
+        "name": "Bor",
+        "symbol": "B",  
+        "weight": "10.81",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"2",
+        "group":"13",
+        "description":"Periyodik tabloda 13. grupta yer alan bir elementtir. İki allotropa sahiptir. Amorf bor kahverengi toz iken metalik bor siyahtır. Metal hali serttir (Mohs ölçeğinde 9.3) ve oda sıcaklığında kötü bir iletkendir. Doğada asla serbest olarak bulunmaz. Bor-10, nükleer reaktör kontrol çubukları ve zırhlarında kullanılır. 1808'de Sir Humprhy Davy, J.L. Gay-Lussac ve L.J. Thenard tarafından keşfedilmiştir.",
+        "usage":"Jet ve roketlerde gereken ısıya dayanaklı alaşımlar yapmak için titanyum ve tungsten ile birlikte kullanılır.",
+        "source":"Bir boraks türü olan kernitten elde edilir. Yüksek saflıktaki bor, erimiş potasyum floroborat ve potasyum klorürün elektrolizi ile üretilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 14,
+        "name": "Silikon",
+        "symbol": "Si",  
+        "weight": "28.085",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"3",
+        "group":"14",
+        "description":"Periyodik tablonun 14. grubuna ait yarı metal bir elementtir. Ağırlık olarak %25.7’sini oluşturduğu yer kabuğunda en çok bulunan ikinci elementtir. Kimyasal olarak karbondan daha az reaktiftir. İlk kez 1787’de Lavoisier tarafından bulunmuş ve 1823’te Berzelius tarafından izole edilmiştir.",
+        "usage":"Camlarda silisyum dioksit (SiO2) şeklinde kullanılır. Silisyum karbür, bilinen en sert maddelerden biridir ve cilada kullanılır. Kristal hali de yarı iletkenlerde kullanılır.",
+        "source":"Kil, granit, kuartz (SiO2) ve kumun büyük bir kısmını oluşturur. Ticari üretimi kum (SiO2) ve karbonun 200 derece civarda sıcaklıkta tepkimesi ile yapılır.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 32,
+        "name": "Germanyum",
+        "symbol": "Ge",  
+        "weight": "72.6308",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"4",
+        "group":"14",
+        "description":"Parlak, sert ve yarı metal bir elementtir. Periyodik tablonun 14. grubunda bulunur. Pek çok sayıda organometalik bileşik oluşturur. 1871'de Mendeleyev tarafından öngörülmüş, 1866'da da Winkler tarafından bulunmuştur.",
+        "usage":"Yaygın olarak yarı iletkenlerde kullanılır. Eser miktarda fosfor, arsenik, galyum ve antimon ile birlikte kullanıldığında iyi bir yarı iletken görevi görür.",
+        "source":"Bakır, çinko ve kurşun arıtımından elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 33,
+        "name": "Arsenik",
+        "symbol": "As",  
+        "weight": "74.9215956",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"4",
+        "group":"15",
+        "description":"15. grupta bulunan bir yarı metal elementtir. Sarı, siyah ve gri olmak üzere üç allotropu vardır. Halojenlerle, yoğunlaştırılmış yükseltgen asitlerle ve sıcak alkalilerle tepkimeye girer. Albertus Magnus'un 1250 yılında elementi ilk izole eden kişi olduğu düşünülmektedir.",
+        "usage":"Birçok bileşiği ölümcül derecede zehirlidir. Yabani ot ilacı ve fare zehri olarak kullanılır. Elektriği iletir. Yarı iletkenlerde kullanılır. Arsenit olarak bilinen bazı bileşikleri boya, duvar kağıdı ve seramik yapımında kullanılır.",
+        "source":"Mispikelde (arsenopirit) bulunur.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 51,
+        "name": "Antimon",
+        "symbol": "Sb",  
+        "weight": "121.7601",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"5",
+        "group":"15",
+        "description":"15. gruba mensup bir elementtir. Birden fazla allotropik oluşumu vardır. Antimonun kararlı hali mavi-beyaz bir metaldir. Sarı ve siyah antimon kararsız ametallerdir. Alev dayanıklılığında, seramiklerde, emayelerde ve kauçukta kullanılır. Oksitlenen asit ve halojenlerden etkilenir.",
+        "usage":"Sertliklerini arttırmak için başka metallerle alaşımlanır. Birkaç yarı iletken türünün üretiminde, plastik ve kimyasallarda kullanılır. Reçetesiz satılan bazı tip soğuk algınlığı ve grip ilaçlarının üretiminde antimon bileşiklerinden yararlanır.",
+        "source":"Stibnit  (Sb2S3) ve valentinitte (Sb2O3) bulunur.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 52,
+        "name": "Tellür",
+        "symbol": "Te",  
+        "weight": "127.603",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"5",
+        "group":"16",
+        "description":"Gümüşümsü, 16. grup üyesi yarı-metal bir elementtir. Sekiz doğal, dokuz radyoaktif izotopu vardır.",
+        "usage":"Bakır ve paslanmaz çelik ürünlerinin talaşlı imalat kalitesini geliştirmekte, cam ve seramik boyamasında kullanılır. Ayrıca termoelektrik cihazlarda bulunur. Bir miktarı, kauçuk endüstrisinde kullanılır ve fünye imalatında temel bir içerik maddesidir.",
+        "source":"Bakır ve kurşun arıtımının yan ürünü olarak elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      },
+      {
+        "number": 85,
+        "name": "Astatin",
+        "symbol": "At",  
+        "weight": "210",
+        "category": "Metalimsi",
+        "block" :"P",
+        "period":"6",
+        "group":"17",
+        "description":"Radyoaktif ve halojen bir elementtir. Uranyum ve toryum bozunması sonucu doğal olarak oluşur. Bilinen en az 20 izotopu vardır. En kararlısı olan At-210, 8.3 saatlik yarı ömre sahiptir. 1940'ta D.R. Corson, K.R. MacKenzie ve E. Segre tarafından Kaliforniya Üniversitesi'nde nükleer bombardıman ile sentezlenmiştir.",
+        "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
+        "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
+        "colors": [
+          4283657726,
+          4287535603
+        ]
+      }
+]
