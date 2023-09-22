@@ -11,10 +11,7 @@
         "description":"Periyodik tabloda ikinci grup üyesi bir gri metal elementtir. Zehirli olup ciddi düzeyde akciğer hastalıklarına ve dermatite yol açabilir. Yüksek derecede kovalent özelliği gösterir. 1828'de F. Wohler ve A.A. Bussy tarafından birbirlerinden bağımsız olarak izole etmiştir.",
         "usage":"Yüksek oranda ısı soğurabilmesi uzay aracı, roket, uçak vb. araçların üretiminde berilyumu kullanışlı bir malzeme kılmaktadır. Zümrütler, içlerinde bulunan az miktarda krom sayesinde yeşil renk alan beril kristalleridir.",
         "source":"Çoğunlukla beril [AlBe3(Si6O18)] ve krizoberil (Al2BeO4) gibi minerallerde bulunur. Saf berilyum, beril mineralinin kimyasal olarak indirgenmesiyle elde edilir. Berilyum klorürün elektroliziyle de elde edilebilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 12,
@@ -28,10 +25,7 @@
         "description":"Periyodik tablonun ikinci grubuna (toprak alkali metaller) ait gümüşümsü metal elementtir. Canlı organizmalar için çok önemlidir ve birçok hafif alaşımda kullanılır. Kimyasal olarak oldukça reaktif olup havaya maruz kaldığında ve yoğun bir beyaz alevle yandığında dış yüzeyinde koruyucu bir oksit kaplama oluşur. Aynı zamanda kükürt, azot ve halojenlerle tepkimeye girer. İlk kez 1828’de Bussy tarafından izole edilmiştir.",
         "usage":"Uçak ve roket yapımında gereken alaşımlarda kullanılır. Alüminyuma benzer yapısal özellikleri vardır. Ancak benzinin yanma sıcaklığında ateş almasından ötürü kullanım alanları kısıtlıdır.",
         "source":"Deniz suyunda bulunan erimiş magnezyum klorürün elektrolizi ile elde edilir. Her bir milküp denizsuyu 5443 kg magnezyum içerir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 20,
@@ -45,10 +39,7 @@
         "description":"Periyodik tablonun ikinci grubuna ait yumuşak gri bir metal elementtir. Toryum, zirkonyum ve uranyumun özütlemesinde indirgeyici madde olarak kullanılır. Canlı organizmalar için önemlidir.",
         "usage":"Birçok yaşam formu tarafından kabuk ve kemik geliştirmek için kullanılır. Saf metal halinin neredeyse hiçbir kullanımı yoktur, ancak birçok sanayi alanında kalsiyum bileşiklerinden kireç (CaO) ve alçıtaşına (CaSO4) son derece yüksek talep olur.",
         "source":"Tebeşir, kireç taşı ve mermer gibi minerallerden elde edilir. Saf metal hali, düşük basınçtaki sıcak imbiklerde bulunan kireçteki (kalsiyum karbona, CaCO3) kalsiyumunun alüminyum ile değiştirilmesiyle elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 38,
@@ -62,10 +53,7 @@
         "description":"Yumuşak, sarımtrak metal bir elementtir. Periyodik tablonun ikinci grubuna aittir. Kimyasal olarak oldukça reaktiftir. Sr-90 radyoaktif serpintide bulunur ve 28 yıl yarı ömrü vardır. 1798'de Klaproth ve Hope tarafından keşfedilmiş, 1808'de de Humprhy Davy tarafından izole edilmiştir.",
         "usage":"Kızıl renk vermesi için havai fişek ve işaret fişeklerinde kullanılır. Strontiyum-90, atom bombası patlamaları sonrasında nükleer serpinti ile oluşan uzun ömürlü, son derece radyoaktif bir üründür.",
         "source":"Selestin ve strontiyanit minerallerinde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 56,
@@ -79,10 +67,7 @@
         "description":"Gümüşümsü-beyaz, reaktif ve periyodik tabloda ikinci gruba mensup elementtir. Çözünebilir baryum bileşikleri son derece zehirlidir. 1774'te Karl Scheele tarafından keşfedilmiş ve 1808'de Humphry Davy tarafından özütlenmiştir. ",
         "usage":"Barit yada baryum sülfatın (BaSO4) öğütülüp toz haline getirilmiş hali kauçuk, plastik ve reçinelerde dolgu maddesi olarak kullanılır. Suda çözünmez ve bu yüzden sindirim sisteminin görüntülemesinde uygulanan X ışınlarıyla birlikte kullanılır. Baryum nitrat, parlak yeşil renkte yanar ve havai fişeklerde kulllanılır.",
         "source":"Baritin (BaSO4) ve viterit (BaSO3) minerallerinden bulunur. Reaktifliğinden ötürü saf halde bulunmaz. Saf kalması için gazyağı altında saklanmalıdır.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 88,
@@ -96,9 +81,6 @@
         "description":"İkinci grupta bulunan transuranik radyoaktif metal bir elementtir. Radona bozunan en kararlı izotopu olan Ra-226'nın 1602 yıllık yarı ömrü vardır. 1898'te Marie ve Pierre Curie tarafından uraninitten izole edilmiştir.",
         "usage":"Yaydığı gama ışınlarından dolayı kanser tedavisinde kullanılır.",
         "source":"Uranyum cevherlerinde, uranyuma 1/3 ppm oranla bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       }
 ]

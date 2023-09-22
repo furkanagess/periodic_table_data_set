@@ -11,10 +11,7 @@
         "description":"Periyodik tablonun üçüncü grubunda bulunan gümüşümsü beyaz, parlak, metal bir elementtir. Oldukça reaktiftir fakat tepkimeye girdiğinde havada hızlı bir şekilde oluşan saydam ve ince bir oksit katmanı ile korunur. Alüminyumun birçok endüstriyel kullanımının yanı sıra  pek çok alaşımı mevcuttur. Ağırlık olarak Dünya'nın yer kabuğunun %8.1’ini oluşturur. 1825’de H.C. Oersted tarafından izole edilmiştir.",
         "usage":"Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
         "source":"Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 31,
@@ -28,10 +25,7 @@
         "description":"Yumuşak, gümüşümsü bir metal elementtir. Periyodik tablonun 13. grubuna aittir. İki kararlı izotopu Ga-69 ve Ga-71'dir. Bilinen sekiz radyoaktif izotopu vardır ve hepsi kısa yarı ömre sahiptir. Galyum arsenit bir yarı iletken olarak kullanılır. Diğer birçok metali örgülerine yayılarak aşındırır. İlk kez Francois Lecoq de Boisbaudran tarafından 1875'de bulunmuştur.",
         "usage":"Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
         "source":"Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur..",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 49,
@@ -45,10 +39,7 @@
         "description":"Periyodik tablonun 13. grubunda bulunan yumuşak, gümüşümsü bir elementtir. En yaygın olan doğal izotopu, 6*10^4 yıllık yarı ömüre sahip olan In-115'dir. Başka beş izotopu daha vardır. 1863'te Reich ve Richter tarafından keşfedilmiştir.",
         "usage":"Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
         "source":"Bazı çinko cevherlerinde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 50,
@@ -62,10 +53,7 @@
         "description":"Gümüşümsü, dövülebilir, periyodik tablonun 14. grubuna ait metal bir elementtir. Beş tanesi radyoaktif olmakla birlikte bilinen 26 adeti izotopu vardır. Kimyasal olarak reaktiftir. Doğrudan klor ve oksijenle tepkimeye girer ve seyreltik asitlerde hidrojeni ortadan kaldırır.",
         "usage":"Zehirli ve aşındırıcı olmadığı için çelik konservelerin kaplamasında kullanılır. Lehimde (33%Sn:67%Pb), bronzda (20%Sn:80%Cu) ve kurşun-kalay alaşımında bulunur. Kalay ile florun olduğu bir bileşik olan kalay florür (SnF2), bazı diş macunlarında kullanılır.",
         "source":"En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 81,
@@ -79,10 +67,7 @@
         "description":"Tepkimeye uğramamış, saf talyum gümüşümsü-beyaz renkte metalik bir parlaklık gösterir. Havayla tepkimeye girdiğinde, mavimsi-gri bir renk alır ve kurşun gibi görünür. Son derece dövülebilir bir yapısı vardır ve bıçakla kesilebilir. İki kararlı izotopu ve dört radyoizotopu vardır.",
         "usage":"Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
         "source":"Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 82,
@@ -96,10 +81,7 @@
         "description":"Ağır, sünek ve kurşuni renkte 14. gruba ait olan bir elementtir. İnşaatlarda, kurşunlu akülerde, mermi ve saçmalarda kullanılır. Lehim, kurşun-kalay alaşımı, rulman ve hurufat metalleri ve kolay eriyen alaşımlarında kullanılır.",
         "usage":"Lehimde, pillerde ve radyasyona karşı zırhlamada kullanılır.",
         "source":"En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 83,
@@ -113,10 +95,7 @@
         "description":"15. gruba ait, hafif pembe tonlu beyaz kristalli metaldir. Bütün metallerin en diyamanyetik olanı ve cıva sayılmadığında en düşük ısı iletkenliğine sahip elementtir. Kurşunsuz bizmut bileşikleri kozmetikte ve tıp işlemlerinde kullanılır. ",
         "usage":"Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
         "source":"Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 84,
@@ -130,10 +109,7 @@
         "description":"Periyodik tablonun 16. grubunda, nadir bulunan radyoaktif metal bir elementtir. Otuzdan fazla bilinen izotopu vardır ve bu bütün elementler arasında en yüksek olan izotop sayısıdır. Po-209'un 103 yıllık yarı ömrü vardır. Uzay aracı ısıtmasında kullanılabilir. ",
         "usage":"Kağıt, kablo ve sac haddelemesi gibi işlemler sırasında ortaya çıkan statik elektriğin önlenmesi amacıyla üretilen endüstriyel ekipmanlarda kullanılır.",
         "source":"Bizmutun bozunması sonrası uraninitte bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 114,
@@ -147,9 +123,6 @@
         "description":"Sovyet nükleer fiziğinin öncülerinden ve elementin keşfedildiği Dubna'daki Ortak Nükleer Araştırma Enstitüsü'nün kurucusu olan Georgy Flyorov'un onuruna bu isim verilmiştir. Ununkuadyum, geçici sistematik isim olarak kullanılmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       }
 ]

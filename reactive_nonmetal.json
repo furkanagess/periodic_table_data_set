@@ -11,10 +11,7 @@
         "description":"Renksiz, kokusuz, gaz halde bulunan bir kimyasal elementtir. Aynı zamanda evrende en çok bulunan ve en hafif elementtir. Suda ve bütün organik bileşiklerde bulunur. Kimyasal olarak birçok element ile tepkimeye girer. 1776da Henry Cavendish tarafından keşfedilmiştir.",
         "usage":"Yüksek miktarlarda hidrojen amonyak üretiminde kullanılır. Aynı zamanda balonlarda, metal arıtımında ve roketlerde yakıt olarak kullanılır. En ağır iki izotopu döteryum (D) ve trityum (T) sırasıyla nükler fisyon ve füzyon için kullanılır.",
         "source":"Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },   
        {
         "number": 6,
@@ -28,10 +25,7 @@
         "description":"Karbon, periyodik tabloda 14. grupta yer alan elementtir. Elmas, grafit ve fulerit olmak üzere üç allotropu vardır. Karbon-14 yaygın olarak radyoaktif tarihlendirmede kullanılır. Karbon, organik hayatın tümünde bulunur ve organik kimyanın temelidir. Kendisiyle ve başka birçok element ile bağlanma gibi ilginç bir kimyasal özelliği bulunmaktadır.",
         "usage":"Çelik üretimi, filtreler ve daha pek çok alanda kullanılır. Radyokarbon tarihlendirmesi, eski nesneleri karbon-14 izotopu ile tarihlendirir.",
         "source":"Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 7,
@@ -45,10 +39,7 @@
         "description":"Periyodik tabloda 15. grupta bulunan renksiz ve gaz halde bulunan bir elementtir. Atmosferin yaklaşık %78'ini oluşturur ve ekosistemin önemli bir parçasıdır. Endüstriyel amaçlarla kullanılan azot, sıvı havanın ayrımsal damıtılmasıyla elde edilir. Kimyasal olarak etkisiz olup sadece yüksek sıcaklıkta veya elektriksel boşalma sırasında tepkimeye girer. 1772'de D. Rutherford tarafından keşfedilmiştir.",
         "usage":"Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
         "source":"Ayrımsal damıtım ile sıvı havadan elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 8,
@@ -62,10 +53,7 @@
         "description":"Periyodik tabloda 16. grupta yer alan renksiz ve kokusuz olup gaz halde bulunan bir elementtir. Yerkabuğunda en çok bulunan element de olmasının yanında aynı zamanda atmosferin %20.8’ini oluşturur. Endüstriyel amaçlar için kullanıldığında, ayrımsal damıtma ile sıvı havadan ayrılır. Yüksek sıcaklık kaynaklamasında ve nefeslendirmede kullanılır. Yaygın halinde oksijen şeklindedir, ancak atmosferin üst tabakasında ozon olarak bulunur. 1774’te Priestley tarafından keşfedilmiştir.",
         "usage":"Çelik yapımında, kaynakçılıkta ve yaşam desteğinde kullanılır. Atmosferin üst katmanında doğal olarak bulunan ozon (O3) dünyayı ultraviyole radyasyonundan korur.",
         "source":"Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 9,
@@ -79,10 +67,7 @@
         "description":"Periyodik tabloda 17. gruba (halojenler) dahil olan zehirli, soluk sarı renkte ve gaz halde bulunan bir elementtir. Kimyasal olarak en reaktif ve elektronegatif elementtir. Oldukça tehlikeli olup ciltle temas ettiği takdirde ciddi kimyasal yanıklara sebep olur. Flor, 1771’de Scheele tarafından bulunmuş ve ilk kez 1886’da Moissan tarafından izole edilmiştir.",
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 15,
@@ -96,10 +81,7 @@
         "description":"Periyodik tabloda 15. grupta bulunan ametal bir elementtir. Birçok allotrop formu mevcuttur. Canlı organizmalar için önemli bir elementtir. 1669’da Brandt tarafından keşfedilmiştir.",
         "usage":"Gübre ve deterjan üretiminde kullanılır. Belli bir miktarı havai fişek, emniyet kibriti ve ateşli silahlarlarda kullanılır. Aynı zamanda, hem kendisi hem de karanlıkta parlayan bileşikleri bazı alanlarda kullanılır.",
         "source":"Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 16,
@@ -113,10 +95,7 @@
         "description":"Periyodik tabloda 16. gruba ait sarı ve ametal bir elementtir. Aminoasit sisteininde ve metionininde, dolayısıyla birçok proteinde gerekli olduğu için canlı organizmalar için önemli bir elementtir. Bitkiler tarafından topraktan sülfat iyonu olarak emilir.",
         "usage":"Kibrit, barut, kauçuk, boya, tıbbi ve zirai ilaçların yapımında kullanılır. Aynı zamanda sülfirik asit (H2SO4) yapımında da yararlanılır.",
         "source":"Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 17,
@@ -130,10 +109,7 @@
         "description":"Halojen elementidir. Yeşilimsi sarı renkte, zehirli ve gaz haldedir. Deniz suyunda sodyum klorür olarak doğada bolca bulunur. Birçok element ve bileşik ile doğrudan tepkimeye giren güçlü bir oksitleyici maddedir. 1774 yılında Karl Scheele tarafından keşfedilmiştir. 1810’da da Humphrey David bir element olduğunu doğrulamıştır.",
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 34,
@@ -147,10 +123,7 @@
         "description":"Periyodik tablonun 16. grubunda bulunan bir yarı metal elementtir. Birden fazla allotrop hali mevcuttur. Kimyasal olarak sülfüre benzer. 1817'de Jons J. Berzelius tarafından bulunmuştur.",
         "usage":"Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
         "source":"Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 35,
@@ -164,10 +137,7 @@
         "description":"Halojen bir elementtir. Kırmızı renktedir ve oda sıcaklığında uçucu sıvı haldedir. Reaktifliği klor ve iyot arasındadır. Sıvı halde insan dokusuna zararlıdır, gaz halde de gözlerde ve boğazda tahriş yapar. 1823'de Antoine Balard tarafından keşfedilmiştir.",
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       },
       {
         "number": 53,
@@ -181,9 +151,6 @@
         "description":"Koyu mor, ametal, 17. gruba ait bir elementtir. Suda çözünmez. Canlı organizmalar eser element olarak ihtiyaç duyar. 14 radyoaktif izotopa ek olarak, I-127 olarak tek kararlı izotopu vardır. Kimyasal olarak halojenlerin en az reaktifi ve en elektropozitif halojendir. 1812'de Courtois tarafından keşfedilmiştir.",
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
-        "colors": [
-          4283657726,
-          4287535603
-        ]
+        "colors":12345
       }
 ]
