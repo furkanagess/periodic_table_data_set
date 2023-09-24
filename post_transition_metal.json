@@ -98,20 +98,6 @@
         "colors":12345
       },
       {
-        "number": 84,
-        "name": "Polonyum",
-        "symbol": "Po",  
-        "weight": "209",
-        "category": "Geçiş Sonrası Metal",
-        "block" :"P",
-        "period":"6",
-        "group":"16",
-        "description":"Periyodik tablonun 16. grubunda, nadir bulunan radyoaktif metal bir elementtir. Otuzdan fazla bilinen izotopu vardır ve bu bütün elementler arasında en yüksek olan izotop sayısıdır. Po-209'un 103 yıllık yarı ömrü vardır. Uzay aracı ısıtmasında kullanılabilir. ",
-        "usage":"Kağıt, kablo ve sac haddelemesi gibi işlemler sırasında ortaya çıkan statik elektriğin önlenmesi amacıyla üretilen endüstriyel ekipmanlarda kullanılır.",
-        "source":"Bizmutun bozunması sonrası uraninitte bulunur.",
-        "colors":12345
-      },
-      {
         "number": 114,
         "name": "Fleroviyum",
         "symbol": "Fl",  

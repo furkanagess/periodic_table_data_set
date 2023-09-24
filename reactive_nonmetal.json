@@ -55,20 +55,7 @@
         "source":"Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
         "colors":12345
       },
-      {
-        "number": 9,
-        "name": "Flor",
-        "symbol": "F",  
-        "weight": "18.99840316",
-        "category": "Reaktif Ametal",
-        "block" :"P",
-        "period":"2",
-        "group":"17",
-        "description":"Periyodik tabloda 17. gruba (halojenler) dahil olan zehirli, soluk sarı renkte ve gaz halde bulunan bir elementtir. Kimyasal olarak en reaktif ve elektronegatif elementtir. Oldukça tehlikeli olup ciltle temas ettiği takdirde ciddi kimyasal yanıklara sebep olur. Flor, 1771’de Scheele tarafından bulunmuş ve ilk kez 1886’da Moissan tarafından izole edilmiştir.",
-        "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
-        "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
-        "colors":12345
-      },
+
       {
         "number": 15,
         "name": "Fosfor",
@@ -97,20 +84,7 @@
         "source":"Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
         "colors":12345
       },
-      {
-        "number": 17,
-        "name": "Klor",
-        "symbol": "Cl",  
-        "weight": "35.45",
-        "category": "Reaktif Ametal",
-        "block" :"P",
-        "period":"3",
-        "group":"17",
-        "description":"Halojen elementidir. Yeşilimsi sarı renkte, zehirli ve gaz haldedir. Deniz suyunda sodyum klorür olarak doğada bolca bulunur. Birçok element ve bileşik ile doğrudan tepkimeye giren güçlü bir oksitleyici maddedir. 1774 yılında Karl Scheele tarafından keşfedilmiştir. 1810’da da Humphrey David bir element olduğunu doğrulamıştır.",
-        "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
-        "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
-        "colors":12345
-      },
+
       {
         "number": 34,
         "name": "Selenyum",
@@ -123,34 +97,6 @@
         "description":"Periyodik tablonun 16. grubunda bulunan bir yarı metal elementtir. Birden fazla allotrop hali mevcuttur. Kimyasal olarak sülfüre benzer. 1817'de Jons J. Berzelius tarafından bulunmuştur.",
         "usage":"Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
         "source":"Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
-        "colors":12345
-      },
-      {
-        "number": 35,
-        "name": "Brom",
-        "symbol": "Br",  
-        "weight": "79.904",
-        "category": "Reaktif Ametal",
-        "block" :"P",
-        "period":"4",
-        "group":"17",
-        "description":"Halojen bir elementtir. Kırmızı renktedir ve oda sıcaklığında uçucu sıvı haldedir. Reaktifliği klor ve iyot arasındadır. Sıvı halde insan dokusuna zararlıdır, gaz halde de gözlerde ve boğazda tahriş yapar. 1823'de Antoine Balard tarafından keşfedilmiştir.",
-        "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
-        "source":"Deniz suyunda bileşikler halinde bulunur.",
-        "colors":12345
-      },
-      {
-        "number": 53,
-        "name": "Iyot",
-        "symbol": "I",  
-        "weight": "126.904473",
-        "category": "Reaktif Ametal",
-        "block" :"P",
-        "period":"5",
-        "group":"17",
-        "description":"Koyu mor, ametal, 17. gruba ait bir elementtir. Suda çözünmez. Canlı organizmalar eser element olarak ihtiyaç duyar. 14 radyoaktif izotopa ek olarak, I-127 olarak tek kararlı izotopu vardır. Kimyasal olarak halojenlerin en az reaktifi ve en elektropozitif halojendir. 1812'de Courtois tarafından keşfedilmiştir.",
-        "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
-        "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
         "colors":12345
       }
 ]
