@@ -43,8 +43,8 @@
       },
       {
         "number": 92,
-        "name": "U",
-        "symbol": "Pa",  
+        "name": "Uranyum",
+        "symbol": "U",  
         "weight": "238.028913",
         "category": "Aktinit",
         "block" :"F",
@@ -72,7 +72,7 @@
       {
         "number": 94,
         "name": "Plütonyum",
-        "symbol": "Np",  
+        "symbol": "Pu",  
         "weight": "244",
         "category": "Aktinit",
         "block" :"F",
