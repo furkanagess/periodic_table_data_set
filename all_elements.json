@@ -25,7 +25,7 @@
         "description":"Renksiz, kokusuz, gaz halde bulunan bir ametal elementtir. Periyodik tabloda 18. gruba aittir. Bütün elementler arasında en düşük kaynama noktasına sahip olup sadece baskı uygulanırsa katılaştırılabilir. Kimyasal olarak atıldır ve bilinen bir bileşiği yoktur. 1868 yılında Lockyer tarafından güneş spektrumunda keşfedilmiştir.",
         "usage":"Balonlarda, derin dalışta ve kaynakçılıkta kullanılır. Aynı zamanda düşük sıcaklık gereken araştırmalarda kullanılır.",
         "source":"Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
-        "colors":"FFBEF1F6"
+        "colors":"BEF1F6"
       },
       {
         "number": 3,
@@ -39,7 +39,7 @@
         "description":"Gümüşümsü bir metaldir. Periyodik tabloda birinci grubun ilk üyesidir. Lityum tuzları psiko-tıpta kullanılır.",
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
-        "colors":"ffBEADFA"
+        "colors":"BEADFA"
       },
       {
         "number": 4,
@@ -53,7 +53,7 @@
         "description":"Periyodik tabloda ikinci grup üyesi bir gri metal elementtir. Zehirli olup ciddi düzeyde akciğer hastalıklarına ve dermatite yol açabilir. Yüksek derecede kovalent özelliği gösterir. 1828'de F. Wohler ve A.A. Bussy tarafından birbirlerinden bağımsız olarak izole etmiştir.",
         "usage":"Yüksek oranda ısı soğurabilmesi uzay aracı, roket, uçak vb. araçların üretiminde berilyumu kullanışlı bir malzeme kılmaktadır. Zümrütler, içlerinde bulunan az miktarda krom sayesinde yeşil renk alan beril kristalleridir.",
         "source":"Çoğunlukla beril [AlBe3(Si6O18)] ve krizoberil (Al2BeO4) gibi minerallerde bulunur. Saf berilyum, beril mineralinin kimyasal olarak indirgenmesiyle elde edilir. Berilyum klorürün elektroliziyle de elde edilebilir.",
-        "colors":"FFFFDBDB"
+        "colors":"FFDBDB"
       },
       {
         "number": 5,
