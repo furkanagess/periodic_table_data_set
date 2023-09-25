@@ -11,7 +11,7 @@
         "description":"Gümüşümsü bir metaldir. Periyodik tabloda birinci grubun ilk üyesidir. Lityum tuzları psiko-tıpta kullanılır.",
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       },
       {
         "number": 11,
@@ -25,7 +25,7 @@
         "description":"Periyodik tabloda birinci gruba mensup (alkali metaller) yumuşak gümüşümsü bir elementtir. Havada oksitlenip, suyla da şiddetli olarak tepkimeye giren bu element oldukça reaktiftir. Bu yüzden yağ altında tutulması gerekir. İlk kez 1807’de Humphrey Davy tarafından izole edilmiştir.",
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       },
       {
         "number": 19,
@@ -39,7 +39,7 @@
         "description":"Periyodik tabloda birinci gruba (alkali metaller) ait yumuşak gümüşümsü metal bir elementtir. Deniz suyu ve birçok mineralde doğal olarak bulunur. Kimyasal olarak oldukça reaktif olmakla birlikte davranış ve bileşiklerinde sodyuma benzer. 1807’de Sir Humphry Davy tarafından keşfedilmiştir.",
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       },
       {
         "number": 37,
@@ -53,7 +53,7 @@
         "description":"Yumuşak, gümüşümsü, metal bir elementtir. Periyodik tablonun birinci grubunda bulunur. Doğal olarak bulunan Rb-97 izotopu radyoaktiftir. Birinci gruptaki diğer elementlerin havada kendiliğinden ateş almak gibi benzer özelliklerine sahip olup son derece radyoaktiftir. ",
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       },
       {
         "number": 55,
@@ -67,7 +67,7 @@
         "description":"Yumuşak, gümüşümsü-beyaz, birinci gruba mensup metal bir elementtir. Oda sıcaklığında sıvı halde bulunan üç metalden biridir. Cs-133 doğal ve tek kararlı izotopudur. 15 radyoizotopu daha vardır. Sezyum, soğuk su ve buzla 157K sıcaklığın üzerinde patlayarak tepkimeye girer. Sezyum hidroksit bilinen en güçlü bazdır. ",
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       },
       {
         "number": 87,
@@ -81,6 +81,6 @@
         "description":"Periyodik tablonun birinci grubunda bulunan radyoaktif bir elementtir. Uranyum ve toryum cevherlerinde bulunur. Bilinen 22 izotopun hepsi radyoaktif olup, en kararlısı Fr-223'tür. 1939'da Marguerite Perey tarafından keşfedilerek varlığı doğrulanmıştır. ",
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
-        "colors":12345
+        "colors":"FFD7FFCE"
       }
 ]
