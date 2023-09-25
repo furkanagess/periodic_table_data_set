@@ -95,7 +95,7 @@
         "description":"Periyodik tabloda 15. grupta bulunan renksiz ve gaz halde bulunan bir elementtir. Atmosferin yaklaşık %78'ini oluşturur ve ekosistemin önemli bir parçasıdır. Endüstriyel amaçlarla kullanılan azot, sıvı havanın ayrımsal damıtılmasıyla elde edilir. Kimyasal olarak etkisiz olup sadece yüksek sıcaklıkta veya elektriksel boşalma sırasında tepkimeye girer. 1772'de D. Rutherford tarafından keşfedilmiştir.",
         "usage":"Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
         "source":"Ayrımsal damıtım ile sıvı havadan elde edilir.",
-        "colors":"7EAA92"
+        "colors":"F1F0E8"
       },
       {
         "number": 8,
@@ -123,7 +123,7 @@
         "description":"Periyodik tabloda 17. gruba (halojenler) dahil olan zehirli, soluk sarı renkte ve gaz halde bulunan bir elementtir. Kimyasal olarak en reaktif ve elektronegatif elementtir. Oldukça tehlikeli olup ciltle temas ettiği takdirde ciddi kimyasal yanıklara sebep olur. Flor, 1771’de Scheele tarafından bulunmuş ve ilk kez 1886’da Moissan tarafından izole edilmiştir.",
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
-        "colors":"2B2A4C"
+        "colors":"CBFFA9"
       },
       {
         "number": 10,
@@ -137,7 +137,7 @@
         "description":"Periyodik tabloda 18. grupta (soy gazlar) bulunan renksiz gaz şeklinde bir elementtir. Neon, atmosferde bulunur ve atmosfer hacminin %0.0018’ini oluşturur. Neon bazlı lambalarda ve deşarj tüplerinde kullanıldığında belirgin bir kırmızımsı parıltı saçar. Hemen hemen hiçbir bileşik oluşturmaz. Neon, 1898 yılında Sir William Ramsey ve M.W. Travers tarafından keşfedilmiştir.",
         "usage":"Ağırlıklı olarak ışıklandırma için kullanılır.",
         "source":"Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
-        "colors":"643843"
+        "colors":"FD8A8A"
       },
       {
         "number": 11,
