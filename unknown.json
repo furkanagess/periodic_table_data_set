@@ -11,7 +11,8 @@
         "description":"Yaklaşık beş milisaniyelik yarı ömrü vardır. Bu elementin elde edilişi füzyon tekniklerinin gerçekten yeni ağır çekirdekler yapmakta kullanılabileceğini göstermiştir. Batı Almanya'nın Darmstadt şehrinde bulunan Ağır İyon Araştırmaları Merkezi'nde bulunup elde edilmiştir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 110,
@@ -25,7 +26,8 @@
         "description":"Keşfedildiği Darmstad (Wihausen bölgesinde bulunan GSI Helmholtz Ağır İyon Araştırma Merkezi) şehrinin adı verilmiştir. Eka-platin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununnilyum (Uun) isimleriyle de bilinmektedir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 111,
@@ -39,7 +41,8 @@
         "description":"X ışınlarını bulan Wilhem Contrad Röntgen'in onuruna bu isim verilmiştir. Eka-altın ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen unununyum isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 113,
@@ -53,7 +56,8 @@
         "description":"Elementin keşfedildiği Japonya'nın Japonca karşılığının adı verilmiştir. Eka-talyum ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununtriyum (Uut) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 115,
@@ -67,7 +71,8 @@
         "description":"Elementin keşfedildiği Moskova Oblastı'nın adı verilmiştir. Eka-bizmut ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafınfan geçici olarak verilen ununpentiyum (Uup) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 116,
@@ -81,7 +86,8 @@
         "description":"Adını çiftlik sahini Robert Livermore'dan alan Livermore şehrinde bulunan ve elemetin keşfedilmesinde rol oynayan Lawrence Livermore Ulusal Laboratuvarı'nın onuruna bu isim verilmiştir. Ununheksiyum, geçici sistematik isim olarak kullanılmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 117,
@@ -95,7 +101,8 @@
         "description":"Kendi ismini Çeroki köyü Tanasi'den alan ve elementin sentezlenmesindeki adımlardan biri için önemli çalışmaların yapıldığı Tennesee eyaletinin adı verilmiştir. Eka-astatin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununseptiyum (Uus) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 118,
@@ -109,7 +116,8 @@
         "description":"Süper ağır elementlerin sentezlenmesi alanına en büyük katkı sağlayanlardan biri olan Yuri Oganessian'ın adından. Eka-randon ve geçici olarak Uluslararası Temel ve Uygulamalı Kimya Birliği tarafından ununoctium (Uuo) da denmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       },
       {
         "number": 119,
@@ -123,6 +131,7 @@
         "description":"Bilinmiyor",
         "usage":"Bilinmiyor",
         "source":"Bilinmiyor.",
-        "colors":"F1F0E8"
+        "colors":"F1F0E8",
+        "shColor":""
       } 
 ]

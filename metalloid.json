@@ -11,7 +11,8 @@
         "description":"Periyodik tabloda 13. grupta yer alan bir elementtir. İki allotropa sahiptir. Amorf bor kahverengi toz iken metalik bor siyahtır. Metal hali serttir (Mohs ölçeğinde 9.3) ve oda sıcaklığında kötü bir iletkendir. Doğada asla serbest olarak bulunmaz. Bor-10, nükleer reaktör kontrol çubukları ve zırhlarında kullanılır. 1808'de Sir Humprhy Davy, J.L. Gay-Lussac ve L.J. Thenard tarafından keşfedilmiştir.",
         "usage":"Jet ve roketlerde gereken ısıya dayanaklı alaşımlar yapmak için titanyum ve tungsten ile birlikte kullanılır.",
         "source":"Bir boraks türü olan kernitten elde edilir. Yüksek saflıktaki bor, erimiş potasyum floroborat ve potasyum klorürün elektrolizi ile üretilir.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 14,
@@ -25,7 +26,8 @@
         "description":"Periyodik tablonun 14. grubuna ait yarı metal bir elementtir. Ağırlık olarak %25.7’sini oluşturduğu yer kabuğunda en çok bulunan ikinci elementtir. Kimyasal olarak karbondan daha az reaktiftir. İlk kez 1787’de Lavoisier tarafından bulunmuş ve 1823’te Berzelius tarafından izole edilmiştir.",
         "usage":"Camlarda silisyum dioksit (SiO2) şeklinde kullanılır. Silisyum karbür, bilinen en sert maddelerden biridir ve cilada kullanılır. Kristal hali de yarı iletkenlerde kullanılır.",
         "source":"Kil, granit, kuartz (SiO2) ve kumun büyük bir kısmını oluşturur. Ticari üretimi kum (SiO2) ve karbonun 200 derece civarda sıcaklıkta tepkimesi ile yapılır.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 32,
@@ -39,7 +41,8 @@
         "description":"Parlak, sert ve yarı metal bir elementtir. Periyodik tablonun 14. grubunda bulunur. Pek çok sayıda organometalik bileşik oluşturur. 1871'de Mendeleyev tarafından öngörülmüş, 1866'da da Winkler tarafından bulunmuştur.",
         "usage":"Yaygın olarak yarı iletkenlerde kullanılır. Eser miktarda fosfor, arsenik, galyum ve antimon ile birlikte kullanıldığında iyi bir yarı iletken görevi görür.",
         "source":"Bakır, çinko ve kurşun arıtımından elde edilir.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 33,
@@ -53,7 +56,8 @@
         "description":"15. grupta bulunan bir yarı metal elementtir. Sarı, siyah ve gri olmak üzere üç allotropu vardır. Halojenlerle, yoğunlaştırılmış yükseltgen asitlerle ve sıcak alkalilerle tepkimeye girer. Albertus Magnus'un 1250 yılında elementi ilk izole eden kişi olduğu düşünülmektedir.",
         "usage":"Birçok bileşiği ölümcül derecede zehirlidir. Yabani ot ilacı ve fare zehri olarak kullanılır. Elektriği iletir. Yarı iletkenlerde kullanılır. Arsenit olarak bilinen bazı bileşikleri boya, duvar kağıdı ve seramik yapımında kullanılır.",
         "source":"Mispikelde (arsenopirit) bulunur.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 51,
@@ -67,7 +71,8 @@
         "description":"15. gruba mensup bir elementtir. Birden fazla allotropik oluşumu vardır. Antimonun kararlı hali mavi-beyaz bir metaldir. Sarı ve siyah antimon kararsız ametallerdir. Alev dayanıklılığında, seramiklerde, emayelerde ve kauçukta kullanılır. Oksitlenen asit ve halojenlerden etkilenir.",
         "usage":"Sertliklerini arttırmak için başka metallerle alaşımlanır. Birkaç yarı iletken türünün üretiminde, plastik ve kimyasallarda kullanılır. Reçetesiz satılan bazı tip soğuk algınlığı ve grip ilaçlarının üretiminde antimon bileşiklerinden yararlanır.",
         "source":"Stibnit  (Sb2S3) ve valentinitte (Sb2O3) bulunur.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 52,
@@ -81,7 +86,8 @@
         "description":"Gümüşümsü, 16. grup üyesi yarı-metal bir elementtir. Sekiz doğal, dokuz radyoaktif izotopu vardır.",
         "usage":"Bakır ve paslanmaz çelik ürünlerinin talaşlı imalat kalitesini geliştirmekte, cam ve seramik boyamasında kullanılır. Ayrıca termoelektrik cihazlarda bulunur. Bir miktarı, kauçuk endüstrisinde kullanılır ve fünye imalatında temel bir içerik maddesidir.",
         "source":"Bakır ve kurşun arıtımının yan ürünü olarak elde edilir.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       },
       {
         "number": 84,
@@ -95,6 +101,7 @@
         "description":"Periyodik tablonun 16. grubunda, nadir bulunan radyoaktif metal bir elementtir. Otuzdan fazla bilinen izotopu vardır ve bu bütün elementler arasında en yüksek olan izotop sayısıdır. Po-209'un 103 yıllık yarı ömrü vardır. Uzay aracı ısıtmasında kullanılabilir. ",
         "usage":"Kağıt, kablo ve sac haddelemesi gibi işlemler sırasında ortaya çıkan statik elektriğin önlenmesi amacıyla üretilen endüstriyel ekipmanlarda kullanılır.",
         "source":"Bizmutun bozunması sonrası uraninitte bulunur.",
-        "colors":"FFD9B7"
+        "colors":"FFD9B7",
+        "shColor":""
       }
 ]

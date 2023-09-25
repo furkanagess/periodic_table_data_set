@@ -11,7 +11,8 @@
     "description":"(Yunanca saklı olmak anlamında lathanein kelimesinden) Gümüşümsü, üçüncü gruba ait metal elementtir ve genellikle lantanitlerden bir tanesi olarak görülür. Bazı nadir toprak minerallerinde bulunur. 25 doğal izotopu vardır.  La-139 kararlıdır, La-138'in de 10^10'dan 10^15 yıla kadar yarı ömrü vardır. Diğer 23 izotopu radyoaktiftir. Kimyasal olarak lantanitlere benzer. Lantan, düşükten orta seviyeye kadar zehirlidir ve dikkatli kullanılmalıdır. 1839'da C.G. Mosander tarafından keşfedilmiştir. ",
     "usage":"Yüksek yoğunluklu, karbon ark lambalarının elektrotlarında kullanılır. Aynı zamanda kaliteli evropiyum metali üretiminde kullanılır. Cama ışığı kırıcı özellikler kazandırdığı için, pahalı kamera lenslerinde bulunur.",
     "source":"Monazit ve bastnezit minerallerinde nadir toprak elementleriyle beraber bulunur. Monazit kumu tipik olarak %25 lantan içerir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 58,
@@ -25,7 +26,8 @@
     "description":"Gümüşümsü, metal ve lantanitler arasında bulunan elementtir. Dört doğal izotopu ve 15 radyoaktif izotopu bulunmuştur. Bazı nadir toprak alaşımlarında bulunur. Oksitlenmiş hali cam sanayiinde kullanılır. 1803'te Martin H. Klaproth tarafınfan keşfedilmiştir.",
     "usage":"Yüksek yoğunluklu karbon lambalarında ve özel metallerde alaşımlama maddesi olarak; oksitleri, optik ve cam sanayinde; tuzları fotoğrafçılıkta ve tekstil sanayinde kullanılır.",
     "source":"En çok bulunan nadir toprak metalidir. Monazit kumu [Ce(PO4)] gibi birçok mineralde bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 59,
@@ -39,7 +41,8 @@
     "description":"Yumuşak, gümüşümsü ve lantanitler arasında bulunan metal bir elementtir. Tek doğal izotopu Pr-141'dir ve radyoaktif değildir. 14 radyoaktif izotopu yapay olarak elde edilmiştir. Nadir toprak alaşımlarında kullanılır. 1885'te C.A. von Welsbach tarafından keşfedilmiştir.",
     "usage":"Cam üfleme işlemi sırasındaki sarı ışığı süzdüğü için camcıların koruyucu gözlüklerindeki lenslerin yapımında neodimiyum ile beraber kullanılır. Magnezyum ile alaşımlandığında, hava araçlarının motorlarında kullanılan yüksek mukavemetli bir metal elde edilir. Misch metalinin %5'ini oluşturmaktadır",
     "source":"Neodimum ile aynı tuzlardan elde edilir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 60,
@@ -53,7 +56,8 @@
     "description":"Yumuşak, parlak, gümüşümsü metal bir elementtir. Lantanitler arasında bulunur. Yedi doğal izotopu vardır. Nd-144, 10^10-10^15 yıllık yarı ömürle bunlardan tek radyoaktif olanıdır. Altı yapay radyoizotopu üretilmiştir. ",
     "usage":"Lazerlerde yapay yakut yapımında kullanılır. Aynı zamanda seramikler, parlak mor cam, kızılötesi radyasyonu süzen özel camlarda ve praseodimiyum ile birlikte özel bir lensin üretiminde kullanılır. Çelik yapımında kullanılan Misch metalinin %18'ini oluşturmaktadır.",
     "source":"Monanit kumundan yapılmış halojenür tuzlarının elektrolizi ile elde edilir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 61,
@@ -67,7 +71,8 @@
     "description":"Yumuşak, gümüşümsü, metal bir elementtir. Lantanitler arasında yer alır. Tek doğal izotopu olan Pm-147 radyoaktif olup 252 yıllık yarı ömre sahiptir. 18 radyoizotopu üretilmiştir ancak hepsinin kısa yarı ömrü vardır. Sadece nükleer bozunma atıklarında bulundur. ",
     "usage":"Kalınlık ölçerlerde radyoaktiflik kaynağı olarak kullanılmaktadır.",
     "source":"Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 62,
@@ -81,7 +86,8 @@
     "description":"Yumuşak, gümüşümsü metal bir elementtir. Lantanitler arasında yer alır. Yedi doğal izotopu vardır. Sm-147 tek radyoizotoptur ve 2.5*10^11 yıllık yarı ömrü vardır. Nükleer reaktör üretiminde gerekli olan özel alaşımların yapımında kullanılır. Nötron soğurucu olarak da kullanılır. Samaryum oksidin eser miktarları özel optik gözlüklerde kullanılır. Elementin en kapsamlı kullanımı, diğer malzemelerden üretilen mıknatıslardan beş kat daha güçlü olan sürekli mıknatısların üretiminde kullanılan ferromanyetik alaşımlarıdır. 1879'da Francois Lecoq de Boisbaudran tarafından keşfedilmiştir. ",
     "usage":"Elektronik ve seramik sanayilerinde kullanılır. Kolayca manyetize edilir ve sonradan demanyetize edilmesi oldukça zordur. Bu özelliği gelecekte katıhal ve süper iletken teknolojileri için önemli uygulama alanlarında yer alacağına işaret etmektedir.",
     "source":"Diğer nadir toprak elementleriyle monazit kumunda bulunur. Bu kum ağırlık olarak %50 nadir toprak elementerinden, %2.8 samaryumdan oluşur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 63,
@@ -95,7 +101,8 @@
     "description":"Lantanitler grubunda bulunan yumuşak, gümüşümsü metal bir elementtir. Her ikisi de nötron soğurucusu olan Eu-151 ve Eu-153 tek kararlı izotoplarıdır. 1889'da Sir William Crookes taafından keşfedilmiştir. ",
     "usage":"Renkli televizyonlar için itriyum oksit ile kırmızı fosfor yapımı için kullanılır.",
     "source":"Kalsiyum, toryum, seryum ve diğer birçok nadir toprak elementinin fosfat karışımı olan monazit kumundan elde edilir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 64,
@@ -109,7 +116,8 @@
     "description":"Yumuşak, gümüşümsü, lantanitler arasında bulunan metal elementtir. 11 yapay izotopa ek olarak bilinen yedi doğal ve kararlı izotopu vardır. Gd-155 ve Gd-157 bütün elementler arasında en iyi nötron soğuruculardır. Gadolinyum bileşikleri elektronikte kullanılır. 1880'de J.C.G Marignac tarafından keşfedilmiştir.",
     "usage":"Çelik alaşımlama maddelerinde ve elektronik bileşenlerinin üretiminde kullanılır.",
     "source":"Gadolinit ve monazit kumunda diğer nadir toprak elementleriyle bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 65,
@@ -123,7 +131,8 @@
     "description":"Gümüşümsü, lantanitler arasında bulunan metal elementtir. Tb-159 tek kararlı izotopudur. 17 tane de yapay izotopu vardır. G.G. Mosander tarafından 1843'te keşfedilmiştir.",
     "usage":"Özel lazerlerde ve katıhal cihazlarında ufak miktarlarda kullanılır.",
     "source":"Diğer toprak elementleriyle birlikte %0.03 oranında terbiyum içeren monazit kumunda bulunur. Her ikisi de %1'e kadar terbiyum içeren oksit karışımı olan ksenotim ve öksenitten de elde edilebilmektedir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 66,
@@ -137,7 +146,8 @@
     "description":"Gümüşümsü-beyaz bir parlaklığa sahip metal bir elementtir. Disprozyum lantanitler arasındadır. Oda sıcaklıklarındaki havada nispeten kararlıdır. Ancak, hidrojeni dönüştürerek mineral asitlerde çözünür. ",
     "usage":"Kullanımı deneysel ve ezoterik amaçlarla sınırlıdır.",
     "source":"Genellikle erbiyum, holmiyum ve diğer nadir toprak elementleriyle birlikte ağırlık olarak %50'si bu elementlerden oluşan monazit kumu gibi bazı minerallerde bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 67,
@@ -151,7 +161,8 @@
     "description":"Nispeten yumuşak ve dövülebilir bir gümüşümsü-beyaz metaldir. Oda sıcaklığındaki kuru havada kararlıdır. Nemli havada ve yüksek sıcaklıklarda oksitlenir. Lantanit serisindedir. ",
     "usage":"Çok az pratik kullanımı vardır. Ancak gelecek için umut vaadeden olağanüstü manyetik özelliklere sahiptir.",
     "source":"Gadolinitte bulunur. En çok, %50'si nadir toprak elementi ve %0.05'i tipik olarak holmiyumdan oluşan monazitte bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 68,
@@ -165,7 +176,8 @@
     "description":"Lantanitler serisine ait olan yumuşak gümüşümsü metal bir elementtir. Kararlı olan altı doğal izotopu ve bilinen 12 yapay izotopu vardır. Nükleer teknolojide nötron soğurucu olarak kullanılır.",
     "usage":"Erbiyum oksit, seramiklerde pembe sır elde etmek için kullanılır. Ayrıca, nükleer sanayide birkaç kullanım alanıyla birlikte diğer egzotik metaller için alaşımlama maddesi olarak da değerlendilir. Örnek vermek gerekirse, vanadyumun şekil verilebilirliğini arttırır.",
     "source":"Daha ağır nadir toprak metallerinden ksenotim ve öksenit ile birlikte bulunur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 69,
@@ -179,7 +191,8 @@
     "description":"Lantanitler arasında bulunan yumuşak gri metal bir elementtir. Bir doğal izotopu (Tm-169) vardır ve 16 yapay izotopu üretilmiştir. Bilinen bir kullanımı yoktur. 1879'da Per Theodor Cleve tarafından keşfedilmiştir.",
     "usage":"Radyoaktif tulyum, taşınabilir röntgen cihazlarının çalıştırılması için kullanılır. Bu sayede elektrik ekipmanı kullanımına gerek kalmaz.",
     "source":"Gadolinit, öksenit, ksenotim ve monanit minerallerinde diğer toprak elementleriyle birlikte bulunur. Ağırlık olarak monazit, genellikle %50 nadir toprak elementi ve %0.007 tulyumdan oluşur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 70,
@@ -193,7 +206,8 @@
     "description":"Gümüşümsü, lantanit metal bir elementtir. Bilinen yedi doğal ve on yapay izotopu vardır. Bazı çeliklerde kullanılır. 1878'de J.D.G. Marignac tarafından bulunmuştur.",
     "usage":"Metalurjik ve kimyasal deneylerde kullanılır.",
     "source":"İtriya, monazit, gadolinit ve ksenotim gibi minerallerde bulunur. Monazitin %50'si ağırlık olarak nadir toprak element, %0.03'ü de tipik olarak iterbiyumdan oluşur.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   },
   {
     "number": 71,
@@ -207,6 +221,7 @@
     "description":"Havada nispeten kararlı olan gümüşümsü-beyaz bir nadir toprak metalidir. En pahalı nadir toprak metali olup hemen hemen hepsiyle birlikte bulunur, ancak öbür elementlerden izole edilmesi zordur.",
     "usage":"Kullanım alanı yoktur.",
     "source":"Gadolinit ve ksenotimde iterbuyumla beraber bulunur. Ağırlık olarak %50'si genellikle nadir toprak elementi ve %0.003'ü lütesyum olan monazit kumundan elde edilir.",
-    "colors":"9ED2BE"
+    "colors":"9ED2BE",
+    "shColor":""
   }
 ]

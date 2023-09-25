@@ -11,7 +11,8 @@
     "description":"Renksiz, kokusuz, gaz halde bulunan bir ametal elementtir. Periyodik tabloda 18. gruba aittir. Bütün elementler arasında en düşük kaynama noktasına sahip olup sadece baskı uygulanırsa katılaştırılabilir. Kimyasal olarak atıldır ve bilinen bir bileşiği yoktur. 1868 yılında Lockyer tarafından güneş spektrumunda keşfedilmiştir.",
     "usage":"Balonlarda, derin dalışta ve kaynakçılıkta kullanılır. Aynı zamanda düşük sıcaklık gereken araştırmalarda kullanılır.",
     "source":"Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
-    "colors":"CBFFA9"
+    "colors":"CBFFA9",
+    "shColor":""
   },
       {
         "number": 10,
@@ -25,7 +26,8 @@
         "description":"Periyodik tabloda 18. grupta (soy gazlar) bulunan renksiz gaz şeklinde bir elementtir. Neon, atmosferde bulunur ve atmosfer hacminin %0.0018’ini oluşturur. Neon bazlı lambalarda ve deşarj tüplerinde kullanıldığında belirgin bir kırmızımsı parıltı saçar. Hemen hemen hiçbir bileşik oluşturmaz. Neon, 1898 yılında Sir William Ramsey ve M.W. Travers tarafından keşfedilmiştir.",
         "usage":"Ağırlıklı olarak ışıklandırma için kullanılır.",
         "source":"Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
-        "colors":"CBFFA9"
+        "colors":"CBFFA9",
+        "shColor":""
       },
       {
         "number": 18,
@@ -39,7 +41,8 @@
         "description":"Tek atomlu bir soygazdır. Havanın %0.93’ünü oluşturur. Renksiz ve kokusuzdur. Atıldır ve gerçek bileşiği yoktur. Lord Rayleigh ve Sir William Ramsey, 1894’te bulmuştur",
         "usage":"Aydınlatma ürünlerinde kullanılır. Akkor ampullerin dolgusunda sıkça yararlanılan bir elementtir. Belli bir miktarı florösan lambalarda kripton ile karıştırılır. Yari iletken sanayiindeki kristaller argon atmosferlerinde elde edilir.",
         "source":"Radyoaktif potasyum-40'ın bozunması ile devamlı olarak havaya salınır. Saf hali, sıvı havanın ayrımsal damıtımı ile elde edilir.",
-        "colors":"CBFFA9"
+        "colors":"CBFFA9",
+        "shColor":""
       },
       {
         "number": 36,
@@ -53,7 +56,8 @@
         "description":"Renksiz ve gaz halde bir elementtir. Soygazlar sınıfının bir üyesidir. %0.0001 hacimle havada bulunur. Ayrımsal damıtma yardımı ile sıvı havadan özütlenebilir. Genel olarak izole edilmez ancak floresan lambalarda diğer atıl gazlarla beraber kullanılır. Beş doğal ve beş radyoaktif izotopu bulunur.",
         "usage":"Aydınlatma ürünlerinde kullanılır. Bir miktarı akkorlu lambalarda atıl gaz olarak kullanılır. Bir miktarı da floresan lambalarda argon ile karıştırılır. En önemli kullanım alanı, havaalanı pistlerinin aydınlatılmasında kullanılan stroboskopik lambalardır.",
         "source":"Atmosferin milyonda birinde bulunur. Sıvı hava üretiminden elde edilir.",
-        "colors":"CBFFA9"
+        "colors":"CBFFA9",
+        "shColor":""
       },
       {
         "number": 54,
@@ -67,7 +71,8 @@
         "description":"Periyodik tablonun 18. grubunda (soygazlar) bulunan renksiz ve kokusuz bir gazdır. Bilinen dokuz doğal izotopu ve yedi radyoaktif izotopu vardır. Ksenon, sentezlenen ilk soygaz bileşiğinin bir parçasıydı. O zamandan beri ksenonun yer aldığı başka birçoğu da bulundu. 1898'de Ramsey ve Travers tarafından keşfedildi.",
         "usage":"El feneri ve diğer güçlü lambalarda dolgu maddesi olarak kullanılır. Ksenonun elektriksel uyarımı, parlak bir beyaz ışık huzmesi oluşturur. Aynı zamanda kabarcık odalarında ve modern nükleer enerji reaktörlerinde kullanılır.",
         "source":"Sıvı havadan az miktarlarda elde edilir.",
-        "colors":"CBFFA9"
+        "colors":"CBFFA9",
+        "shColor":""
       },
       {
         "number": 86,
@@ -81,6 +86,7 @@
         "description":"Renksiz, radyoaktif, gaz şeklinde ve soygaz sınıfındadır. Bilinen 20 izotopu arasında en kararlısı 3.8 günlük yarı ömür ile Rn-222'dir. Radyum-226'nın radyoaktif bozunmasıyla oluşur. Radonun kendisi polonyuma bozunur. Radyoterapide kullanılır. Her ne kadar kendisi ile radon flörür bileşiği sentezlenmiş olsa da soygaz olarak atıldır. ",
         "usage":"Bazı kanser türlerinin tedavisinde kullanılır.",
         "source":"Dünyanının yüzeyindeki radyumun bozunması sonucu oluşur.",
-        "colors":"CBFFA9"
+        "colors":"CBFFA9",
+        "shColor":""
       }
 ]
