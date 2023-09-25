@@ -11,7 +11,7 @@
         "description":"Renksiz, kokusuz, gaz halde bulunan bir kimyasal elementtir. Aynı zamanda evrende en çok bulunan ve en hafif elementtir. Suda ve bütün organik bileşiklerde bulunur. Kimyasal olarak birçok element ile tepkimeye girer. 1776da Henry Cavendish tarafından keşfedilmiştir.",
         "usage":"Yüksek miktarlarda hidrojen amonyak üretiminde kullanılır. Aynı zamanda balonlarda, metal arıtımında ve roketlerde yakıt olarak kullanılır. En ağır iki izotopu döteryum (D) ve trityum (T) sırasıyla nükler fisyon ve füzyon için kullanılır.",
         "source":"Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
-        "colors":"FBF0B2"
+        "colors":"FD8A8A"
       },
       {
         "number": 2,
@@ -25,7 +25,7 @@
         "description":"Renksiz, kokusuz, gaz halde bulunan bir ametal elementtir. Periyodik tabloda 18. gruba aittir. Bütün elementler arasında en düşük kaynama noktasına sahip olup sadece baskı uygulanırsa katılaştırılabilir. Kimyasal olarak atıldır ve bilinen bir bileşiği yoktur. 1868 yılında Lockyer tarafından güneş spektrumunda keşfedilmiştir.",
         "usage":"Balonlarda, derin dalışta ve kaynakçılıkta kullanılır. Aynı zamanda düşük sıcaklık gereken araştırmalarda kullanılır.",
         "source":"Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
-        "colors":"FFC7EA"
+        "colors":"CBFFA9"
       },
       {
         "number": 3,
@@ -39,7 +39,7 @@
         "description":"Gümüşümsü bir metaldir. Periyodik tabloda birinci grubun ilk üyesidir. Lityum tuzları psiko-tıpta kullanılır.",
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
-        "colors":"D8B4F8"
+        "colors":"CAEDFF"
       },
       {
         "number": 4,
@@ -53,7 +53,7 @@
         "description":"Periyodik tabloda ikinci grup üyesi bir gri metal elementtir. Zehirli olup ciddi düzeyde akciğer hastalıklarına ve dermatite yol açabilir. Yüksek derecede kovalent özelliği gösterir. 1828'de F. Wohler ve A.A. Bussy tarafından birbirlerinden bağımsız olarak izole etmiştir.",
         "usage":"Yüksek oranda ısı soğurabilmesi uzay aracı, roket, uçak vb. araçların üretiminde berilyumu kullanışlı bir malzeme kılmaktadır. Zümrütler, içlerinde bulunan az miktarda krom sayesinde yeşil renk alan beril kristalleridir.",
         "source":"Çoğunlukla beril [AlBe3(Si6O18)] ve krizoberil (Al2BeO4) gibi minerallerde bulunur. Saf berilyum, beril mineralinin kimyasal olarak indirgenmesiyle elde edilir. Berilyum klorürün elektroliziyle de elde edilebilir.",
-        "colors":"CAEDFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 5,
@@ -67,7 +67,7 @@
         "description":"Periyodik tabloda 13. grupta yer alan bir elementtir. İki allotropa sahiptir. Amorf bor kahverengi toz iken metalik bor siyahtır. Metal hali serttir (Mohs ölçeğinde 9.3) ve oda sıcaklığında kötü bir iletkendir. Doğada asla serbest olarak bulunmaz. Bor-10, nükleer reaktör kontrol çubukları ve zırhlarında kullanılır. 1808'de Sir Humprhy Davy, J.L. Gay-Lussac ve L.J. Thenard tarafından keşfedilmiştir.",
         "usage":"Jet ve roketlerde gereken ısıya dayanaklı alaşımlar yapmak için titanyum ve tungsten ile birlikte kullanılır.",
         "source":"Bir boraks türü olan kernitten elde edilir. Yüksek saflıktaki bor, erimiş potasyum floroborat ve potasyum klorürün elektrolizi ile üretilir.",
-        "colors":"C8E4B2"
+        "colors":"FFD9B7"
       },
       {
         "number": 6,
@@ -81,7 +81,7 @@
         "description":"Karbon, periyodik tabloda 14. grupta yer alan elementtir. Elmas, grafit ve fulerit olmak üzere üç allotropu vardır. Karbon-14 yaygın olarak radyoaktif tarihlendirmede kullanılır. Karbon, organik hayatın tümünde bulunur ve organik kimyanın temelidir. Kendisiyle ve başka birçok element ile bağlanma gibi ilginç bir kimyasal özelliği bulunmaktadır.",
         "usage":"Çelik üretimi, filtreler ve daha pek çok alanda kullanılır. Radyokarbon tarihlendirmesi, eski nesneleri karbon-14 izotopu ile tarihlendirir.",
         "source":"Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
-        "colors":"9ED2BE"
+        "colors":"FD8A8A"
       },
       {
         "number": 7,
@@ -95,7 +95,7 @@
         "description":"Periyodik tabloda 15. grupta bulunan renksiz ve gaz halde bulunan bir elementtir. Atmosferin yaklaşık %78'ini oluşturur ve ekosistemin önemli bir parçasıdır. Endüstriyel amaçlarla kullanılan azot, sıvı havanın ayrımsal damıtılmasıyla elde edilir. Kimyasal olarak etkisiz olup sadece yüksek sıcaklıkta veya elektriksel boşalma sırasında tepkimeye girer. 1772'de D. Rutherford tarafından keşfedilmiştir.",
         "usage":"Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
         "source":"Ayrımsal damıtım ile sıvı havadan elde edilir.",
-        "colors":"F1F0E8"
+        "colors":"FD8A8A"
       },
       {
         "number": 8,
@@ -109,7 +109,7 @@
         "description":"Periyodik tabloda 16. grupta yer alan renksiz ve kokusuz olup gaz halde bulunan bir elementtir. Yerkabuğunda en çok bulunan element de olmasının yanında aynı zamanda atmosferin %20.8’ini oluşturur. Endüstriyel amaçlar için kullanıldığında, ayrımsal damıtma ile sıvı havadan ayrılır. Yüksek sıcaklık kaynaklamasında ve nefeslendirmede kullanılır. Yaygın halinde oksijen şeklindedir, ancak atmosferin üst tabakasında ozon olarak bulunur. 1774’te Priestley tarafından keşfedilmiştir.",
         "usage":"Çelik yapımında, kaynakçılıkta ve yaşam desteğinde kullanılır. Atmosferin üst katmanında doğal olarak bulunan ozon (O3) dünyayı ultraviyole radyasyonundan korur.",
         "source":"Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
-        "colors":"FFD9B7"
+        "colors":"FD8A8A"
       },
       {
         "number": 9,
@@ -123,7 +123,7 @@
         "description":"Periyodik tabloda 17. gruba (halojenler) dahil olan zehirli, soluk sarı renkte ve gaz halde bulunan bir elementtir. Kimyasal olarak en reaktif ve elektronegatif elementtir. Oldukça tehlikeli olup ciltle temas ettiği takdirde ciddi kimyasal yanıklara sebep olur. Flor, 1771’de Scheele tarafından bulunmuş ve ilk kez 1886’da Moissan tarafından izole edilmiştir.",
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
-        "colors":"CBFFA9"
+        "colors":"C8E4B2"
       },
       {
         "number": 10,
@@ -137,7 +137,7 @@
         "description":"Periyodik tabloda 18. grupta (soy gazlar) bulunan renksiz gaz şeklinde bir elementtir. Neon, atmosferde bulunur ve atmosfer hacminin %0.0018’ini oluşturur. Neon bazlı lambalarda ve deşarj tüplerinde kullanıldığında belirgin bir kırmızımsı parıltı saçar. Hemen hemen hiçbir bileşik oluşturmaz. Neon, 1898 yılında Sir William Ramsey ve M.W. Travers tarafından keşfedilmiştir.",
         "usage":"Ağırlıklı olarak ışıklandırma için kullanılır.",
         "source":"Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
-        "colors":"FD8A8A"
+        "colors":"CBFFA9"
       },
       {
         "number": 11,
@@ -151,7 +151,7 @@
         "description":"Periyodik tabloda birinci gruba mensup (alkali metaller) yumuşak gümüşümsü bir elementtir. Havada oksitlenip, suyla da şiddetli olarak tepkimeye giren bu element oldukça reaktiftir. Bu yüzden yağ altında tutulması gerekir. İlk kez 1807’de Humphrey Davy tarafından izole edilmiştir.",
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
-        "colors":"82A0D8"
+        "colors":"CAEDFF"
       },
       {
         "number": 12,
@@ -165,7 +165,7 @@
         "description":"Periyodik tablonun ikinci grubuna (toprak alkali metaller) ait gümüşümsü metal elementtir. Canlı organizmalar için çok önemlidir ve birçok hafif alaşımda kullanılır. Kimyasal olarak oldukça reaktif olup havaya maruz kaldığında ve yoğun bir beyaz alevle yandığında dış yüzeyinde koruyucu bir oksit kaplama oluşur. Aynı zamanda kükürt, azot ve halojenlerle tepkimeye girer. İlk kez 1828’de Bussy tarafından izole edilmiştir.",
         "usage":"Uçak ve roket yapımında gereken alaşımlarda kullanılır. Alüminyuma benzer yapısal özellikleri vardır. Ancak benzinin yanma sıcaklığında ateş almasından ötürü kullanım alanları kısıtlıdır.",
         "source":"Deniz suyunda bulunan erimiş magnezyum klorürün elektrolizi ile elde edilir. Her bir milküp denizsuyu 5443 kg magnezyum içerir.",
-        "colors":"D0BFFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 13,
@@ -179,7 +179,7 @@
         "description":"Periyodik tablonun üçüncü grubunda bulunan gümüşümsü beyaz, parlak, metal bir elementtir. Oldukça reaktiftir fakat tepkimeye girdiğinde havada hızlı bir şekilde oluşan saydam ve ince bir oksit katmanı ile korunur. Alüminyumun birçok endüstriyel kullanımının yanı sıra  pek çok alaşımı mevcuttur. Ağırlık olarak Dünya'nın yer kabuğunun %8.1’ini oluşturur. 1825’de H.C. Oersted tarafından izole edilmiştir.",
         "usage":"Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
         "source":"Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },
       {
         "number": 14,
@@ -193,7 +193,7 @@
         "description":"Periyodik tablonun 14. grubuna ait yarı metal bir elementtir. Ağırlık olarak %25.7’sini oluşturduğu yer kabuğunda en çok bulunan ikinci elementtir. Kimyasal olarak karbondan daha az reaktiftir. İlk kez 1787’de Lavoisier tarafından bulunmuş ve 1823’te Berzelius tarafından izole edilmiştir.",
         "usage":"Camlarda silisyum dioksit (SiO2) şeklinde kullanılır. Silisyum karbür, bilinen en sert maddelerden biridir ve cilada kullanılır. Kristal hali de yarı iletkenlerde kullanılır.",
         "source":"Kil, granit, kuartz (SiO2) ve kumun büyük bir kısmını oluşturur. Ticari üretimi kum (SiO2) ve karbonun 200 derece civarda sıcaklıkta tepkimesi ile yapılır.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 15,
@@ -207,7 +207,7 @@
         "description":"Periyodik tabloda 15. grupta bulunan ametal bir elementtir. Birçok allotrop formu mevcuttur. Canlı organizmalar için önemli bir elementtir. 1669’da Brandt tarafından keşfedilmiştir.",
         "usage":"Gübre ve deterjan üretiminde kullanılır. Belli bir miktarı havai fişek, emniyet kibriti ve ateşli silahlarlarda kullanılır. Aynı zamanda, hem kendisi hem de karanlıkta parlayan bileşikleri bazı alanlarda kullanılır.",
         "source":"Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"FD8A8A"
       },
       
       {
@@ -222,7 +222,7 @@
         "description":"Periyodik tabloda 16. gruba ait sarı ve ametal bir elementtir. Aminoasit sisteininde ve metionininde, dolayısıyla birçok proteinde gerekli olduğu için canlı organizmalar için önemli bir elementtir. Bitkiler tarafından topraktan sülfat iyonu olarak emilir.",
         "usage":"Kibrit, barut, kauçuk, boya, tıbbi ve zirai ilaçların yapımında kullanılır. Aynı zamanda sülfirik asit (H2SO4) yapımında da yararlanılır.",
         "source":"Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"FD8A8A"
       },
       {
         "number": 17,
@@ -236,7 +236,7 @@
         "description":"Halojen elementidir. Yeşilimsi sarı renkte, zehirli ve gaz haldedir. Deniz suyunda sodyum klorür olarak doğada bolca bulunur. Birçok element ve bileşik ile doğrudan tepkimeye giren güçlü bir oksitleyici maddedir. 1774 yılında Karl Scheele tarafından keşfedilmiştir. 1810’da da Humphrey David bir element olduğunu doğrulamıştır.",
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"C8E4B2"
       },
       {
         "number": 18,
@@ -250,7 +250,7 @@
         "description":"Tek atomlu bir soygazdır. Havanın %0.93’ünü oluşturur. Renksiz ve kokusuzdur. Atıldır ve gerçek bileşiği yoktur. Lord Rayleigh ve Sir William Ramsey, 1894’te bulmuştur",
         "usage":"Aydınlatma ürünlerinde kullanılır. Akkor ampullerin dolgusunda sıkça yararlanılan bir elementtir. Belli bir miktarı florösan lambalarda kripton ile karıştırılır. Yari iletken sanayiindeki kristaller argon atmosferlerinde elde edilir.",
         "source":"Radyoaktif potasyum-40'ın bozunması ile devamlı olarak havaya salınır. Saf hali, sıvı havanın ayrımsal damıtımı ile elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"CBFFA9"
       },
       {
         "number": 19,
@@ -264,7 +264,7 @@
         "description":"Periyodik tabloda birinci gruba (alkali metaller) ait yumuşak gümüşümsü metal bir elementtir. Deniz suyu ve birçok mineralde doğal olarak bulunur. Kimyasal olarak oldukça reaktif olmakla birlikte davranış ve bileşiklerinde sodyuma benzer. 1807’de Sir Humphry Davy tarafından keşfedilmiştir.",
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
-        "colors":"D7FFCE"
+        "colors":"CAEDFF"
       },
       {
         "number": 20,
@@ -278,7 +278,7 @@
         "description":"Periyodik tablonun ikinci grubuna ait yumuşak gri bir metal elementtir. Toryum, zirkonyum ve uranyumun özütlemesinde indirgeyici madde olarak kullanılır. Canlı organizmalar için önemlidir.",
         "usage":"Birçok yaşam formu tarafından kabuk ve kemik geliştirmek için kullanılır. Saf metal halinin neredeyse hiçbir kullanımı yoktur, ancak birçok sanayi alanında kalsiyum bileşiklerinden kireç (CaO) ve alçıtaşına (CaSO4) son derece yüksek talep olur.",
         "source":"Tebeşir, kireç taşı ve mermer gibi minerallerden elde edilir. Saf metal hali, düşük basınçtaki sıcak imbiklerde bulunan kireçteki (kalsiyum karbona, CaCO3) kalsiyumunun alüminyum ile değiştirilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 21,
@@ -292,7 +292,7 @@
         "description":"Periyodik tabloda üçüncü gruba ait olan ve nadir bulunan yumuşak gümüşümsü metal elementtir. Dokuzunun radyoaktif ve kısa yarı ömüre sahip olmasıyla birlikte on izotopu vardır. 1869’da Mendeleyev tarafından öngörülmüş, 1879’da da Nilson tarafından izole edilmiştir.",
         "usage":"Skandiyum metali havacılıkta, skandiyum oksit (Sc2O3) yüksek yoğunluklu elektrik lambalarının üretiminde ve skandiyum iyodür (ScI3) de güneş ışığına oldukça yakın tonda bir ışık veren lambaların yapımında kullanılır.",
         "source":"Çoğunlukla tortveitit (yaklaşık %34 oranında skandiyum içerir) ve wiikit minerallerinde rastlanır. Ayrıca, kalay ve tungsten cevherlerinde de bulunur. Saf skandiyum, uranyum arıtımının yan ürünü olarak elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 22,
@@ -306,7 +306,7 @@
         "description":"Beyaz renkte geçiş metalidir. Birçok mineralde rastlanır. Aşınmaya dayanıklı, güçlü ve hafif alaşımlarda kullanılır. Havaya maruz kaldığında dış yüzünde pasif bir oksit kaplama oluşturur. İlk kez Gregor tarafından 1789’da keşfedilmiştir.",
         "usage":"Skandiyum metali havacılıkta, skandiyum oksit (Sc2O3) yüksek yoğunluklu elektrik lambalarının üretiminde ve skandiyum iyodür (ScI3) de güneş ışığına oldukça yakın tonda bir ışık veren lambaların yapımında kullanılır.",
         "source":"Kimyasal olarak güçlü ve asitlere dayanıklı olduğu için birçok alaşımda kullanılır. Yüzeyleri çok iyi kaplayan beyaz pigment olan titanyum dioksit (TiO2) boyalarda, kauçukta, kağıtlarda ve başka birçok malzemede kullanılır.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 23,
@@ -320,7 +320,7 @@
         "description":"Yumuşak ve sünek parlak beyaz bir metaldir. Alkali, sülfirik ve hidroklorik asit aşınmasına karşı iyi bir dirence sahiptir. 933K gibi bir sıcaklıkta hemen oksitlenir. Vanadyumun iki tane doğal olarak bulunan izotopu ve beş radyoizotopu vardır. ",
         "usage":"Daha güçlü ve dayanıklı alaşımlar yapmak için başka metallerle birlikte kullanılır. Vanadyum pentoksit (V2O5) katalizör, boya ve renk sabitleyici olarak kullanılır.",
         "source":"Patronit (VS4), vanadinit [Pb5(VO4)3Cl] ve karnotit [K2(UO2)2(VO4)2.3H2O] minerallerinde bulunur. Saf metal hali, vanadyum triklorür (VCl3) elde etmek üzere karbon (C) ve klor (CI2) ile ısıtılır. Sonrasında da elde edilen bileşik argon atmosferinde magnezyum ile ısıtılarak saf hali elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 24,
@@ -334,7 +334,7 @@
         "description":"Sert gümüşümsü bir geçiş elementidir. Dekor amaçlı yapılan elektro-kaplamada kullanılır. 1797’de Vauquelin tarafından keşfedilmiştir. ",
         "usage":"Paslanmaz çelik yapımında kullanılır. Zümrüt ve yakutlara renk verir. Muhtelif orandaki demir-nikel-krom alaşımları, modern teknolojideki en önemli metallerin inanılmaz bir çeşitliliğini sağlar.",
         "source":"Kromit [Fe,Mg(CrO4)], en önemli mineralidir. Cevherinin, silikon ve alüminyumlu ortamda ısıtılmasıyla ticari üretimi yapılır.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 25,
@@ -348,7 +348,7 @@
         "description":"Gri ve gevrek bir geçiş metalidir. Son derece elektropozitif olup ısıtıldığında ametallerle birleşebilir. 1774’te Scheele tarafından keşfedilmiştir. ",
         "usage":"Çelik, bataryalar ve seramikte kullanılır. Demiryolu raylarındaki çelik %1.2 kadar manganez içerebilir. B1 vitamininin etkili olması için oldukça gereklidir.",
         "source":"En çok bulunan cevherleri pirolüsit (MnO2), psilomelan [(Ba,H2O)2Mn5O10] ve rodokrosittir (MnCO3). Saf metal hali, manganez dioksitin (MnO2), toz halindeki alüminyum ile karıştırıp bir fırında ateşlenmesi ile elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 26,
@@ -362,7 +362,7 @@
         "description":"Dövülebilir, sünek ve gümüşümsü bir geçiş metalidir. Dokuz izotopu vardır ve yer kabuğunda en çok bulunan dördüncü elementtir. Eser element olarak canlı organizmalarca (insanlarda hemoglobinde bulunur) ihtiyaç duyulur. Oldukça reaktiftir, nemli havada oksitlenir, seyreltik asitlerde hidrojeni ortadan kaldırır ve ametal elementlerle birleşir.",
         "usage":"Çelik ve diğer alaşımlarda kullanılır. İnsanlar için gereklidir. Kan damarlarında oksijen taşıyan hemoglobinin temel yapıtaşıdır. Oksitleri manyetik bantlar ve bilgisayar disklerinde kullanılır.",
         "source":"Demir cevherlerinden elde edilir. Saf metal hali yüksek fırınlarda kireç taşının, kok kömürünün ve demir cevherinin tabakalar halinde konup sıcak gazların da aşağı itilmesiyle elde edilir. Bu işlem kok kömürünü iyice kızdırır ve demir bu sayede oksitlerinden indirgenerek aşağı aktığı yerde sıvılaşır.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 27,
@@ -376,7 +376,7 @@
         "description":"Açık gri bir geçiş elementidir. Bazı göktaşları eser miktarda kobalt içerir. Kullanımı için genellikle alaşımlanır. Memeliler az miktarda kobalt tuzuna ihtiyaç duyar. Kobaltın yapay olarak üretilen radyoaktif izotopu Kobalt-60 önemli bir radyoaktif izleyici ve kanser tedavisi maddesidir. 1737’de Brandt tarafından keşfedilmiştir.",
         "usage":"Mıknatıs, seramik ve özel gözlüklerde bulunan birçok sert alaşımda kullanılır. 982 dereceye kadar sert kalır. Radyoaktif kobalt-60 izotopu kanser tedavisinde kullanılır.",
         "source":"Kobaltit  (CoAsS) ve linneit (Co3S4) gibi arsenik, oksijen ve kükürtün olduğu bileşiklerde bulunur. Saf kobalt nikel, bakır ve demi arıtımının yan ürünü olarak elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 28,
@@ -390,7 +390,7 @@
         "description":"Dövülebilir, sünek ve gümüşümsü bir geçiş elementidir. 1751’de A.F. Cronstedt tarafından keşfedilmiştir.",
         "usage":"Aşınmaya dirençli olduğundan dolayı elektrokaplama ve metal alaşımlarında kullanılır. Ayrıca, madeni paralarda nikel-kadmiyum pillerinde ve katalizör olarak kullanılır.",
         "source":"Pentlandit cevherinde bol miktarda bulunur. Cevher yüksek fırında ısıtılarak kükürtün oksijenle yer değiştirmesi sağlanır. Ardından, oksitler demirle tepkimeye giren bir asitle kimyasal işleme tabi tutulur. Söz konusu asit nikel ile tepkimeye girmez.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 29,
@@ -404,7 +404,7 @@
         "description":"Kırmızı-kahverengi bir geçiş elementidir. Romalılar tarafından cuprum olarak adlandırılmıştır. Binlerce yıldır özütlenip kullanılmaktadır. Dövülebilir ve sünek olmasının yanı sıra harika bir elektrik iletkenidir. Nemli koşullarda, dışında yeşilimsi bir tabaka oluşur.",
         "usage":"En çok elektrik iletkeni olarak kullanılır. Su borularının üretiminde de bakırdan yararlanılır. Alaşımları mücevherat ve madeni para yapımında kullanılır.",
         "source":"Saf bakır nadiren doğada bulunur. Genellikle kalkoprit (CuFeS2), kalkosit(Cu2S), kovelit (CuS)  yada kuprit (Cu2O) gibi oksitlerde olduğu gibi sülfirlerde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 30,
@@ -418,7 +418,7 @@
         "description":"Mavi-beyaz renkte metal bir elementtir. Birçok bileşikte doğal olarak bulunur. Beş kararlı izotopu ve altı radyoaktif izotopu bulunmuştur. Kimyasal olarak reaktif bir metaldir, oksijen ve diğer ametallerle birleşir. Seyreltik asitlerle tepkimeye girip oksijen salınımı yapar.",
         "usage":"Diğer metallerin paslanmasını engellemek için kaplama (galvanizleme) yapmak için kullanılır. Ayrıca pirinç, bronz, nikel gibi alaşımlarda kullanılır. Lehim, kozmetik ürünleri ve pigmentlerde de kullanımı görülür.",
         "source":"Sfalerit (ZnS), kalamin, franklinit, smitsonit (ZnCO3), villemit ve zinkit (ZnO) gibi minerallerde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 31,
@@ -432,7 +432,7 @@
         "description":"Yumuşak, gümüşümsü bir metal elementtir. Periyodik tablonun 13. grubuna aittir. İki kararlı izotopu Ga-69 ve Ga-71'dir. Bilinen sekiz radyoaktif izotopu vardır ve hepsi kısa yarı ömre sahiptir. Galyum arsenit bir yarı iletken olarak kullanılır. Diğer birçok metali örgülerine yayılarak aşındırır. İlk kez Francois Lecoq de Boisbaudran tarafından 1875'de bulunmuştur.",
         "usage":"Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
         "source":"Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur..",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },
       {
         "number": 32,
@@ -446,7 +446,7 @@
         "description":"Parlak, sert ve yarı metal bir elementtir. Periyodik tablonun 14. grubunda bulunur. Pek çok sayıda organometalik bileşik oluşturur. 1871'de Mendeleyev tarafından öngörülmüş, 1866'da da Winkler tarafından bulunmuştur.",
         "usage":"Yaygın olarak yarı iletkenlerde kullanılır. Eser miktarda fosfor, arsenik, galyum ve antimon ile birlikte kullanıldığında iyi bir yarı iletken görevi görür.",
         "source":"Bakır, çinko ve kurşun arıtımından elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 33,
@@ -460,7 +460,7 @@
         "description":"15. grupta bulunan bir yarı metal elementtir. Sarı, siyah ve gri olmak üzere üç allotropu vardır. Halojenlerle, yoğunlaştırılmış yükseltgen asitlerle ve sıcak alkalilerle tepkimeye girer. Albertus Magnus'un 1250 yılında elementi ilk izole eden kişi olduğu düşünülmektedir.",
         "usage":"Birçok bileşiği ölümcül derecede zehirlidir. Yabani ot ilacı ve fare zehri olarak kullanılır. Elektriği iletir. Yarı iletkenlerde kullanılır. Arsenit olarak bilinen bazı bileşikleri boya, duvar kağıdı ve seramik yapımında kullanılır.",
         "source":"Mispikelde (arsenopirit) bulunur.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 34,
@@ -474,7 +474,7 @@
         "description":"Periyodik tablonun 16. grubunda bulunan bir yarı metal elementtir. Birden fazla allotrop hali mevcuttur. Kimyasal olarak sülfüre benzer. 1817'de Jons J. Berzelius tarafından bulunmuştur.",
         "usage":"Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
         "source":"Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
-        "colors":"D0BFFF"
+        "colors":"FD8A8A"
       },
       {
         "number": 35,
@@ -488,7 +488,7 @@
         "description":"Halojen bir elementtir. Kırmızı renktedir ve oda sıcaklığında uçucu sıvı haldedir. Reaktifliği klor ve iyot arasındadır. Sıvı halde insan dokusuna zararlıdır, gaz halde de gözlerde ve boğazda tahriş yapar. 1823'de Antoine Balard tarafından keşfedilmiştir.",
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"C8E4B2"
       },
       {
         "number": 36,
@@ -502,7 +502,7 @@
         "description":"Renksiz ve gaz halde bir elementtir. Soygazlar sınıfının bir üyesidir. %0.0001 hacimle havada bulunur. Ayrımsal damıtma yardımı ile sıvı havadan özütlenebilir. Genel olarak izole edilmez ancak floresan lambalarda diğer atıl gazlarla beraber kullanılır. Beş doğal ve beş radyoaktif izotopu bulunur.",
         "usage":"Aydınlatma ürünlerinde kullanılır. Bir miktarı akkorlu lambalarda atıl gaz olarak kullanılır. Bir miktarı da floresan lambalarda argon ile karıştırılır. En önemli kullanım alanı, havaalanı pistlerinin aydınlatılmasında kullanılan stroboskopik lambalardır.",
         "source":"Atmosferin milyonda birinde bulunur. Sıvı hava üretiminden elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"CBFFA9"
       },
       {
         "number": 37,
@@ -516,7 +516,7 @@
         "description":"Yumuşak, gümüşümsü, metal bir elementtir. Periyodik tablonun birinci grubunda bulunur. Doğal olarak bulunan Rb-97 izotopu radyoaktiftir. Birinci gruptaki diğer elementlerin havada kendiliğinden ateş almak gibi benzer özelliklerine sahip olup son derece radyoaktiftir. ",
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
-        "colors":"FFD7FFCE"
+        "colors":"CAEDFF"
       },
       {
         "number": 38,
@@ -530,7 +530,7 @@
         "description":"Yumuşak, sarımtrak metal bir elementtir. Periyodik tablonun ikinci grubuna aittir. Kimyasal olarak oldukça reaktiftir. Sr-90 radyoaktif serpintide bulunur ve 28 yıl yarı ömrü vardır. 1798'de Klaproth ve Hope tarafından keşfedilmiş, 1808'de de Humprhy Davy tarafından izole edilmiştir.",
         "usage":"Kızıl renk vermesi için havai fişek ve işaret fişeklerinde kullanılır. Strontiyum-90, atom bombası patlamaları sonrasında nükleer serpinti ile oluşan uzun ömürlü, son derece radyoaktif bir üründür.",
         "source":"Selestin ve strontiyanit minerallerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 39,
@@ -544,7 +544,7 @@
         "description":"Periyodik tablonun üçüncü grubundan bulunan gümüşümsü-gri bir elementtir. Uranyum cevherlerinde bulunur. Tek doğal izotopu Y-89'dur. 14 tane de yapay izotopu vardır. Kimyasal olarak lantanitlere benzer. 400 derece sıcaklığın altındaki havada kararlıdır. 1828'de Friedrich Wohler tarafından keşfedilmiştir.",
         "usage":"Renkli televizyonlar için gereken kırmızı fosforun yapılabilmesi için evropiyum ile karıştırılır. İtriyum oksit ve demik oksit, radarda kullanılan kristal bir garneti yapımı için birleştirilir.",
         "source":"Monazit, ksenotim ve itriya gibi minerallerde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 40,
@@ -558,7 +558,7 @@
         "description":"Gri-beyaz bir geçiş metalidir. Bilinen beş doğal ve altı radyoaktif izotopu vardır. Nükleer reaktörlerde nötron soğurucusu olarak kullanılır. 1789'da Martin Klaproth tarafından keşfedilmiş, 1824'te de Berzelius tarafından izole edilmiştir.",
         "usage":"Nötronları hemen soğurmadığı için nükleer alanda zirkonyum alaşılımlarında kullanılır. Badeleyit aynı zamanda laboratuvar kaplarında kullanılır. Yüksek performaslı pompa ve vana yapımında da zirkonyumun kullanımı yaygındır. Zirkonyum silikat (ZrSiO4) popüler bir değerli taştır.",
         "source":"Zirkon ve badeleyit gibi birçok mineralde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
        {
         "number": 41,
@@ -572,7 +572,7 @@
         "description":"Yumuşak, sünek, gri-mavi bir geçiş metalidir. Mukavemeti arttırmak için kaynaklı bağlantılarda ve özel çeliklerde kullanılır. Halojenlerle birleşir ve 200 derece sıcaklıkta havada oksitlenir. 1801 yılında Charles Hatchett tarafından keşfedilmiş, 1864'te de Blomstrand tarafından izole edilmiştir. Asıl adı kolombiyumdu.",
         "usage":"Demir ve nikelle beraber alaşım olarak kullanılır. Nükleer reaktörlerde kullanılabilir. Kalay, alüminyum veya zirkonyum ile alaşıma dahil edildiğinde süper iletken olduğu bilinmektedir.",
         "source":"Kolombit mineralinde bulunur. Eskiden kolombiyum (Cb) olarak biliniyordu. Nükleer reaktör, uçak ve roketlerinin paslanma çelik alaşımlarında kullanılır.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 42,
@@ -586,7 +586,7 @@
         "description":"Gümüşümsü-beyaz, sert, bir geçiş metalidir. Kimyasal olarak reaktif değildir ve birçok asitten etkilenmez. Yüksek sıcaklıklarda oksitlenir. Yedi doğal izotopu ve dört radyoizotopu vardır. Bu dördü içinde Mo-93, 3500 yıl yarı ömürle en kararlı olanıdır. Molibden hemen hemen bütün yüksek mukavemetli çeliklerde kullanılır ",
         "usage":"Alaşımları uçak, roket ve kazan sacı için yapılan koruyucu kaplamalarda kullanılır.",
         "source":"Molibdenit (MoS2) ve vulfenit (MoO4Pb) minerallerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 43,
@@ -600,7 +600,7 @@
         "description":"Radyoaktif bir geçiş metalidir. Bazı yıldızlarda ve uranyumun fisyon ürünlerinde bulunabilir. İlk olarak Perrier ve Segre'nin molibdeni dötronlarla bombardıman etmesi sonucu Tc-97'nin ortaya çıkmasıyla elde edilmiştir. Tc-99 2.6*10^6 yıllık yarı ömür ile en kararlı izotopudur. Bilinen 16 izotopu vardır. Organik teknetyum bileşikleri kemik görüntülemede kullanılır. Renyum ve manganez arasında kimyasal özelliklere sahiptir. ",
         "usage":"Nükleer tıp alanında kullanılır.",
         "source":"İlk kez molibdenyumun siklotronda dötronlarla (ağır hidrojen) bombardıman edilmesi sonucu elde edilmiştir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 44,
@@ -614,7 +614,7 @@
         "description":"Sert, beyaz bir geçiş metalidir. Platinle birlikte bulunur. Bazı platin alaşımlarında bir katalizör olarak kullanılır. Erimiş alkalilerde çözünür ve asitler tarafından saldırıya uğramaz. Halojenlerle ve oksijenle yüksek sıcaklıklarda tepkimeye girer. 1844 yılında K.K. Klaus tarafından izole edilmiştir. ",
         "usage":"Platin ve paladyumu sertleştirirken kullanılır. %10 rutenyum bulunan platin alaşımları hava aracı manyetolarında kullanılır.",
         "source":"Piroksinit ve pentlanditte bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 45,
@@ -628,7 +628,7 @@
         "description":"Gümüşümsü beyaz bir geçiş metalidir. Platinle beraber bulunur ve bazı platin alaşımlarında kullanılır. Asitler tarafından saldırıya uğramaz, sadece kral suyunda çözülür. 1803'te W.H. Wollaston tarafından keşfedilmiştir. ",
         "usage":"Yüksek kaliteli bilimsel ekipmanların aşınmaması için yapılan kaplamalarda kullanılır. Termokupl üretiminde de platin ile birlikte  kullanılır.",
         "source":"Nikel üretiminin yan ürünü olarak elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 46,
@@ -642,7 +642,7 @@
         "description":"Yumuşak, beyaz ve sünek bir geçiş elementidir. Bazı bakır ve nikel cevherlerinde bulunur. Normal sıcaklıklarda oksijenle tepkimeye girmez. Sadece hidroklorik asitte çözünür. 1803'te W.H. Wollaston tarafından keşfedilmiştir.",
         "usage":"Dişçilik araçlarında ve mücevheratta gümüşe alternatif olarak kullanılır. Saf metal hali, analog kol saatleri için hassas zemberek yaparken kullanılır. Katalizör olarak ve cerrahi araçlarda da kullanılır.",
         "source":"Platin, nikel, bakır ve cıva cevherlerinde elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 47,
@@ -656,7 +656,7 @@
         "description":"Beyaz, parlak, yumuşak bir geçiş metalidir. Hem kendi element şeklinde hem de minerallerde bulunur. Mücevheratta, yemek takımları gibi birçok üründe bulunur.",
         "usage":"Mücevherat alaşımlarında ve fotoğrafçılıkta gereken bileşiklerde kullanılır. Aynı zamanda iyi bir iletkendir, fakat pahalıdır.",
         "source":"Argentit (AgS), açık ve koyu pirargirit (Ag3AsS3) ve gevrek gümüş cevherlerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 48,
@@ -670,7 +670,7 @@
         "description":"Periyodik tabloda 12. gruba ait yumuşak, mavimsi bir metaldir. Düşük yoğunluklarda dahi son derece zehirlidir. Kimyasal olarak çinkoya benzer ama daha kompleks bileşiklere elverişlidir. 1817'de F. Stromeyer tarafından keşfedilmiştir.",
         "usage":"Nikel-kadmiyum bataryalarında kullanılır. Çeliğin elektrokaplamasında ve rulman üretiminde kullanılır. Bileşikleri, boya pigmentlerinde ve çok çeşitli yoğun boyalarda bulunur. Kaynayan kadmiyum, yeşil renkte zehirli bir buharı açığa çıkarır.",
         "source":"Çinko arıtımının yan ürünü olarak elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 49,
@@ -684,7 +684,7 @@
         "description":"Periyodik tablonun 13. grubunda bulunan yumuşak, gümüşümsü bir elementtir. En yaygın olan doğal izotopu, 6*10^4 yıllık yarı ömüre sahip olan In-115'dir. Başka beş izotopu daha vardır. 1863'te Reich ve Richter tarafından keşfedilmiştir.",
         "usage":"Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
         "source":"Bazı çinko cevherlerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },
       {
         "number": 50,
@@ -712,7 +712,7 @@
         "description":"15. gruba mensup bir elementtir. Birden fazla allotropik oluşumu vardır. Antimonun kararlı hali mavi-beyaz bir metaldir. Sarı ve siyah antimon kararsız ametallerdir. Alev dayanıklılığında, seramiklerde, emayelerde ve kauçukta kullanılır. Oksitlenen asit ve halojenlerden etkilenir.",
         "usage":"Sertliklerini arttırmak için başka metallerle alaşımlanır. Birkaç yarı iletken türünün üretiminde, plastik ve kimyasallarda kullanılır. Reçetesiz satılan bazı tip soğuk algınlığı ve grip ilaçlarının üretiminde antimon bileşiklerinden yararlanır.",
         "source":"Stibnit  (Sb2S3) ve valentinitte (Sb2O3) bulunur.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 52,
@@ -726,7 +726,7 @@
         "description":"Gümüşümsü, 16. grup üyesi yarı-metal bir elementtir. Sekiz doğal, dokuz radyoaktif izotopu vardır.",
         "usage":"Bakır ve paslanmaz çelik ürünlerinin talaşlı imalat kalitesini geliştirmekte, cam ve seramik boyamasında kullanılır. Ayrıca termoelektrik cihazlarda bulunur. Bir miktarı, kauçuk endüstrisinde kullanılır ve fünye imalatında temel bir içerik maddesidir.",
         "source":"Bakır ve kurşun arıtımının yan ürünü olarak elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 53,
@@ -740,7 +740,7 @@
         "description":"Koyu mor, ametal, 17. gruba ait bir elementtir. Suda çözünmez. Canlı organizmalar eser element olarak ihtiyaç duyar. 14 radyoaktif izotopa ek olarak, I-127 olarak tek kararlı izotopu vardır. Kimyasal olarak halojenlerin en az reaktifi ve en elektropozitif halojendir. 1812'de Courtois tarafından keşfedilmiştir.",
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"C8E4B2"
       },
       {
         "number": 54,
@@ -754,7 +754,7 @@
         "description":"Periyodik tablonun 18. grubunda (soygazlar) bulunan renksiz ve kokusuz bir gazdır. Bilinen dokuz doğal izotopu ve yedi radyoaktif izotopu vardır. Ksenon, sentezlenen ilk soygaz bileşiğinin bir parçasıydı. O zamandan beri ksenonun yer aldığı başka birçoğu da bulundu. 1898'de Ramsey ve Travers tarafından keşfedildi.",
         "usage":"El feneri ve diğer güçlü lambalarda dolgu maddesi olarak kullanılır. Ksenonun elektriksel uyarımı, parlak bir beyaz ışık huzmesi oluşturur. Aynı zamanda kabarcık odalarında ve modern nükleer enerji reaktörlerinde kullanılır.",
         "source":"Sıvı havadan az miktarlarda elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"CBFFA9"
       },
       {
         "number": 55,
@@ -768,7 +768,7 @@
         "description":"Yumuşak, gümüşümsü-beyaz, birinci gruba mensup metal bir elementtir. Oda sıcaklığında sıvı halde bulunan üç metalden biridir. Cs-133 doğal ve tek kararlı izotopudur. 15 radyoizotopu daha vardır. Sezyum, soğuk su ve buzla 157K sıcaklığın üzerinde patlayarak tepkimeye girer. Sezyum hidroksit bilinen en güçlü bazdır. ",
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
-        "colors":"FFD7FFCE"
+        "colors":"CAEDFF"
       },
       {
         "number": 56,
@@ -782,7 +782,7 @@
         "description":"Gümüşümsü-beyaz, reaktif ve periyodik tabloda ikinci gruba mensup elementtir. Çözünebilir baryum bileşikleri son derece zehirlidir. 1774'te Karl Scheele tarafından keşfedilmiş ve 1808'de Humphry Davy tarafından özütlenmiştir. ",
         "usage":"Barit yada baryum sülfatın (BaSO4) öğütülüp toz haline getirilmiş hali kauçuk, plastik ve reçinelerde dolgu maddesi olarak kullanılır. Suda çözünmez ve bu yüzden sindirim sisteminin görüntülemesinde uygulanan X ışınlarıyla birlikte kullanılır. Baryum nitrat, parlak yeşil renkte yanar ve havai fişeklerde kulllanılır.",
         "source":"Baritin (BaSO4) ve viterit (BaSO3) minerallerinden bulunur. Reaktifliğinden ötürü saf halde bulunmaz. Saf kalması için gazyağı altında saklanmalıdır.",
-        "colors":"D0BFFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 57,
@@ -796,7 +796,7 @@
         "description":"(Yunanca saklı olmak anlamında lathanein kelimesinden) Gümüşümsü, üçüncü gruba ait metal elementtir ve genellikle lantanitlerden bir tanesi olarak görülür. Bazı nadir toprak minerallerinde bulunur. 25 doğal izotopu vardır.  La-139 kararlıdır, La-138'in de 10^10'dan 10^15 yıla kadar yarı ömrü vardır. Diğer 23 izotopu radyoaktiftir. Kimyasal olarak lantanitlere benzer. Lantan, düşükten orta seviyeye kadar zehirlidir ve dikkatli kullanılmalıdır. 1839'da C.G. Mosander tarafından keşfedilmiştir. ",
         "usage":"Yüksek yoğunluklu, karbon ark lambalarının elektrotlarında kullanılır. Aynı zamanda kaliteli evropiyum metali üretiminde kullanılır. Cama ışığı kırıcı özellikler kazandırdığı için, pahalı kamera lenslerinde bulunur.",
         "source":"Monazit ve bastnezit minerallerinde nadir toprak elementleriyle beraber bulunur. Monazit kumu tipik olarak %25 lantan içerir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 58,
@@ -810,7 +810,7 @@
         "description":"Gümüşümsü, metal ve lantanitler arasında bulunan elementtir. Dört doğal izotopu ve 15 radyoaktif izotopu bulunmuştur. Bazı nadir toprak alaşımlarında bulunur. Oksitlenmiş hali cam sanayiinde kullanılır. 1803'te Martin H. Klaproth tarafınfan keşfedilmiştir.",
         "usage":"Yüksek yoğunluklu karbon lambalarında ve özel metallerde alaşımlama maddesi olarak; oksitleri, optik ve cam sanayinde; tuzları fotoğrafçılıkta ve tekstil sanayinde kullanılır.",
         "source":"En çok bulunan nadir toprak metalidir. Monazit kumu [Ce(PO4)] gibi birçok mineralde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 59,
@@ -824,7 +824,7 @@
         "description":"Yumuşak, gümüşümsü ve lantanitler arasında bulunan metal bir elementtir. Tek doğal izotopu Pr-141'dir ve radyoaktif değildir. 14 radyoaktif izotopu yapay olarak elde edilmiştir. Nadir toprak alaşımlarında kullanılır. 1885'te C.A. von Welsbach tarafından keşfedilmiştir.",
         "usage":"Cam üfleme işlemi sırasındaki sarı ışığı süzdüğü için camcıların koruyucu gözlüklerindeki lenslerin yapımında neodimiyum ile beraber kullanılır. Magnezyum ile alaşımlandığında, hava araçlarının motorlarında kullanılan yüksek mukavemetli bir metal elde edilir. Misch metalinin %5'ini oluşturmaktadır",
         "source":"Neodimum ile aynı tuzlardan elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 60,
@@ -838,7 +838,7 @@
         "description":"Yumuşak, parlak, gümüşümsü metal bir elementtir. Lantanitler arasında bulunur. Yedi doğal izotopu vardır. Nd-144, 10^10-10^15 yıllık yarı ömürle bunlardan tek radyoaktif olanıdır. Altı yapay radyoizotopu üretilmiştir. ",
         "usage":"Lazerlerde yapay yakut yapımında kullanılır. Aynı zamanda seramikler, parlak mor cam, kızılötesi radyasyonu süzen özel camlarda ve praseodimiyum ile birlikte özel bir lensin üretiminde kullanılır. Çelik yapımında kullanılan Misch metalinin %18'ini oluşturmaktadır.",
         "source":"Monanit kumundan yapılmış halojenür tuzlarının elektrolizi ile elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 61,
@@ -852,7 +852,7 @@
         "description":"Yumuşak, gümüşümsü, metal bir elementtir. Lantanitler arasında yer alır. Tek doğal izotopu olan Pm-147 radyoaktif olup 252 yıllık yarı ömre sahiptir. 18 radyoizotopu üretilmiştir ancak hepsinin kısa yarı ömrü vardır. Sadece nükleer bozunma atıklarında bulundur. ",
         "usage":"Kalınlık ölçerlerde radyoaktiflik kaynağı olarak kullanılmaktadır.",
         "source":"Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 62,
@@ -866,7 +866,7 @@
         "description":"Yumuşak, gümüşümsü metal bir elementtir. Lantanitler arasında yer alır. Yedi doğal izotopu vardır. Sm-147 tek radyoizotoptur ve 2.5*10^11 yıllık yarı ömrü vardır. Nükleer reaktör üretiminde gerekli olan özel alaşımların yapımında kullanılır. Nötron soğurucu olarak da kullanılır. Samaryum oksidin eser miktarları özel optik gözlüklerde kullanılır. Elementin en kapsamlı kullanımı, diğer malzemelerden üretilen mıknatıslardan beş kat daha güçlü olan sürekli mıknatısların üretiminde kullanılan ferromanyetik alaşımlarıdır. 1879'da Francois Lecoq de Boisbaudran tarafından keşfedilmiştir. ",
         "usage":"Elektronik ve seramik sanayilerinde kullanılır. Kolayca manyetize edilir ve sonradan demanyetize edilmesi oldukça zordur. Bu özelliği gelecekte katıhal ve süper iletken teknolojileri için önemli uygulama alanlarında yer alacağına işaret etmektedir.",
         "source":"Diğer nadir toprak elementleriyle monazit kumunda bulunur. Bu kum ağırlık olarak %50 nadir toprak elementerinden, %2.8 samaryumdan oluşur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 63,
@@ -880,7 +880,7 @@
         "description":"Lantanitler grubunda bulunan yumuşak, gümüşümsü metal bir elementtir. Her ikisi de nötron soğurucusu olan Eu-151 ve Eu-153 tek kararlı izotoplarıdır. 1889'da Sir William Crookes taafından keşfedilmiştir. ",
         "usage":"Renkli televizyonlar için itriyum oksit ile kırmızı fosfor yapımı için kullanılır.",
         "source":"Kalsiyum, toryum, seryum ve diğer birçok nadir toprak elementinin fosfat karışımı olan monazit kumundan elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 64,
@@ -894,7 +894,7 @@
         "description":"Yumuşak, gümüşümsü, lantanitler arasında bulunan metal elementtir. 11 yapay izotopa ek olarak bilinen yedi doğal ve kararlı izotopu vardır. Gd-155 ve Gd-157 bütün elementler arasında en iyi nötron soğuruculardır. Gadolinyum bileşikleri elektronikte kullanılır. 1880'de J.C.G Marignac tarafından keşfedilmiştir.",
         "usage":"Çelik alaşımlama maddelerinde ve elektronik bileşenlerinin üretiminde kullanılır.",
         "source":"Gadolinit ve monazit kumunda diğer nadir toprak elementleriyle bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 65,
@@ -908,7 +908,7 @@
         "description":"Gümüşümsü, lantanitler arasında bulunan metal elementtir. Tb-159 tek kararlı izotopudur. 17 tane de yapay izotopu vardır. G.G. Mosander tarafından 1843'te keşfedilmiştir.",
         "usage":"Özel lazerlerde ve katıhal cihazlarında ufak miktarlarda kullanılır.",
         "source":"Diğer toprak elementleriyle birlikte %0.03 oranında terbiyum içeren monazit kumunda bulunur. Her ikisi de %1'e kadar terbiyum içeren oksit karışımı olan ksenotim ve öksenitten de elde edilebilmektedir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 66,
@@ -922,7 +922,7 @@
         "description":"Gümüşümsü-beyaz bir parlaklığa sahip metal bir elementtir. Disprozyum lantanitler arasındadır. Oda sıcaklıklarındaki havada nispeten kararlıdır. Ancak, hidrojeni dönüştürerek mineral asitlerde çözünür. ",
         "usage":"Kullanımı deneysel ve ezoterik amaçlarla sınırlıdır.",
         "source":"Genellikle erbiyum, holmiyum ve diğer nadir toprak elementleriyle birlikte ağırlık olarak %50'si bu elementlerden oluşan monazit kumu gibi bazı minerallerde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 67,
@@ -936,7 +936,7 @@
         "description":"Nispeten yumuşak ve dövülebilir bir gümüşümsü-beyaz metaldir. Oda sıcaklığındaki kuru havada kararlıdır. Nemli havada ve yüksek sıcaklıklarda oksitlenir. Lantanit serisindedir. ",
         "usage":"Çok az pratik kullanımı vardır. Ancak gelecek için umut vaadeden olağanüstü manyetik özelliklere sahiptir.",
         "source":"Gadolinitte bulunur. En çok, %50'si nadir toprak elementi ve %0.05'i tipik olarak holmiyumdan oluşan monazitte bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 68,
@@ -950,7 +950,7 @@
         "description":"Lantanitler serisine ait olan yumuşak gümüşümsü metal bir elementtir. Kararlı olan altı doğal izotopu ve bilinen 12 yapay izotopu vardır. Nükleer teknolojide nötron soğurucu olarak kullanılır.",
         "usage":"Erbiyum oksit, seramiklerde pembe sır elde etmek için kullanılır. Ayrıca, nükleer sanayide birkaç kullanım alanıyla birlikte diğer egzotik metaller için alaşımlama maddesi olarak da değerlendilir. Örnek vermek gerekirse, vanadyumun şekil verilebilirliğini arttırır.",
         "source":"Daha ağır nadir toprak metallerinden ksenotim ve öksenit ile birlikte bulunur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 69,
@@ -964,7 +964,7 @@
         "description":"Lantanitler arasında bulunan yumuşak gri metal bir elementtir. Bir doğal izotopu (Tm-169) vardır ve 16 yapay izotopu üretilmiştir. Bilinen bir kullanımı yoktur. 1879'da Per Theodor Cleve tarafından keşfedilmiştir.",
         "usage":"Radyoaktif tulyum, taşınabilir röntgen cihazlarının çalıştırılması için kullanılır. Bu sayede elektrik ekipmanı kullanımına gerek kalmaz.",
         "source":"Gadolinit, öksenit, ksenotim ve monanit minerallerinde diğer toprak elementleriyle birlikte bulunur. Ağırlık olarak monazit, genellikle %50 nadir toprak elementi ve %0.007 tulyumdan oluşur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 70,
@@ -978,7 +978,7 @@
         "description":"Gümüşümsü, lantanit metal bir elementtir. Bilinen yedi doğal ve on yapay izotopu vardır. Bazı çeliklerde kullanılır. 1878'de J.D.G. Marignac tarafından bulunmuştur.",
         "usage":"Metalurjik ve kimyasal deneylerde kullanılır.",
         "source":"İtriya, monazit, gadolinit ve ksenotim gibi minerallerde bulunur. Monazitin %50'si ağırlık olarak nadir toprak element, %0.03'ü de tipik olarak iterbiyumdan oluşur.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 71,
@@ -992,7 +992,7 @@
         "description":"Havada nispeten kararlı olan gümüşümsü-beyaz bir nadir toprak metalidir. En pahalı nadir toprak metali olup hemen hemen hepsiyle birlikte bulunur, ancak öbür elementlerden izole edilmesi zordur.",
         "usage":"Kullanım alanı yoktur.",
         "source":"Gadolinit ve ksenotimde iterbuyumla beraber bulunur. Ağırlık olarak %50'si genellikle nadir toprak elementi ve %0.003'ü lütesyum olan monazit kumundan elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"9ED2BE"
       },
       {
         "number": 72,
@@ -1006,7 +1006,7 @@
         "description":"Gümüşümsü ve parlak bir geçiş metalidir. Filamentlerde ve elektrotlarda bulunan tungsten alaşımlarında kullanılır. Nötron soğurucusu da olarak da işlev görür. ",
         "usage":"Nötron soğurabilmesinden ötürü reaktör kontrol çubuklarında kullanılır.",
         "source":"Zirkon veya badeleyit mineralinde elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 73,
@@ -1020,7 +1020,7 @@
         "description":"Ağır, mavi-gri bir geçiş metalidir. Ta-181 kararlı ve Ta-180, 10^7 yıldan fazla yarı ömürle radyoaktif bir izotopudur. Tepkimeye girmediği için cerrahi alanda kullanılır. Havada pasif bir oksit tabakası oluşturur.",
         "usage":"Yaygın bir şekilde platin yerine ekonomik bir alternatif olarak kullanılır. Tantal pentoksit, kapasitörlerde ve kırılma gücünü arttırmak içim kamera lenslerinde kullanılır. Hem kendisi hem de alaşımları aşınmaya ve suya karşı dayanıklıdır.",
         "source":"En çok tantalit mineralinde bulunur. Her zaman niyobyum ile beraber rastlanır.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 74,
@@ -1034,7 +1034,7 @@
         "description":"Eskiden volfram olarak bilinen, beyaz veya gri olabilen bir geçiş metalidir. Havada koruyucu bir oksit tabakası oluşturur ve yüksek sıcaklıkta oksitlenir. Jose ve Fausto de Elhuyer tarafından 1783'te izole edilmiştir.",
         "usage":"Vakum tüpü ve elektrikli lambalarda gerekli olan filamentlerin yapımında kullanılır. Ayrıca arabalarda platin olarak da bulunur. Kalsiyum veya magnezyum ile karıştırıldığında fosfor elde edililir. Volfram karbür, oldukça sert olup kesme araçları ve aşındırıcı üretiminde kullanılır.",
         "source":"Şelit (CaWO4) ve volframit  [(Fe,Mn)WO4] minerallerinde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 75,
@@ -1048,7 +1048,7 @@
         "description":"Gümüşümsü-beyaz bir geçiş metalidir. Molibdenin rafine edilmesi işleminin yan ürünü olarak elde edilir. Renyum-molibden alaşımları süper iletkendir.",
         "usage":"Kütle spektrofilerinde filament yapmak için volfram veya platin ile karışıtırılır. En büyük önemi, sürekli sürtünme kuvvetine maruz kalmış metal bileşenlerin sertleştirilmesi için kullanılan nadir bir alaşımlama maddesi olmasıdır.",
         "source":"Gadolinit ve molibden minerallerinde küçük miktarlarda bulunur. Erime noktası oldukça yüksektir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 76,
@@ -1062,7 +1062,7 @@
         "description":"Sert, mavi-beyaz bir geçiş metalidir. Platinle beraber bulunur. Platin ve iridyumun ile bazı alaşımlarda kullanılır.",
         "usage":"Dolma kalem uçlarında, bazı makine millerinde, elektrikli lamba filamentlerinde, yüksek sıcaklık alaşımlarında ve baskı rulmanı üretiminde kullanılır. Çok serttir ve aşınmaya karşı oldukça dayanıklıdır.",
         "source":"Platin ile aynı cevherlerden elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 77,
@@ -1076,7 +1076,7 @@
         "description":"Oldukça sert ve gevrek olan gümüşümsü bir geçiş metalidir. Sarımtrak tonda bir rengi vardır. İridyum tuzları son derece renklidir. Herhangi bir asit tarafından saldırıya uğramayıp aşınmaya en dayanıklı olduğu bilinen metaldir, ancak erimiş tuzlardan etkilenir. ",
         "usage":"Osmiyumla birlikte dolma kalem uçlarında, pota ve özel kap yapımında kullanılır. Standart ağırlık ve ölçülerde gereken alaşımların yanı sıra ısıya dayanıklı alaşımlarda da kullanılır. Platin için sertleştirme maddesi olarak da kullanılmaktadır.",
         "source":"Platin ile birlikte çakıl yataklarında bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 78,
@@ -1090,7 +1090,7 @@
         "description":"Alımlı, grimsi beyaz bir metaldir. Saf haldeyken sünektir ve dövülebilir. Havada oksitlenmez, hidroklorik ve nitrik asitte çözünmez. Halojenler, siyanürler ve alkalilerin aşınmasına uğrar. Hidrojen ve oksijen platünyumun olduğu ortamda patlayarak tepkime gösterir. ",
         "usage":"Mücevheratta, pota, özel kapların yapımında ve katalizör olarak kullanılır. Kobalt ile birlikte çok güçlü mıknatıslar üretmek için kullanılır. Ayrıca, standart ağırlık ve ölçüler yapmak için de kullanılır. Aşınmaya ve kral suyu hariç asitlere karşı dirençlidir.",
         "source":"Doğal veya temel platinden elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 79,
@@ -1104,7 +1104,7 @@
         "description":"Bilinen en sünek ve dövülebilir metaldir. Altının sadece bir tane kararlı izotopu ve altı radyoizotopu vardır. Au-195, 186 günlük yarı ömürle en kararlı olanıdır. Mücevheratta, dişçilikte, elektronikte ve parasal standart olarak kullanılır. ",
         "usage":"Son derece dövülebilir bir yapısı vardır. Elektronikte, mücevheratta ve madeni paralarda kullanılır. Kızılötesi radyasyonun iyi bir yansıtıcısıdır, bu yüzden güneş ışığının içten ısıtmasını azaltmak için gökdelenlerin camlarında ince bir altın tabakası kullanılır.",
         "source":"Doğal olarak ve bakır cevherleriyle birlikte yeryüzündeki damarlarda bulunur.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 80,
@@ -1118,7 +1118,7 @@
         "description":"Çinko grubuna dahil olan ağır, gümüşümsü ve sıvı halde bulunan bir metaldir. Termometrelerde, barometrelerde ve diğer bilimsel araçlarda kullanılır. Çinko ve kadmiyumdan daha reaktif olup asitlerde hidrojeni ortadan kaldırmaz. Birçok organik cıva bileşiği ve kompleks oluşturur.",
         "usage":"Termometre, barometre ve pillerde kullanılır. Aynı zamanda elektrik düğmelerinde ve cıva buharlı aydınlatma ürünlerinde kullanılır.",
         "source":"Cıvanın neredeyse hepsi zincifre veya cıva sülfürden (HgS) elde edilir. Bazı kırmızı zincifre kaynakları o kadar çok cıva içerir ki rastgele alınan numunelerde saf cıva damlalarına rastlanabilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 81,
@@ -1132,7 +1132,7 @@
         "description":"Tepkimeye uğramamış, saf talyum gümüşümsü-beyaz renkte metalik bir parlaklık gösterir. Havayla tepkimeye girdiğinde, mavimsi-gri bir renk alır ve kurşun gibi görünür. Son derece dövülebilir bir yapısı vardır ve bıçakla kesilebilir. İki kararlı izotopu ve dört radyoizotopu vardır.",
         "usage":"Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
         "source":"Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },
       {
         "number": 82,
@@ -1160,7 +1160,7 @@
         "description":"15. gruba ait, hafif pembe tonlu beyaz kristalli metaldir. Bütün metallerin en diyamanyetik olanı ve cıva sayılmadığında en düşük ısı iletkenliğine sahip elementtir. Kurşunsuz bizmut bileşikleri kozmetikte ve tıp işlemlerinde kullanılır. ",
         "usage":"Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
         "source":"Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },
       {
         "number": 84,
@@ -1174,7 +1174,7 @@
         "description":"Periyodik tablonun 16. grubunda, nadir bulunan radyoaktif metal bir elementtir. Otuzdan fazla bilinen izotopu vardır ve bu bütün elementler arasında en yüksek olan izotop sayısıdır. Po-209'un 103 yıllık yarı ömrü vardır. Uzay aracı ısıtmasında kullanılabilir. ",
         "usage":"Kağıt, kablo ve sac haddelemesi gibi işlemler sırasında ortaya çıkan statik elektriğin önlenmesi amacıyla üretilen endüstriyel ekipmanlarda kullanılır.",
         "source":"Bizmutun bozunması sonrası uraninitte bulunur.",
-        "colors":"D0BFFF"
+        "colors":"FFD9B7"
       },
       {
         "number": 85,
@@ -1188,7 +1188,7 @@
         "description":"Radyoaktif ve halojen bir elementtir. Uranyum ve toryum bozunması sonucu doğal olarak oluşur. Bilinen en az 20 izotopu vardır. En kararlısı olan At-210, 8.3 saatlik yarı ömre sahiptir. 1940'ta D.R. Corson, K.R. MacKenzie ve E. Segre tarafından Kaliforniya Üniversitesi'nde nükleer bombardıman ile sentezlenmiştir.",
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"C8E4B2"
       },
       {
         "number": 86,
@@ -1202,7 +1202,7 @@
         "description":"Renksiz, radyoaktif, gaz şeklinde ve soygaz sınıfındadır. Bilinen 20 izotopu arasında en kararlısı 3.8 günlük yarı ömür ile Rn-222'dir. Radyum-226'nın radyoaktif bozunmasıyla oluşur. Radonun kendisi polonyuma bozunur. Radyoterapide kullanılır. Her ne kadar kendisi ile radon flörür bileşiği sentezlenmiş olsa da soygaz olarak atıldır. ",
         "usage":"Bazı kanser türlerinin tedavisinde kullanılır.",
         "source":"Dünyanının yüzeyindeki radyumun bozunması sonucu oluşur.",
-        "colors":"D0BFFF"
+        "colors":"CBFFA9"
       },
       {
         "number": 87,
@@ -1216,7 +1216,7 @@
         "description":"Periyodik tablonun birinci grubunda bulunan radyoaktif bir elementtir. Uranyum ve toryum cevherlerinde bulunur. Bilinen 22 izotopun hepsi radyoaktif olup, en kararlısı Fr-223'tür. 1939'da Marguerite Perey tarafından keşfedilerek varlığı doğrulanmıştır. ",
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
-        "colors":"FFD7FFCE"
+        "colors":"CAEDFF"
       },
       {
         "number": 88,
@@ -1230,7 +1230,7 @@
         "description":"İkinci grupta bulunan transuranik radyoaktif metal bir elementtir. Radona bozunan en kararlı izotopu olan Ra-226'nın 1602 yıllık yarı ömrü vardır. 1898'te Marie ve Pierre Curie tarafından uraninitten izole edilmiştir.",
         "usage":"Yaydığı gama ışınlarından dolayı kanser tedavisinde kullanılır.",
         "source":"Uranyum cevherlerinde, uranyuma 1/3 ppm oranla bulunur.",
-        "colors":"D0BFFF"
+        "colors":"FBF0B2"
       },
       {
         "number": 89,
@@ -1244,7 +1244,7 @@
         "description":"Periyodik tablonun üçüncü grubunda bulunan gümüşümsü, radyoaktif metal bir elementtir. En kararlı izotopu Ac-227'nin 217 yıllık bir yarı ömrü vardır. Ac-228 de (6.13 saatlik yarı ömür ile) doğada bulunur. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Son derece nadirdir. Bütün uranyum cevherlerinde bulunur. Genellikle radyumun reaktörde nötronlarla kimyasal işleme tabi tutulmasıyla elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 90,
@@ -1258,7 +1258,7 @@
         "description":"Gri, radyoaktif metal bir elementtir. Aknititler sınıfındadır. Brezilya, Hindistan ve ABD'de monazit kumunda bulunur. Toryum-232'nin 1.39x10^10 yıl radyo ömrü vardır. Üretken reaktörler için nükleer yakıt olarak kullanılabilir. ",
         "usage":"Güçlü alaşımların yapımında ve ultraviyoleli fotoelektrik hücrelerin yapımında kullanılır. Yüksek kaliteli lenslerde yaygın olarak kullanılır. Nükleer bir yakıt olan uranyum-223'ün yapımı için nötronlar ile bombardıman edilir.",
         "source":"Monazit ve torit gibi çeşitli minerallerde bulunur.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 91,
@@ -1272,7 +1272,7 @@
         "description":"Aktinitler sınıfında bulunan radyoaktif metal element. En kararlı izotopu Pa-231'in 2.43*10^4 yıllık yarı ömrü vardır. Bilinen en az on izotopu daha vardır. Bilinen herhangi bir kullanımı yoktur. 1917'de Lisa Meitner ve Otto Hahn tarafından keşfedilmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 92,
@@ -1286,7 +1286,7 @@
         "description":"Aktinitler arasında bulunan beyaz radyoaktif metal bir elementtir. U-238, U-235 ve U-234 olmak üzere üç doğal izotopu vardır. Uranium-235 nükleer silah ve reaktörler için yakıt olarak kullanılır. Martin H. Klaproth tarafından 1789'da keşfedilmiştir.",
         "usage":"Yüzlerce yıl boyunca camlar için bir pigment olarak kullanılmıştır. Günümüzde nükleer reaktörlerde ve bombalarda yakıt olarak kullanılmaktadır.",
         "source":"Birçok kayada görülür. Ancak, büyük miktarları ancak uraninit ve karnotit gibi minerallerde bulunur.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 93,
@@ -1300,7 +1300,7 @@
         "description":"Aktinitler sınıfında bulunan bir transuranik radyoaktif elementtir. En kararlı izotopu olan Np-237, 2.2*10^6 yıllık bir yarı ömre sahip olup nükleer reaktörlerin yan ürünüdür. Bilinen diğer izotopların 229-236 ve 238-241 arasında kütle numaraları vardır. Np-236'nın, 5*10^3 yıllık yarıömrü vardır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Uranyumun yavaş nötronlarla bombardıman edilmesi sonucu elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 94,
@@ -1314,7 +1314,7 @@
         "description":"Aktinitler arasında bulunan yoğun, gümüşümsü, radyoaktif metal bir elementtir. Pu-244, 7.6*10^7 yıllık yarı ömür ile en kararlı izotopudur. Bilinen 13 izotopu vardır. En önemlisi Pu-239'dur, yavaş nötronlarla fizyona girebildiği için nükleer silahlar ve reaktörler için önem arz eder.",
         "usage":"Bomba ve reaktörlerde kullanılır. Az miktarlarla termo-elektrik jeneratörlerinde kullanılır.",
         "source":"Nadiren bazı uranyum cevherlerinde bulunur. Uranyumun nötronlarla bombardıman edilmesi ile elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 95,
@@ -1328,7 +1328,7 @@
         "description":"Aktinitler sınıfına ait transuranik, radyoaktif metal element. Bilinen on izotopu vardır. Am-243, 7.95*10^3 yıl yarı ömür ile en kararlı izotoptur. 1945'te Glenn T. Seaborg ve meslektaşları tarafından keşfedilen bu element, Uranyum-238'in alfa parçacıklarıyla bombardıman edilmesiyle elde edilmiştir.",
         "usage":"Amerikiyum-241 günümüzde yangın detektörlerinde kullanılmaktadır.",
         "source":"Plütonyumun nötronlarla bombardıman edilmesi ile elde edilir..",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 96,
@@ -1342,7 +1342,7 @@
         "description":"Transuranik, radyoaktif metal bir elementtir. Aktinitler sınıfında bulunur. Bilinen dokuz izotopu vardır. Cm-247'nin 1.64*10^7 yıllık yarı ömrü bulunmaktadır. İlk kez Glenn T. Seaborg ve meslektaşları tarafından 1944'te bulunmuş, 1947'de de L.B. Werner ve I. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun helyum iyonlarıyla bombardıman edilmesi sonucu elde edilir. Karanlıkta parlayacak kadar radyoaktiftir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 97,
@@ -1356,7 +1356,7 @@
         "description":"Transuranik, radyoaktif metal bir elementtir. Aktinitler sınıfındadır. 1.4*10^3 yıllık yarı ömrü olan en yaygın Bk-247 ile birlikte bilinen sekiz izotopu vardır. İlk kez 1949'da amerikum-241'in Glenn T. Seaborg ve meslektaşları tarafından alfa parçacıkları ile bombardıman edilmesi sonucu elde edilmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bazı bileşikleri üretilip üzerlerinde çalışılmıştır. Amerikiyumun alfa parçacıklarıyla bombardıman edilmesi ile elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 98,
@@ -1370,7 +1370,7 @@
         "description":"Transuranik, radyoaktif metal bir elementtir. Aktinitler sıfında bulunur. Cf-251'in 700 yıl civarında yarı ömrü vardır. Bilinen dokuz izotopu vardır. Cf-252, yoğun bir nötron kaynağıdır. Bu sayede nötron aktivasyon analizinde ve tıpta bir radyasyon kaynağı olarak kullanılabilmektedir. İlk kez Glenn T. Seaborg ve meslektaşları tarafından 1950'de elde edilmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryumun helyum iyonları ile bombardıman edilmesi sonucu elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 99,
@@ -1384,7 +1384,7 @@
         "description":"Görünüşü bilinmemektedir ancak büyük olasılıkla gümüş veya gri renkte ve metaldir. Aktinitler sınıfına ait olan transuranik radyoaktif bir elementtir. Es-254 bilinen 11 izotop arasında en uzun yarı ömre sahiptir. İlk kez Albert Ghiorso ve meslektaşları tarafından 1952'te patlatılan ilk hidrojen bombasının enkazında bulunmuştur. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Uranyumun nötronlarla bombardıman edilmesiyle edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 100,
@@ -1398,7 +1398,7 @@
         "description":"Transurani ve radyoaktif metal bir elementtir. Aktinitler sınıfının bir üyesidir. Bilinen on izotopu vardır. 10 günlük yarı ömre sahip Fm-257 en kararlı olanıdır. 1952'de Albert Ghiorso ve meslektaşları tarafından patlatılan ilk hidrojen bombasının enkazında bulunmuştur.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Daha hafif transuranyum elementlerinin yine daha hafif parçacıklar ile bombardıman edilmesiyle ya da nötron yakalama ile elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 101,
@@ -1412,7 +1412,7 @@
         "description":"Transurani ve radyoaktif metal bir elementtir. Aktinit serisindedir. Bilinen tek izotopu Md-256'nın 1.3 saat yarı ömrü vardır. İlk olarak Gleen T. Seaborg, Albert Ghiorso ve meslektaşları tarafından 1955'te bulunmuştur. Alternatif olarak Unniluniyum adı önerilmiştir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Aynştanyumun helyum iyonları ile bombardıman edilmesiyle elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 102,
@@ -1426,7 +1426,7 @@
         "description":"Transurani ve radyoaktif metal bir elementtir. Bilinen yedi izotopu vardır, en kararlısı 255 saniye yarı ömürle No-254'tür. İlk olarak 1966'ta Albert Ghiorso ve Glenn T. Seaborg tarafından keşfedilmiştir. Alternatif olarak, unnilbiyum adı önerilmiştir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryumun karbon-13 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 103,
@@ -1440,7 +1440,7 @@
         "description":"Görünüşü bilinmemektedir ancak büyük olasılıkla gümüşümsü-beyaz veya gri renkte ve metaldir. Lavrensiyum sentetik bir nadir toprak metalidir. Bilinen sekiz radyoizotopu vardır. Lr-262, 3.6 saatlik yarı ömür ile en kararlı olanıdır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyumun bor iyonlarıyla bombardıman edilmesiyle elde edilir.",
-        "colors":"FFB8B8FF"
+        "colors":"FFC7EA"
       },
       {
         "number": 104,
@@ -1454,7 +1454,7 @@
         "description":"Radyoaktif ve transaktinit bir elementtir. Hafniyum ile benzer kimyasal özelliklere sahip olduğu düşünülür. Rf-260, Dubna'daki (SSCB) Ortak Nükleer Araştırma Enstitüsü'nde 1964 yılında keşfedilmiştir. Berkeley'de bulunan araştırmacılar 1964'te Unq-257 ve Unq-258 izotoplarını keşfetmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, 3 ve 4 saniyeden fazla yarıömürlü izotop oluşturan karbon-12 ve 13 parçacıklarıyla bombardıman edilmesi sonucu elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 105,
@@ -1468,7 +1468,7 @@
         "description":"Hahniyum (Ha) olarak da bilinir. 1.6 saniyelik yarı ömrü vardır.  1970'de Berkeley'deki araştırmacılar tarafından keşfedilmiştir. Şu ana kadar, yedi izotopu bulunmuştur.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, azot-15 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 106,
@@ -1482,7 +1482,7 @@
         "description":"0.9+/-0.2 saniyelik yarı ömrü vardır. Haziran 1974'te, SSCB'nin Dubna şehrinde yer alan Ortak Nükleer Araştırma Enstitüsü'nde keşfedilmiştir. Varlığı Eylül 1974'te Lawrence Berkeley ve Livermore Ulusal Laboratuvarı tarafından doğrulanmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, oksijen-18 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 107,
@@ -1496,7 +1496,7 @@
         "description":"Radyoaktif bir geçiş metalidir. Yaklaşık 1/500 saniyelik yarı ömrü vardır. Dubna'daki (SSCB) Ortak Nükleer Araştırma Enstitüsü tarafından 1976'ta keşfedilmiştir. Darmstadt'taki Ağır İyon Araştırmaları Merkezi'nde çalışan Batı Almanyalı fizikçiler tarafından doğrulanmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-204'ün, krom-54 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 108,
@@ -1510,7 +1510,7 @@
         "description":"İlk kez Darmstadt'ta bulunan Ağır İyon Araştırmaları Merkezi'nde Peter Armbruster ve Gottfried Muenzenberg'in öncülüğündeki Alman bir araştırma ekibi tarafından sentezlenen radyoaktif geçiş metalidir..",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kurşun-208'in, demir-58 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 109,
@@ -1524,7 +1524,7 @@
         "description":"Yaklaşık beş milisaniyelik yarı ömrü vardır. Bu elementin elde edilişi füzyon tekniklerinin gerçekten yeni ağır çekirdekler yapmakta kullanılabileceğini göstermiştir. Batı Almanya'nın Darmstadt şehrinde bulunan Ağır İyon Araştırmaları Merkezi'nde bulunup elde edilmiştir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 110,
@@ -1538,7 +1538,7 @@
         "description":"Keşfedildiği Darmstad (Wihausen bölgesinde bulunan GSI Helmholtz Ağır İyon Araştırma Merkezi) şehrinin adı verilmiştir. Eka-platin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununnilyum (Uun) isimleriyle de bilinmektedir. ",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 111,
@@ -1552,7 +1552,7 @@
         "description":"X ışınlarını bulan Wilhem Contrad Röntgen'in onuruna bu isim verilmiştir. Eka-altın ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen unununyum isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 112,
@@ -1566,7 +1566,7 @@
         "description":"Nikolas Kopernik'in onuruna bu isim verilmiştir. Geçici sistematik ad olarak ununbiyum kullanmılmış, eka-cıva da denmişti..",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kurşun-208'in, çinko-70 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"D0BFFF"
+        "colors":"D8B4F8"
       },
       {
         "number": 113,
@@ -1580,7 +1580,7 @@
         "description":"Elementin keşfedildiği Japonya'nın Japonca karşılığının adı verilmiştir. Eka-talyum ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununtriyum (Uut) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 114,
@@ -1594,7 +1594,7 @@
         "description":"Sovyet nükleer fiziğinin öncülerinden ve elementin keşfedildiği Dubna'daki Ortak Nükleer Araştırma Enstitüsü'nün kurucusu olan Georgy Flyorov'un onuruna bu isim verilmiştir. Ununkuadyum, geçici sistematik isim olarak kullanılmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"D0BFFF"
+        "colors":"82A0D8"
       },     
        {
         "number": 115,
@@ -1608,7 +1608,7 @@
         "description":"Elementin keşfedildiği Moskova Oblastı'nın adı verilmiştir. Eka-bizmut ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafınfan geçici olarak verilen ununpentiyum (Uup) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 116,
@@ -1622,7 +1622,7 @@
         "description":"Adını çiftlik sahini Robert Livermore'dan alan Livermore şehrinde bulunan ve elemetin keşfedilmesinde rol oynayan Lawrence Livermore Ulusal Laboratuvarı'nın onuruna bu isim verilmiştir. Ununheksiyum, geçici sistematik isim olarak kullanılmıştır.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 117,
@@ -1636,7 +1636,7 @@
         "description":"Kendi ismini Çeroki köyü Tanasi'den alan ve elementin sentezlenmesindeki adımlardan biri için önemli çalışmaların yapıldığı Tennesee eyaletinin adı verilmiştir. Eka-astatin ve Uluslararası Uygulamalı Temel ve Kimya Birliği tarafından geçici olarak verilen ununseptiyum (Uus) isimleriyle de bilinmektedir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 118,
@@ -1650,7 +1650,7 @@
         "description":"Süper ağır elementlerin sentezlenmesi alanına en büyük katkı sağlayanlardan biri olan Yuri Oganessian'ın adından. Eka-randon ve geçici olarak Uluslararası Temel ve Uygulamalı Kimya Birliği tarafından ununoctium (Uuo) da denmiştir.",
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       },
       {
         "number": 119,
@@ -1664,6 +1664,6 @@
         "description":"Bilinmiyor",
         "usage":"Bilinmiyor",
         "source":"Bilinmiyor.",
-        "colors":"D0BFFF"
+        "colors":"F1F0E8"
       } 
 ]
