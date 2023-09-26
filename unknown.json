@@ -12,7 +12,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 110,
@@ -27,7 +27,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 111,
@@ -42,7 +42,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 113,
@@ -57,7 +57,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir..",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 115,
@@ -72,7 +72,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 116,
@@ -87,7 +87,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 117,
@@ -102,7 +102,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 118,
@@ -117,7 +117,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 119,
@@ -132,6 +132,6 @@
         "usage":"Bilinmiyor",
         "source":"Bilinmiyor.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       } 
 ]

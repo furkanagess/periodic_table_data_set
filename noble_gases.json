@@ -12,7 +12,7 @@
     "usage":"Balonlarda, derin dalışta ve kaynakçılıkta kullanılır. Aynı zamanda düşük sıcaklık gereken araştırmalarda kullanılır.",
     "source":"Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
     "colors":"CBFFA9",
-    "shColor":""
+    "shColor":"91B679"
   },
       {
         "number": 10,
@@ -27,7 +27,7 @@
         "usage":"Ağırlıklı olarak ışıklandırma için kullanılır.",
         "source":"Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 18,
@@ -42,7 +42,7 @@
         "usage":"Aydınlatma ürünlerinde kullanılır. Akkor ampullerin dolgusunda sıkça yararlanılan bir elementtir. Belli bir miktarı florösan lambalarda kripton ile karıştırılır. Yari iletken sanayiindeki kristaller argon atmosferlerinde elde edilir.",
         "source":"Radyoaktif potasyum-40'ın bozunması ile devamlı olarak havaya salınır. Saf hali, sıvı havanın ayrımsal damıtımı ile elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 36,
@@ -57,7 +57,7 @@
         "usage":"Aydınlatma ürünlerinde kullanılır. Bir miktarı akkorlu lambalarda atıl gaz olarak kullanılır. Bir miktarı da floresan lambalarda argon ile karıştırılır. En önemli kullanım alanı, havaalanı pistlerinin aydınlatılmasında kullanılan stroboskopik lambalardır.",
         "source":"Atmosferin milyonda birinde bulunur. Sıvı hava üretiminden elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 54,
@@ -72,7 +72,7 @@
         "usage":"El feneri ve diğer güçlü lambalarda dolgu maddesi olarak kullanılır. Ksenonun elektriksel uyarımı, parlak bir beyaz ışık huzmesi oluşturur. Aynı zamanda kabarcık odalarında ve modern nükleer enerji reaktörlerinde kullanılır.",
         "source":"Sıvı havadan az miktarlarda elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 86,
@@ -87,6 +87,6 @@
         "usage":"Bazı kanser türlerinin tedavisinde kullanılır.",
         "source":"Dünyanının yüzeyindeki radyumun bozunması sonucu oluşur.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       }
 ]

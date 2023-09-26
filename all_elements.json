@@ -12,7 +12,7 @@
         "usage":"Yüksek miktarlarda hidrojen amonyak üretiminde kullanılır. Aynı zamanda balonlarda, metal arıtımında ve roketlerde yakıt olarak kullanılır. En ağır iki izotopu döteryum (D) ve trityum (T) sırasıyla nükler fisyon ve füzyon için kullanılır.",
         "source":"Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 2,
@@ -27,7 +27,7 @@
         "usage":"Balonlarda, derin dalışta ve kaynakçılıkta kullanılır. Aynı zamanda düşük sıcaklık gereken araştırmalarda kullanılır.",
         "source":"Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 3,
@@ -42,7 +42,7 @@
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 4,
@@ -57,7 +57,7 @@
         "usage":"Yüksek oranda ısı soğurabilmesi uzay aracı, roket, uçak vb. araçların üretiminde berilyumu kullanışlı bir malzeme kılmaktadır. Zümrütler, içlerinde bulunan az miktarda krom sayesinde yeşil renk alan beril kristalleridir.",
         "source":"Çoğunlukla beril [AlBe3(Si6O18)] ve krizoberil (Al2BeO4) gibi minerallerde bulunur. Saf berilyum, beril mineralinin kimyasal olarak indirgenmesiyle elde edilir. Berilyum klorürün elektroliziyle de elde edilebilir.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 5,
@@ -72,7 +72,7 @@
         "usage":"Jet ve roketlerde gereken ısıya dayanaklı alaşımlar yapmak için titanyum ve tungsten ile birlikte kullanılır.",
         "source":"Bir boraks türü olan kernitten elde edilir. Yüksek saflıktaki bor, erimiş potasyum floroborat ve potasyum klorürün elektrolizi ile üretilir.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 6,
@@ -87,7 +87,7 @@
         "usage":"Çelik üretimi, filtreler ve daha pek çok alanda kullanılır. Radyokarbon tarihlendirmesi, eski nesneleri karbon-14 izotopu ile tarihlendirir.",
         "source":"Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 7,
@@ -102,7 +102,7 @@
         "usage":"Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
         "source":"Ayrımsal damıtım ile sıvı havadan elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 8,
@@ -117,7 +117,7 @@
         "usage":"Çelik yapımında, kaynakçılıkta ve yaşam desteğinde kullanılır. Atmosferin üst katmanında doğal olarak bulunan ozon (O3) dünyayı ultraviyole radyasyonundan korur.",
         "source":"Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 9,
@@ -132,7 +132,7 @@
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
         "colors":"C8E4B2",
-        "shColor":""
+        "shColor":"608842"
       },
       {
         "number": 10,
@@ -147,7 +147,7 @@
         "usage":"Ağırlıklı olarak ışıklandırma için kullanılır.",
         "source":"Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 11,
@@ -162,7 +162,7 @@
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 12,
@@ -177,7 +177,7 @@
         "usage":"Uçak ve roket yapımında gereken alaşımlarda kullanılır. Alüminyuma benzer yapısal özellikleri vardır. Ancak benzinin yanma sıcaklığında ateş almasından ötürü kullanım alanları kısıtlıdır.",
         "source":"Deniz suyunda bulunan erimiş magnezyum klorürün elektrolizi ile elde edilir. Her bir milküp denizsuyu 5443 kg magnezyum içerir.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 13,
@@ -192,7 +192,7 @@
         "usage":"Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
         "source":"Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 14,
@@ -207,7 +207,7 @@
         "usage":"Camlarda silisyum dioksit (SiO2) şeklinde kullanılır. Silisyum karbür, bilinen en sert maddelerden biridir ve cilada kullanılır. Kristal hali de yarı iletkenlerde kullanılır.",
         "source":"Kil, granit, kuartz (SiO2) ve kumun büyük bir kısmını oluşturur. Ticari üretimi kum (SiO2) ve karbonun 200 derece civarda sıcaklıkta tepkimesi ile yapılır.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 15,
@@ -222,7 +222,7 @@
         "usage":"Gübre ve deterjan üretiminde kullanılır. Belli bir miktarı havai fişek, emniyet kibriti ve ateşli silahlarlarda kullanılır. Aynı zamanda, hem kendisi hem de karanlıkta parlayan bileşikleri bazı alanlarda kullanılır.",
         "source":"Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       
       {
@@ -238,7 +238,7 @@
         "usage":"Kibrit, barut, kauçuk, boya, tıbbi ve zirai ilaçların yapımında kullanılır. Aynı zamanda sülfirik asit (H2SO4) yapımında da yararlanılır.",
         "source":"Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 17,
@@ -253,7 +253,7 @@
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
         "colors":"C8E4B2",
-        "shColor":""
+        "shColor":"608842"
       },
       {
         "number": 18,
@@ -268,7 +268,7 @@
         "usage":"Aydınlatma ürünlerinde kullanılır. Akkor ampullerin dolgusunda sıkça yararlanılan bir elementtir. Belli bir miktarı florösan lambalarda kripton ile karıştırılır. Yari iletken sanayiindeki kristaller argon atmosferlerinde elde edilir.",
         "source":"Radyoaktif potasyum-40'ın bozunması ile devamlı olarak havaya salınır. Saf hali, sıvı havanın ayrımsal damıtımı ile elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 19,
@@ -283,7 +283,7 @@
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 20,
@@ -298,7 +298,7 @@
         "usage":"Birçok yaşam formu tarafından kabuk ve kemik geliştirmek için kullanılır. Saf metal halinin neredeyse hiçbir kullanımı yoktur, ancak birçok sanayi alanında kalsiyum bileşiklerinden kireç (CaO) ve alçıtaşına (CaSO4) son derece yüksek talep olur.",
         "source":"Tebeşir, kireç taşı ve mermer gibi minerallerden elde edilir. Saf metal hali, düşük basınçtaki sıcak imbiklerde bulunan kireçteki (kalsiyum karbona, CaCO3) kalsiyumunun alüminyum ile değiştirilmesiyle elde edilir.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 21,
@@ -313,7 +313,7 @@
         "usage":"Skandiyum metali havacılıkta, skandiyum oksit (Sc2O3) yüksek yoğunluklu elektrik lambalarının üretiminde ve skandiyum iyodür (ScI3) de güneş ışığına oldukça yakın tonda bir ışık veren lambaların yapımında kullanılır.",
         "source":"Çoğunlukla tortveitit (yaklaşık %34 oranında skandiyum içerir) ve wiikit minerallerinde rastlanır. Ayrıca, kalay ve tungsten cevherlerinde de bulunur. Saf skandiyum, uranyum arıtımının yan ürünü olarak elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 22,
@@ -328,7 +328,7 @@
         "usage":"Skandiyum metali havacılıkta, skandiyum oksit (Sc2O3) yüksek yoğunluklu elektrik lambalarının üretiminde ve skandiyum iyodür (ScI3) de güneş ışığına oldukça yakın tonda bir ışık veren lambaların yapımında kullanılır.",
         "source":"Kimyasal olarak güçlü ve asitlere dayanıklı olduğu için birçok alaşımda kullanılır. Yüzeyleri çok iyi kaplayan beyaz pigment olan titanyum dioksit (TiO2) boyalarda, kauçukta, kağıtlarda ve başka birçok malzemede kullanılır.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 23,
@@ -343,7 +343,7 @@
         "usage":"Daha güçlü ve dayanıklı alaşımlar yapmak için başka metallerle birlikte kullanılır. Vanadyum pentoksit (V2O5) katalizör, boya ve renk sabitleyici olarak kullanılır.",
         "source":"Patronit (VS4), vanadinit [Pb5(VO4)3Cl] ve karnotit [K2(UO2)2(VO4)2.3H2O] minerallerinde bulunur. Saf metal hali, vanadyum triklorür (VCl3) elde etmek üzere karbon (C) ve klor (CI2) ile ısıtılır. Sonrasında da elde edilen bileşik argon atmosferinde magnezyum ile ısıtılarak saf hali elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 24,
@@ -358,7 +358,7 @@
         "usage":"Paslanmaz çelik yapımında kullanılır. Zümrüt ve yakutlara renk verir. Muhtelif orandaki demir-nikel-krom alaşımları, modern teknolojideki en önemli metallerin inanılmaz bir çeşitliliğini sağlar.",
         "source":"Kromit [Fe,Mg(CrO4)], en önemli mineralidir. Cevherinin, silikon ve alüminyumlu ortamda ısıtılmasıyla ticari üretimi yapılır.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 25,
@@ -373,7 +373,7 @@
         "usage":"Çelik, bataryalar ve seramikte kullanılır. Demiryolu raylarındaki çelik %1.2 kadar manganez içerebilir. B1 vitamininin etkili olması için oldukça gereklidir.",
         "source":"En çok bulunan cevherleri pirolüsit (MnO2), psilomelan [(Ba,H2O)2Mn5O10] ve rodokrosittir (MnCO3). Saf metal hali, manganez dioksitin (MnO2), toz halindeki alüminyum ile karıştırıp bir fırında ateşlenmesi ile elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 26,
@@ -388,7 +388,7 @@
         "usage":"Çelik ve diğer alaşımlarda kullanılır. İnsanlar için gereklidir. Kan damarlarında oksijen taşıyan hemoglobinin temel yapıtaşıdır. Oksitleri manyetik bantlar ve bilgisayar disklerinde kullanılır.",
         "source":"Demir cevherlerinden elde edilir. Saf metal hali yüksek fırınlarda kireç taşının, kok kömürünün ve demir cevherinin tabakalar halinde konup sıcak gazların da aşağı itilmesiyle elde edilir. Bu işlem kok kömürünü iyice kızdırır ve demir bu sayede oksitlerinden indirgenerek aşağı aktığı yerde sıvılaşır.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 27,
@@ -403,7 +403,7 @@
         "usage":"Mıknatıs, seramik ve özel gözlüklerde bulunan birçok sert alaşımda kullanılır. 982 dereceye kadar sert kalır. Radyoaktif kobalt-60 izotopu kanser tedavisinde kullanılır.",
         "source":"Kobaltit  (CoAsS) ve linneit (Co3S4) gibi arsenik, oksijen ve kükürtün olduğu bileşiklerde bulunur. Saf kobalt nikel, bakır ve demi arıtımının yan ürünü olarak elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 28,
@@ -418,7 +418,7 @@
         "usage":"Aşınmaya dirençli olduğundan dolayı elektrokaplama ve metal alaşımlarında kullanılır. Ayrıca, madeni paralarda nikel-kadmiyum pillerinde ve katalizör olarak kullanılır.",
         "source":"Pentlandit cevherinde bol miktarda bulunur. Cevher yüksek fırında ısıtılarak kükürtün oksijenle yer değiştirmesi sağlanır. Ardından, oksitler demirle tepkimeye giren bir asitle kimyasal işleme tabi tutulur. Söz konusu asit nikel ile tepkimeye girmez.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 29,
@@ -433,7 +433,7 @@
         "usage":"En çok elektrik iletkeni olarak kullanılır. Su borularının üretiminde de bakırdan yararlanılır. Alaşımları mücevherat ve madeni para yapımında kullanılır.",
         "source":"Saf bakır nadiren doğada bulunur. Genellikle kalkoprit (CuFeS2), kalkosit(Cu2S), kovelit (CuS)  yada kuprit (Cu2O) gibi oksitlerde olduğu gibi sülfirlerde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 30,
@@ -448,7 +448,7 @@
         "usage":"Diğer metallerin paslanmasını engellemek için kaplama (galvanizleme) yapmak için kullanılır. Ayrıca pirinç, bronz, nikel gibi alaşımlarda kullanılır. Lehim, kozmetik ürünleri ve pigmentlerde de kullanımı görülür.",
         "source":"Sfalerit (ZnS), kalamin, franklinit, smitsonit (ZnCO3), villemit ve zinkit (ZnO) gibi minerallerde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 31,
@@ -463,7 +463,7 @@
         "usage":"Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
         "source":"Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur..",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 32,
@@ -478,7 +478,7 @@
         "usage":"Yaygın olarak yarı iletkenlerde kullanılır. Eser miktarda fosfor, arsenik, galyum ve antimon ile birlikte kullanıldığında iyi bir yarı iletken görevi görür.",
         "source":"Bakır, çinko ve kurşun arıtımından elde edilir.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 33,
@@ -493,7 +493,7 @@
         "usage":"Birçok bileşiği ölümcül derecede zehirlidir. Yabani ot ilacı ve fare zehri olarak kullanılır. Elektriği iletir. Yarı iletkenlerde kullanılır. Arsenit olarak bilinen bazı bileşikleri boya, duvar kağıdı ve seramik yapımında kullanılır.",
         "source":"Mispikelde (arsenopirit) bulunur.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 34,
@@ -508,7 +508,7 @@
         "usage":"Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
         "source":"Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 35,
@@ -523,7 +523,7 @@
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
         "colors":"C8E4B2",
-        "shColor":""
+        "shColor":"608842"
       },
       {
         "number": 36,
@@ -538,7 +538,7 @@
         "usage":"Aydınlatma ürünlerinde kullanılır. Bir miktarı akkorlu lambalarda atıl gaz olarak kullanılır. Bir miktarı da floresan lambalarda argon ile karıştırılır. En önemli kullanım alanı, havaalanı pistlerinin aydınlatılmasında kullanılan stroboskopik lambalardır.",
         "source":"Atmosferin milyonda birinde bulunur. Sıvı hava üretiminden elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 37,
@@ -553,7 +553,7 @@
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 38,
@@ -568,7 +568,7 @@
         "usage":"Kızıl renk vermesi için havai fişek ve işaret fişeklerinde kullanılır. Strontiyum-90, atom bombası patlamaları sonrasında nükleer serpinti ile oluşan uzun ömürlü, son derece radyoaktif bir üründür.",
         "source":"Selestin ve strontiyanit minerallerinde bulunur.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 39,
@@ -583,7 +583,7 @@
         "usage":"Renkli televizyonlar için gereken kırmızı fosforun yapılabilmesi için evropiyum ile karıştırılır. İtriyum oksit ve demik oksit, radarda kullanılan kristal bir garneti yapımı için birleştirilir.",
         "source":"Monazit, ksenotim ve itriya gibi minerallerde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 40,
@@ -598,7 +598,7 @@
         "usage":"Nötronları hemen soğurmadığı için nükleer alanda zirkonyum alaşılımlarında kullanılır. Badeleyit aynı zamanda laboratuvar kaplarında kullanılır. Yüksek performaslı pompa ve vana yapımında da zirkonyumun kullanımı yaygındır. Zirkonyum silikat (ZrSiO4) popüler bir değerli taştır.",
         "source":"Zirkon ve badeleyit gibi birçok mineralde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
        {
         "number": 41,
@@ -613,7 +613,7 @@
         "usage":"Demir ve nikelle beraber alaşım olarak kullanılır. Nükleer reaktörlerde kullanılabilir. Kalay, alüminyum veya zirkonyum ile alaşıma dahil edildiğinde süper iletken olduğu bilinmektedir.",
         "source":"Kolombit mineralinde bulunur. Eskiden kolombiyum (Cb) olarak biliniyordu. Nükleer reaktör, uçak ve roketlerinin paslanma çelik alaşımlarında kullanılır.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 42,
@@ -628,7 +628,7 @@
         "usage":"Alaşımları uçak, roket ve kazan sacı için yapılan koruyucu kaplamalarda kullanılır.",
         "source":"Molibdenit (MoS2) ve vulfenit (MoO4Pb) minerallerinde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 43,
@@ -643,7 +643,7 @@
         "usage":"Nükleer tıp alanında kullanılır.",
         "source":"İlk kez molibdenyumun siklotronda dötronlarla (ağır hidrojen) bombardıman edilmesi sonucu elde edilmiştir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 44,
@@ -658,7 +658,7 @@
         "usage":"Platin ve paladyumu sertleştirirken kullanılır. %10 rutenyum bulunan platin alaşımları hava aracı manyetolarında kullanılır.",
         "source":"Piroksinit ve pentlanditte bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 45,
@@ -673,7 +673,7 @@
         "usage":"Yüksek kaliteli bilimsel ekipmanların aşınmaması için yapılan kaplamalarda kullanılır. Termokupl üretiminde de platin ile birlikte  kullanılır.",
         "source":"Nikel üretiminin yan ürünü olarak elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 46,
@@ -688,7 +688,7 @@
         "usage":"Dişçilik araçlarında ve mücevheratta gümüşe alternatif olarak kullanılır. Saf metal hali, analog kol saatleri için hassas zemberek yaparken kullanılır. Katalizör olarak ve cerrahi araçlarda da kullanılır.",
         "source":"Platin, nikel, bakır ve cıva cevherlerinde elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 47,
@@ -703,7 +703,7 @@
         "usage":"Mücevherat alaşımlarında ve fotoğrafçılıkta gereken bileşiklerde kullanılır. Aynı zamanda iyi bir iletkendir, fakat pahalıdır.",
         "source":"Argentit (AgS), açık ve koyu pirargirit (Ag3AsS3) ve gevrek gümüş cevherlerinde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 48,
@@ -718,7 +718,7 @@
         "usage":"Nikel-kadmiyum bataryalarında kullanılır. Çeliğin elektrokaplamasında ve rulman üretiminde kullanılır. Bileşikleri, boya pigmentlerinde ve çok çeşitli yoğun boyalarda bulunur. Kaynayan kadmiyum, yeşil renkte zehirli bir buharı açığa çıkarır.",
         "source":"Çinko arıtımının yan ürünü olarak elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 49,
@@ -733,7 +733,7 @@
         "usage":"Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
         "source":"Bazı çinko cevherlerinde bulunur.",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 50,
@@ -748,7 +748,7 @@
         "usage":"Zehirli ve aşındırıcı olmadığı için çelik konservelerin kaplamasında kullanılır. Lehimde (33%Sn:67%Pb), bronzda (20%Sn:80%Cu) ve kurşun-kalay alaşımında bulunur. Kalay ile florun olduğu bir bileşik olan kalay florür (SnF2), bazı diş macunlarında kullanılır.",
         "source":"En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
         "colors":"D0BFFF",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 51,
@@ -763,7 +763,7 @@
         "usage":"Sertliklerini arttırmak için başka metallerle alaşımlanır. Birkaç yarı iletken türünün üretiminde, plastik ve kimyasallarda kullanılır. Reçetesiz satılan bazı tip soğuk algınlığı ve grip ilaçlarının üretiminde antimon bileşiklerinden yararlanır.",
         "source":"Stibnit  (Sb2S3) ve valentinitte (Sb2O3) bulunur.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 52,
@@ -778,7 +778,7 @@
         "usage":"Bakır ve paslanmaz çelik ürünlerinin talaşlı imalat kalitesini geliştirmekte, cam ve seramik boyamasında kullanılır. Ayrıca termoelektrik cihazlarda bulunur. Bir miktarı, kauçuk endüstrisinde kullanılır ve fünye imalatında temel bir içerik maddesidir.",
         "source":"Bakır ve kurşun arıtımının yan ürünü olarak elde edilir.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 53,
@@ -793,7 +793,7 @@
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
         "colors":"C8E4B2",
-        "shColor":""
+        "shColor":"608842"
       },
       {
         "number": 54,
@@ -808,7 +808,7 @@
         "usage":"El feneri ve diğer güçlü lambalarda dolgu maddesi olarak kullanılır. Ksenonun elektriksel uyarımı, parlak bir beyaz ışık huzmesi oluşturur. Aynı zamanda kabarcık odalarında ve modern nükleer enerji reaktörlerinde kullanılır.",
         "source":"Sıvı havadan az miktarlarda elde edilir.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 55,
@@ -823,7 +823,7 @@
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 56,
@@ -838,7 +838,7 @@
         "usage":"Barit yada baryum sülfatın (BaSO4) öğütülüp toz haline getirilmiş hali kauçuk, plastik ve reçinelerde dolgu maddesi olarak kullanılır. Suda çözünmez ve bu yüzden sindirim sisteminin görüntülemesinde uygulanan X ışınlarıyla birlikte kullanılır. Baryum nitrat, parlak yeşil renkte yanar ve havai fişeklerde kulllanılır.",
         "source":"Baritin (BaSO4) ve viterit (BaSO3) minerallerinden bulunur. Reaktifliğinden ötürü saf halde bulunmaz. Saf kalması için gazyağı altında saklanmalıdır.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 57,
@@ -853,7 +853,7 @@
         "usage":"Yüksek yoğunluklu, karbon ark lambalarının elektrotlarında kullanılır. Aynı zamanda kaliteli evropiyum metali üretiminde kullanılır. Cama ışığı kırıcı özellikler kazandırdığı için, pahalı kamera lenslerinde bulunur.",
         "source":"Monazit ve bastnezit minerallerinde nadir toprak elementleriyle beraber bulunur. Monazit kumu tipik olarak %25 lantan içerir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 58,
@@ -868,7 +868,7 @@
         "usage":"Yüksek yoğunluklu karbon lambalarında ve özel metallerde alaşımlama maddesi olarak; oksitleri, optik ve cam sanayinde; tuzları fotoğrafçılıkta ve tekstil sanayinde kullanılır.",
         "source":"En çok bulunan nadir toprak metalidir. Monazit kumu [Ce(PO4)] gibi birçok mineralde bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 59,
@@ -883,7 +883,7 @@
         "usage":"Cam üfleme işlemi sırasındaki sarı ışığı süzdüğü için camcıların koruyucu gözlüklerindeki lenslerin yapımında neodimiyum ile beraber kullanılır. Magnezyum ile alaşımlandığında, hava araçlarının motorlarında kullanılan yüksek mukavemetli bir metal elde edilir. Misch metalinin %5'ini oluşturmaktadır",
         "source":"Neodimum ile aynı tuzlardan elde edilir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 60,
@@ -898,7 +898,7 @@
         "usage":"Lazerlerde yapay yakut yapımında kullanılır. Aynı zamanda seramikler, parlak mor cam, kızılötesi radyasyonu süzen özel camlarda ve praseodimiyum ile birlikte özel bir lensin üretiminde kullanılır. Çelik yapımında kullanılan Misch metalinin %18'ini oluşturmaktadır.",
         "source":"Monanit kumundan yapılmış halojenür tuzlarının elektrolizi ile elde edilir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 61,
@@ -913,7 +913,7 @@
         "usage":"Kalınlık ölçerlerde radyoaktiflik kaynağı olarak kullanılmaktadır.",
         "source":"Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 62,
@@ -928,7 +928,7 @@
         "usage":"Elektronik ve seramik sanayilerinde kullanılır. Kolayca manyetize edilir ve sonradan demanyetize edilmesi oldukça zordur. Bu özelliği gelecekte katıhal ve süper iletken teknolojileri için önemli uygulama alanlarında yer alacağına işaret etmektedir.",
         "source":"Diğer nadir toprak elementleriyle monazit kumunda bulunur. Bu kum ağırlık olarak %50 nadir toprak elementerinden, %2.8 samaryumdan oluşur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 63,
@@ -943,7 +943,7 @@
         "usage":"Renkli televizyonlar için itriyum oksit ile kırmızı fosfor yapımı için kullanılır.",
         "source":"Kalsiyum, toryum, seryum ve diğer birçok nadir toprak elementinin fosfat karışımı olan monazit kumundan elde edilir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 64,
@@ -958,7 +958,7 @@
         "usage":"Çelik alaşımlama maddelerinde ve elektronik bileşenlerinin üretiminde kullanılır.",
         "source":"Gadolinit ve monazit kumunda diğer nadir toprak elementleriyle bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 65,
@@ -973,7 +973,7 @@
         "usage":"Özel lazerlerde ve katıhal cihazlarında ufak miktarlarda kullanılır.",
         "source":"Diğer toprak elementleriyle birlikte %0.03 oranında terbiyum içeren monazit kumunda bulunur. Her ikisi de %1'e kadar terbiyum içeren oksit karışımı olan ksenotim ve öksenitten de elde edilebilmektedir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 66,
@@ -988,7 +988,7 @@
         "usage":"Kullanımı deneysel ve ezoterik amaçlarla sınırlıdır.",
         "source":"Genellikle erbiyum, holmiyum ve diğer nadir toprak elementleriyle birlikte ağırlık olarak %50'si bu elementlerden oluşan monazit kumu gibi bazı minerallerde bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 67,
@@ -1003,7 +1003,7 @@
         "usage":"Çok az pratik kullanımı vardır. Ancak gelecek için umut vaadeden olağanüstü manyetik özelliklere sahiptir.",
         "source":"Gadolinitte bulunur. En çok, %50'si nadir toprak elementi ve %0.05'i tipik olarak holmiyumdan oluşan monazitte bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 68,
@@ -1018,7 +1018,7 @@
         "usage":"Erbiyum oksit, seramiklerde pembe sır elde etmek için kullanılır. Ayrıca, nükleer sanayide birkaç kullanım alanıyla birlikte diğer egzotik metaller için alaşımlama maddesi olarak da değerlendilir. Örnek vermek gerekirse, vanadyumun şekil verilebilirliğini arttırır.",
         "source":"Daha ağır nadir toprak metallerinden ksenotim ve öksenit ile birlikte bulunur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 69,
@@ -1033,7 +1033,7 @@
         "usage":"Radyoaktif tulyum, taşınabilir röntgen cihazlarının çalıştırılması için kullanılır. Bu sayede elektrik ekipmanı kullanımına gerek kalmaz.",
         "source":"Gadolinit, öksenit, ksenotim ve monanit minerallerinde diğer toprak elementleriyle birlikte bulunur. Ağırlık olarak monazit, genellikle %50 nadir toprak elementi ve %0.007 tulyumdan oluşur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 70,
@@ -1048,7 +1048,7 @@
         "usage":"Metalurjik ve kimyasal deneylerde kullanılır.",
         "source":"İtriya, monazit, gadolinit ve ksenotim gibi minerallerde bulunur. Monazitin %50'si ağırlık olarak nadir toprak element, %0.03'ü de tipik olarak iterbiyumdan oluşur.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 71,
@@ -1063,7 +1063,7 @@
         "usage":"Kullanım alanı yoktur.",
         "source":"Gadolinit ve ksenotimde iterbuyumla beraber bulunur. Ağırlık olarak %50'si genellikle nadir toprak elementi ve %0.003'ü lütesyum olan monazit kumundan elde edilir.",
         "colors":"9ED2BE",
-        "shColor":""
+        "shColor":"3C8065"
       },
       {
         "number": 72,
@@ -1078,7 +1078,7 @@
         "usage":"Nötron soğurabilmesinden ötürü reaktör kontrol çubuklarında kullanılır.",
         "source":"Zirkon veya badeleyit mineralinde elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 73,
@@ -1093,7 +1093,7 @@
         "usage":"Yaygın bir şekilde platin yerine ekonomik bir alternatif olarak kullanılır. Tantal pentoksit, kapasitörlerde ve kırılma gücünü arttırmak içim kamera lenslerinde kullanılır. Hem kendisi hem de alaşımları aşınmaya ve suya karşı dayanıklıdır.",
         "source":"En çok tantalit mineralinde bulunur. Her zaman niyobyum ile beraber rastlanır.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 74,
@@ -1108,7 +1108,7 @@
         "usage":"Vakum tüpü ve elektrikli lambalarda gerekli olan filamentlerin yapımında kullanılır. Ayrıca arabalarda platin olarak da bulunur. Kalsiyum veya magnezyum ile karıştırıldığında fosfor elde edililir. Volfram karbür, oldukça sert olup kesme araçları ve aşındırıcı üretiminde kullanılır.",
         "source":"Şelit (CaWO4) ve volframit  [(Fe,Mn)WO4] minerallerinde bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 75,
@@ -1123,7 +1123,7 @@
         "usage":"Kütle spektrofilerinde filament yapmak için volfram veya platin ile karışıtırılır. En büyük önemi, sürekli sürtünme kuvvetine maruz kalmış metal bileşenlerin sertleştirilmesi için kullanılan nadir bir alaşımlama maddesi olmasıdır.",
         "source":"Gadolinit ve molibden minerallerinde küçük miktarlarda bulunur. Erime noktası oldukça yüksektir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 76,
@@ -1138,7 +1138,7 @@
         "usage":"Dolma kalem uçlarında, bazı makine millerinde, elektrikli lamba filamentlerinde, yüksek sıcaklık alaşımlarında ve baskı rulmanı üretiminde kullanılır. Çok serttir ve aşınmaya karşı oldukça dayanıklıdır.",
         "source":"Platin ile aynı cevherlerden elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 77,
@@ -1153,7 +1153,7 @@
         "usage":"Osmiyumla birlikte dolma kalem uçlarında, pota ve özel kap yapımında kullanılır. Standart ağırlık ve ölçülerde gereken alaşımların yanı sıra ısıya dayanıklı alaşımlarda da kullanılır. Platin için sertleştirme maddesi olarak da kullanılmaktadır.",
         "source":"Platin ile birlikte çakıl yataklarında bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 78,
@@ -1168,7 +1168,7 @@
         "usage":"Mücevheratta, pota, özel kapların yapımında ve katalizör olarak kullanılır. Kobalt ile birlikte çok güçlü mıknatıslar üretmek için kullanılır. Ayrıca, standart ağırlık ve ölçüler yapmak için de kullanılır. Aşınmaya ve kral suyu hariç asitlere karşı dirençlidir.",
         "source":"Doğal veya temel platinden elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 79,
@@ -1183,7 +1183,7 @@
         "usage":"Son derece dövülebilir bir yapısı vardır. Elektronikte, mücevheratta ve madeni paralarda kullanılır. Kızılötesi radyasyonun iyi bir yansıtıcısıdır, bu yüzden güneş ışığının içten ısıtmasını azaltmak için gökdelenlerin camlarında ince bir altın tabakası kullanılır.",
         "source":"Doğal olarak ve bakır cevherleriyle birlikte yeryüzündeki damarlarda bulunur.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 80,
@@ -1198,7 +1198,7 @@
         "usage":"Termometre, barometre ve pillerde kullanılır. Aynı zamanda elektrik düğmelerinde ve cıva buharlı aydınlatma ürünlerinde kullanılır.",
         "source":"Cıvanın neredeyse hepsi zincifre veya cıva sülfürden (HgS) elde edilir. Bazı kırmızı zincifre kaynakları o kadar çok cıva içerir ki rastgele alınan numunelerde saf cıva damlalarına rastlanabilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 81,
@@ -1213,7 +1213,7 @@
         "usage":"Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
         "source":"Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 82,
@@ -1228,7 +1228,7 @@
         "usage":"Lehimde, pillerde ve radyasyona karşı zırhlamada kullanılır.",
         "source":"En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
         "colors":"D0BFFF",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 83,
@@ -1243,7 +1243,7 @@
         "usage":"Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
         "source":"Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },
       {
         "number": 84,
@@ -1258,7 +1258,7 @@
         "usage":"Kağıt, kablo ve sac haddelemesi gibi işlemler sırasında ortaya çıkan statik elektriğin önlenmesi amacıyla üretilen endüstriyel ekipmanlarda kullanılır.",
         "source":"Bizmutun bozunması sonrası uraninitte bulunur.",
         "colors":"FFD9B7",
-        "shColor":""
+        "shColor":"B89C84"
       },
       {
         "number": 85,
@@ -1273,7 +1273,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
         "colors":"C8E4B2",
-        "shColor":""
+        "shColor":"608842"
       },
       {
         "number": 86,
@@ -1288,7 +1288,7 @@
         "usage":"Bazı kanser türlerinin tedavisinde kullanılır.",
         "source":"Dünyanının yüzeyindeki radyumun bozunması sonucu oluşur.",
         "colors":"CBFFA9",
-        "shColor":""
+        "shColor":"91B679"
       },
       {
         "number": 87,
@@ -1303,7 +1303,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
         "colors":"CAEDFF",
-        "shColor":""
+        "shColor":"4A8EAF"
       },
       {
         "number": 88,
@@ -1318,7 +1318,7 @@
         "usage":"Yaydığı gama ışınlarından dolayı kanser tedavisinde kullanılır.",
         "source":"Uranyum cevherlerinde, uranyuma 1/3 ppm oranla bulunur.",
         "colors":"FBF0B2",
-        "shColor":""
+        "shColor":"BDB485"
       },
       {
         "number": 89,
@@ -1558,7 +1558,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, 3 ve 4 saniyeden fazla yarıömürlü izotop oluşturan karbon-12 ve 13 parçacıklarıyla bombardıman edilmesi sonucu elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 105,
@@ -1573,7 +1573,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, azot-15 ile bombardıman edilmesiyle elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 106,
@@ -1588,7 +1588,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un, oksijen-18 ile bombardıman edilmesiyle elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 107,
@@ -1603,7 +1603,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-204'ün, krom-54 ile bombardıman edilmesiyle elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 108,
@@ -1618,7 +1618,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kurşun-208'in, demir-58 ile bombardıman edilmesiyle elde edilir.",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 109,
@@ -1633,7 +1633,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 110,
@@ -1648,7 +1648,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 111,
@@ -1663,7 +1663,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 112,
@@ -1678,7 +1678,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kurşun-208'in, çinko-70 ile bombardıman edilmesiyle elde edilir..",
         "colors":"D8B4F8",
-        "shColor":""
+        "shColor":"927AA8"
       },
       {
         "number": 113,
@@ -1693,7 +1693,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir..",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 114,
@@ -1708,7 +1708,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
         "colors":"82A0D8",
-        "shColor":""
+        "shColor":"506386"
       },     
        {
         "number": 115,
@@ -1723,7 +1723,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 116,
@@ -1738,7 +1738,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 117,
@@ -1753,7 +1753,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 118,
@@ -1768,7 +1768,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       },
       {
         "number": 119,
@@ -1783,6 +1783,6 @@
         "usage":"Bilinmiyor",
         "source":"Bilinmiyor.",
         "colors":"F1F0E8",
-        "shColor":""
+        "shColor":"A1A19B"
       } 
 ]

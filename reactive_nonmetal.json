@@ -12,7 +12,7 @@
         "usage":"Yüksek miktarlarda hidrojen amonyak üretiminde kullanılır. Aynı zamanda balonlarda, metal arıtımında ve roketlerde yakıt olarak kullanılır. En ağır iki izotopu döteryum (D) ve trityum (T) sırasıyla nükler fisyon ve füzyon için kullanılır.",
         "source":"Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },   
        {
         "number": 6,
@@ -27,7 +27,7 @@
         "usage":"Çelik üretimi, filtreler ve daha pek çok alanda kullanılır. Radyokarbon tarihlendirmesi, eski nesneleri karbon-14 izotopu ile tarihlendirir.",
         "source":"Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 7,
@@ -42,7 +42,7 @@
         "usage":"Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
         "source":"Ayrımsal damıtım ile sıvı havadan elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 8,
@@ -57,7 +57,7 @@
         "usage":"Çelik yapımında, kaynakçılıkta ve yaşam desteğinde kullanılır. Atmosferin üst katmanında doğal olarak bulunan ozon (O3) dünyayı ultraviyole radyasyonundan korur.",
         "source":"Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
 
       {
@@ -73,7 +73,7 @@
         "usage":"Gübre ve deterjan üretiminde kullanılır. Belli bir miktarı havai fişek, emniyet kibriti ve ateşli silahlarlarda kullanılır. Aynı zamanda, hem kendisi hem de karanlıkta parlayan bileşikleri bazı alanlarda kullanılır.",
         "source":"Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
       {
         "number": 16,
@@ -88,7 +88,7 @@
         "usage":"Kibrit, barut, kauçuk, boya, tıbbi ve zirai ilaçların yapımında kullanılır. Aynı zamanda sülfirik asit (H2SO4) yapımında da yararlanılır.",
         "source":"Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       },
 
       {
@@ -104,6 +104,6 @@
         "usage":"Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
         "source":"Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
         "colors":"FD8A8A",
-        "shColor":""
+        "shColor":"B16161"
       }
 ]
