@@ -42,7 +42,7 @@
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 4,
@@ -132,7 +132,7 @@
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
         "colors":"C8E4B2",
-        "shColor":"608842"
+        "shColor":"8CC760"
       },
       {
         "number": 10,
@@ -162,7 +162,7 @@
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 12,
@@ -192,7 +192,7 @@
         "usage":"Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
         "source":"Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 14,
@@ -253,7 +253,7 @@
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
         "colors":"C8E4B2",
-        "shColor":"608842"
+        "shColor":"8CC760"
       },
       {
         "number": 18,
@@ -283,7 +283,7 @@
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 20,
@@ -463,7 +463,7 @@
         "usage":"Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
         "source":"Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur..",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 32,
@@ -523,7 +523,7 @@
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
         "colors":"C8E4B2",
-        "shColor":"608842"
+        "shColor":"8CC760"
       },
       {
         "number": 36,
@@ -553,7 +553,7 @@
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 38,
@@ -733,7 +733,7 @@
         "usage":"Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
         "source":"Bazı çinko cevherlerinde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 50,
@@ -748,7 +748,7 @@
         "usage":"Zehirli ve aşındırıcı olmadığı için çelik konservelerin kaplamasında kullanılır. Lehimde (33%Sn:67%Pb), bronzda (20%Sn:80%Cu) ve kurşun-kalay alaşımında bulunur. Kalay ile florun olduğu bir bileşik olan kalay florür (SnF2), bazı diş macunlarında kullanılır.",
         "source":"En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
         "colors":"D0BFFF",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 51,
@@ -793,7 +793,7 @@
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
         "colors":"C8E4B2",
-        "shColor":"608842"
+        "shColor":"8CC760"
       },
       {
         "number": 54,
@@ -823,7 +823,7 @@
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 56,
@@ -1213,7 +1213,7 @@
         "usage":"Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
         "source":"Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 82,
@@ -1228,7 +1228,7 @@
         "usage":"Lehimde, pillerde ve radyasyona karşı zırhlamada kullanılır.",
         "source":"En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
         "colors":"D0BFFF",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 83,
@@ -1243,7 +1243,7 @@
         "usage":"Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
         "source":"Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 84,
@@ -1273,7 +1273,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
         "colors":"C8E4B2",
-        "shColor":"608842"
+        "shColor":"8CC760"
       },
       {
         "number": 86,
@@ -1303,7 +1303,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
         "colors":"CAEDFF",
-        "shColor":"4A8EAF"
+        "shColor":"5EB4DF"
       },
       {
         "number": 88,
@@ -1708,7 +1708,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },     
        {
         "number": 115,

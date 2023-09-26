@@ -12,7 +12,7 @@
         "usage":"Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
         "source":"Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 31,
@@ -27,7 +27,7 @@
         "usage":"Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
         "source":"Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur..",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 49,
@@ -42,7 +42,7 @@
         "usage":"Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
         "source":"Bazı çinko cevherlerinde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 50,
@@ -57,7 +57,7 @@
         "usage":"Zehirli ve aşındırıcı olmadığı için çelik konservelerin kaplamasında kullanılır. Lehimde (33%Sn:67%Pb), bronzda (20%Sn:80%Cu) ve kurşun-kalay alaşımında bulunur. Kalay ile florun olduğu bir bileşik olan kalay florür (SnF2), bazı diş macunlarında kullanılır.",
         "source":"En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 81,
@@ -72,7 +72,7 @@
         "usage":"Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
         "source":"Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 82,
@@ -87,7 +87,7 @@
         "usage":"Lehimde, pillerde ve radyasyona karşı zırhlamada kullanılır.",
         "source":"En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 83,
@@ -102,7 +102,7 @@
         "usage":"Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
         "source":"Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       },
       {
         "number": 114,
@@ -117,6 +117,6 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir..",
         "colors":"82A0D8",
-        "shColor":"506386"
+        "shColor":"6A83B1"
       }
 ]
