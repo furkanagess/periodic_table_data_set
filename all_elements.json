@@ -1333,7 +1333,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Son derece nadirdir. Bütün uranyum cevherlerinde bulunur. Genellikle radyumun reaktörde nötronlarla kimyasal işleme tabi tutulmasıyla elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 90,
@@ -1348,7 +1348,7 @@
         "usage":"Güçlü alaşımların yapımında ve ultraviyoleli fotoelektrik hücrelerin yapımında kullanılır. Yüksek kaliteli lenslerde yaygın olarak kullanılır. Nükleer bir yakıt olan uranyum-223'ün yapımı için nötronlar ile bombardıman edilir.",
         "source":"Monazit ve torit gibi çeşitli minerallerde bulunur.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 91,
@@ -1363,7 +1363,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 92,
@@ -1378,7 +1378,7 @@
         "usage":"Yüzlerce yıl boyunca camlar için bir pigment olarak kullanılmıştır. Günümüzde nükleer reaktörlerde ve bombalarda yakıt olarak kullanılmaktadır.",
         "source":"Birçok kayada görülür. Ancak, büyük miktarları ancak uraninit ve karnotit gibi minerallerde bulunur.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 93,
@@ -1393,7 +1393,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Uranyumun yavaş nötronlarla bombardıman edilmesi sonucu elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 94,
@@ -1408,7 +1408,7 @@
         "usage":"Bomba ve reaktörlerde kullanılır. Az miktarlarla termo-elektrik jeneratörlerinde kullanılır.",
         "source":"Nadiren bazı uranyum cevherlerinde bulunur. Uranyumun nötronlarla bombardıman edilmesi ile elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 95,
@@ -1423,7 +1423,7 @@
         "usage":"Amerikiyum-241 günümüzde yangın detektörlerinde kullanılmaktadır.",
         "source":"Plütonyumun nötronlarla bombardıman edilmesi ile elde edilir..",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 96,
@@ -1438,7 +1438,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Plütonyumun helyum iyonlarıyla bombardıman edilmesi sonucu elde edilir. Karanlıkta parlayacak kadar radyoaktiftir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 97,
@@ -1453,7 +1453,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Bazı bileşikleri üretilip üzerlerinde çalışılmıştır. Amerikiyumun alfa parçacıklarıyla bombardıman edilmesi ile elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 98,
@@ -1468,7 +1468,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryumun helyum iyonları ile bombardıman edilmesi sonucu elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 99,
@@ -1483,7 +1483,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Uranyumun nötronlarla bombardıman edilmesiyle edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 100,
@@ -1498,7 +1498,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Daha hafif transuranyum elementlerinin yine daha hafif parçacıklar ile bombardıman edilmesiyle ya da nötron yakalama ile elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 101,
@@ -1513,7 +1513,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Aynştanyumun helyum iyonları ile bombardıman edilmesiyle elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 102,
@@ -1528,7 +1528,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Küryumun karbon-13 ile bombardıman edilmesiyle elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 103,
@@ -1543,7 +1543,7 @@
         "usage":"Önemli bir ticari kullanımı yoktur.",
         "source":"Kaliforniyumun bor iyonlarıyla bombardıman edilmesiyle elde edilir.",
         "colors":"FFC7EA",
-        "shColor":""
+        "shColor":"B68DA6"
       },
       {
         "number": 104,
