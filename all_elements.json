@@ -42,7 +42,7 @@
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 4,
@@ -131,7 +131,7 @@
         "description":"Periyodik tabloda 17. gruba (halojenler) dahil olan zehirli, soluk sarı renkte ve gaz halde bulunan bir elementtir. Kimyasal olarak en reaktif ve elektronegatif elementtir. Oldukça tehlikeli olup ciltle temas ettiği takdirde ciddi kimyasal yanıklara sebep olur. Flor, 1771’de Scheele tarafından bulunmuş ve ilk kez 1886’da Moissan tarafından izole edilmiştir.",
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
-        "colors":"A3DD76",
+        "colors":"749E54",
         "shColor":"8CC760"
       },
       {
@@ -162,7 +162,7 @@
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 12,
@@ -252,7 +252,7 @@
         "description":"Halojen elementidir. Yeşilimsi sarı renkte, zehirli ve gaz haldedir. Deniz suyunda sodyum klorür olarak doğada bolca bulunur. Birçok element ve bileşik ile doğrudan tepkimeye giren güçlü bir oksitleyici maddedir. 1774 yılında Karl Scheele tarafından keşfedilmiştir. 1810’da da Humphrey David bir element olduğunu doğrulamıştır.",
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
-        "colors":"A3DD76",
+        "colors":"749E54",
         "shColor":"8CC760"
       },
       {
@@ -283,7 +283,7 @@
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 20,
@@ -522,7 +522,7 @@
         "description":"Halojen bir elementtir. Kırmızı renktedir ve oda sıcaklığında uçucu sıvı haldedir. Reaktifliği klor ve iyot arasındadır. Sıvı halde insan dokusuna zararlıdır, gaz halde de gözlerde ve boğazda tahriş yapar. 1823'de Antoine Balard tarafından keşfedilmiştir.",
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
-        "colors":"A3DD76",
+        "colors":"749E54",
         "shColor":"8CC760"
       },
       {
@@ -553,7 +553,7 @@
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 38,
@@ -792,7 +792,7 @@
         "description":"Koyu mor, ametal, 17. gruba ait bir elementtir. Suda çözünmez. Canlı organizmalar eser element olarak ihtiyaç duyar. 14 radyoaktif izotopa ek olarak, I-127 olarak tek kararlı izotopu vardır. Kimyasal olarak halojenlerin en az reaktifi ve en elektropozitif halojendir. 1812'de Courtois tarafından keşfedilmiştir.",
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
-        "colors":"A3DD76",
+        "colors":"749E54",
         "shColor":"8CC760"
       },
       {
@@ -823,7 +823,7 @@
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 56,
@@ -1272,7 +1272,7 @@
         "description":"Radyoaktif ve halojen bir elementtir. Uranyum ve toryum bozunması sonucu doğal olarak oluşur. Bilinen en az 20 izotopu vardır. En kararlısı olan At-210, 8.3 saatlik yarı ömre sahiptir. 1940'ta D.R. Corson, K.R. MacKenzie ve E. Segre tarafından Kaliforniya Üniversitesi'nde nükleer bombardıman ile sentezlenmiştir.",
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
-        "colors":"A3DD76",
+        "colors":"749E54",
         "shColor":"8CC760"
       },
       {
@@ -1303,7 +1303,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
         "colors":"CAEDFF",
-        "shColor":"5EB4DF"
+        "shColor":"BFD0D7"
       },
       {
         "number": 88,
