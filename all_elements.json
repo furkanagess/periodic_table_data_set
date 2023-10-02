@@ -42,7 +42,7 @@
         "usage":"Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
         "source":"Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 4,
@@ -132,7 +132,7 @@
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 10,
@@ -162,7 +162,7 @@
         "usage":"Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
         "source":"Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 12,
@@ -253,7 +253,7 @@
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 18,
@@ -283,7 +283,7 @@
         "usage":"Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
         "source":"Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 20,
@@ -523,7 +523,7 @@
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 36,
@@ -553,7 +553,7 @@
         "usage":"Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
         "source":"Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 38,
@@ -793,7 +793,7 @@
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 54,
@@ -823,7 +823,7 @@
         "usage":"Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
         "source":"Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 56,
@@ -1273,7 +1273,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 86,
@@ -1303,7 +1303,7 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
         "source":"Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
         "colors":"CAEDFF",
-        "shColor":"BFD0D7"
+        "shColor":"96B0BE"
       },
       {
         "number": 88,

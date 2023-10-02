@@ -13,7 +13,7 @@
         "usage":"Soğutucular ve diğer florokarbonlarda kullanılır. Ayrıca sodyum florür (NaF) ve kalay florür (SnF2) olarak diş macunlarında kullanılır. Bir diğer kullanım alanı da teflonlardır.",
         "source":"Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 17,
@@ -28,7 +28,7 @@
         "usage":"Su arıtımında, ağartıcılarda, asitlerde ve kloroflorokarbon (CFC) gibi başka birçok bileşikte kullanılır.",
         "source":"Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 35,
@@ -43,7 +43,7 @@
         "usage":"Eskiden kurşunlu benzin yakan motorlarlarda kurşun kalıntısını çıkaran bir bileşiğin üretiminde büyük miktarlarda kullanılıyordu. Günümüzde ağırlıklı olarak boya, dezenfektan ve fotoğrafik kimyasallarda kullanılıyor.",
         "source":"Deniz suyunda bileşikler halinde bulunur.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 53,
@@ -58,7 +58,7 @@
         "usage":"İnsanların eser miktarlarda ihtiyaç duyduğu bir elementtir. Eskiden bir antiseptik olarak kullanılıyordu ancak zehirli oluşundan dolayı şu an böyle bir kullanımı mevcut değildir.",
         "source":"Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       },
       {
         "number": 85,
@@ -73,6 +73,6 @@
         "usage":"İzotoplarının çok kısa yarı ömrü olduğu için astatinin ticari olarak önemli bir kullanımı yoktur.",
         "source":"Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
         "colors":"94A684",
-        "shColor":"395027"
+        "shColor":"707D65"
       }
 ]
