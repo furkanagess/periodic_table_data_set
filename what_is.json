@@ -6,7 +6,7 @@
         "desc3":"  The history of the discovery and use of the elements began with primitive human societies that discovered native minerals like carbon, sulfur, copper and gold (though the concept of a chemical element was not yet understood). ",
         "desc4":"  There are now 118 known elements. In this context, known means observed well enough, even from just a few decay products, to have been differentiated from other elements",
         "desc5":" The remaining 24 heavier elements, not found today either on Earth or in astronomical spectra, have been produced artificially: these are all radioactive, with very short half-lives; if any atoms of these elements were present at the formation of Earth, they are extremely likely, to the point of certainty, to have already decayed, and if present in novae have been in quantities too small to have been noted",
-        "svg":"assets/svg/element-svg.svg",
+        "svg":"assets/svg/science_two.svg",
         "colors":"94A684",
         "shColor":"707D65"
     },
@@ -17,7 +17,7 @@
         "desc3":"  It is a depiction of the periodic law, which says that when the elements are arranged in order of their atomic numbers an approximate recurrence of their properties is evident. ",
         "desc4":"  The first periodic table to become generally accepted was that of the Russian chemist Dmitri Mendeleev in 1869; he formulated the periodic law as a dependence of chemical properties on atomic mass. ",
         "desc5":"  Vertical, horizontal and diagonal trends characterize the periodic table. Metallic character increases going down a group and decreases from left to right across a period. Nonmetallic character increases going from the bottom left of the periodic table to the top right.",
-        "svg":"assets/svg/periodic-table.svg",
+        "svg":"assets/svg/info-table.svg",
         "colors":"FD8A8A",
         "shColor":"B16161"
     },
