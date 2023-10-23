@@ -1,17 +1,22 @@
 [
-    {
-        "number": 0,
-        "name": "",
-        "symbol": "",  
-         "weight": "",
-        "category": "",
-        "block": "",
-        "period":"",
-        "group":"",
-        "description":"",
-        "usage":"",
-        "source":"",
-        "colors":"",
-        "shColor":""
-      }
+  {
+    "number": 0,
+    "enName": "",
+    "symbol": "",  
+    "weight": "",
+    "enCategory": "  ",
+    "block" :"",
+    "period":"",
+    "group":"",
+    "enDescription":"",
+    "enUsage":"",
+    "enSource":"",
+    "trName":"",
+    "trCategory":"",
+    "trDescription":"",
+    "trUsage":"",
+    "trSource":"",
+    "colors":"",
+    "shColor":""
+  }
 ]
