@@ -1,5 +1,4 @@
 [
-
   {
     "number": 9,
     "enName": "Fluorine",
@@ -9,6 +8,7 @@
     "block" :"P",
     "period":"2",
     "group":"7A",
+    "electronConfiguration": "1s² 2s² 2p⁵",
     "enDescription":"A poisonous pale yellow gaseous element belonging to group 17 of the periodic table (The halogens). It is the most chemically reactive and electronegative element. It is highly dangerous, causing severe chemical burns on contact with flesh. Fluorine was identified by Scheele in 1771 and first isolated by Moissan in 1886.",
     "enUsage":"Used in refrigerants and other fluorocarbons. Also in toothpaste as sodium fluoride (NaF) and stannous fluoride (SnF2); also in Teflon.",
     "enSource":"Found in the minerals fluorite (CaF2) and cryolite(Na3AlF6). Electrolysis of hydrofluoric acid (HF) or potassium acid fluoride (KHF2) is the only practical method of commercial production.",
@@ -29,6 +29,7 @@
     "block" :"P",
     "period":"3",
     "group":"7A",
+    "electronConfiguration": "1s² 2s² 2p⁶ 3s² 3p⁵",
     "enDescription":"Halogen element. Poisonous greenish-yellow gas. Occurs widely in nature as sodium chloride in seawater. Reacts directly with many elements and compounds, strong oxidizing agent. Discovered by Karl Scheele in 1774. Humphrey David confirmed it as an element in 1810.",
     "enUsage":"Used in water purification, bleaches, acids and many, many other compounds such as chlorofluorocarbons (CFC).",
     "enSource":"Salt (sodium chloride, NaCl) is its most common compound. Commercial quantities are produced by electrolysis of aqueous sodium chloride (seawater or brine from salt mines).",
@@ -49,6 +50,7 @@
     "block" :"P",
     "period":"4",
     "group":"7A",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁵",
     "enDescription":"Halogen element. Red volatile liquid at room temperature. Its reactivity is somewhere between chlorine and iodine. Harmful to human tissue in a liquid state, the vapour irritates eyes and throat. Discovered in 1826 by Antoine Balard.",
     "enUsage":"It was once used in large quantities to make a compound that removed lead compound build up in engines burning leaded gasoline. Now it is primarily used in dyes, disinfectants, and photographic chemicals.",
     "enSource":"Occurs in compounds in sea water.",
@@ -69,6 +71,7 @@
     "block" :"P",
     "period":"5",
     "group":"7A",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁵",
     "enDescription":"Dark violet nonmetallic element, belongs to group 17 of the periodic table. Insoluble in water. Required as a trace element for living organisms. One stable isotope, I-127 exists, in addition to fourteen radioactive isotopes. Chemically the least reactive of the halogens, and the most electropositive metallic halogen. Discovered in 1812 by Courtois.",
     "enUsage":"Required in small amounts by humans. Once used as an antiseptic, but no longer due to its poisonous nature.",
     "enSource":"Occurs on land and in the sea in sodium and potassium compounds.",
@@ -89,6 +92,7 @@
     "block" :"P",
     "period":"6",
     "group":"7A",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
     "enDescription":"Radioactive halogen element. Occurs naturally from uranium and thorium decay. At least 20 known isotopes. At-210, the most stable, has a half-life of 8.3 hours. Synthesized by nuclear bombardment in 1940 by D.R. Corson, K.R. MacKenzie and E. Segre at the University of California.",
     "enUsage":"Since its isotopes have such short half-lives there are no commercially significant compounds of astatine.",
     "enSource":"Does not occur in nature. Similar to iodine. Produced by bombarding bismuth with alpha particles.",
