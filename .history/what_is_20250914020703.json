@@ -108,7 +108,7 @@
         "enDesc3":"  The decrease across a period occurs because the effective nuclear charge increases, pulling electrons closer to the nucleus. The increase down a group happens because additional electron shells are added.",
         "enDesc4":"  Atomic radius is important for understanding chemical bonding, as it affects how atoms interact with each other and determines bond lengths in molecules.",
         "enDesc5":"  The largest atomic radius belongs to cesium (Cs) at approximately 298 picometers, while helium (He) has one of the smallest at about 31 picometers.",
-        "svg":"assets/svg/radius.svg",
+        "svg":"assets/svg/atomic_radius.svg",
         "trTitle":"Atom Yarıçapı",
         "trDesc1":"Atom yarıçapı, bir atomun boyutunun bir ölçüsüdür ve genellikle pikometre (pm) cinsinden ölçülür. Çekirdeğin merkezinden en dıştaki kararlı elektron kabuğuna olan mesafedir.",
         "trDesc2":"Atom yarıçapı periyodik tabloda öngörülebilir bir şekilde değişir. Genel olarak, atom yarıçapı bir periyotta soldan sağa doğru azalır ve bir grupta yukarıdan aşağıya doğru artar.",
