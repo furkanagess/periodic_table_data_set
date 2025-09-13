@@ -19,7 +19,8 @@
     "trSource": "Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 167
+    "atomicRadius": 167,
+    "electronegativity": 0.98
   },
   {
     "number": 11,
@@ -41,7 +42,8 @@
     "trSource": "Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 190
+    "atomicRadius": 190,
+    "electronegativity": 0.93
   },
   {
     "number": 19,
@@ -63,7 +65,8 @@
     "trSource": "Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 243
+    "atomicRadius": 243,
+    "electronegativity": 0.82
   },
   {
     "number": 37,
@@ -85,7 +88,8 @@
     "trSource": "Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 265
+    "atomicRadius": 265,
+    "electronegativity": 0.82
   },
   {
     "number": 55,
@@ -107,7 +111,8 @@
     "trSource": "Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 298
+    "atomicRadius": 298,
+    "electronegativity": 0.79
   },
   {
     "number": 87,
@@ -129,6 +134,7 @@
     "trSource": "Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
     "colors": "CAEDFF",
     "shColor": "96B0BE",
-    "atomicRadius": 260
+    "atomicRadius": 260,
+    "electronegativity": 0.7
   }
 ]

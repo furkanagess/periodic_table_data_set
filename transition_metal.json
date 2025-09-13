@@ -18,7 +18,8 @@
     "trSource": "Çoğunlukla tortveitit (yaklaşık %34 oranında skandiyum içerir) ve wiikit minerallerinde rastlanır. Ayrıca, kalay ve tungsten cevherlerinde de bulunur. Saf skandiyum, uranyum arıtımının yan ürünü olarak elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 184
+    "atomicRadius": 184,
+    "electronegativity": 1.36
   },
   {
     "number": 22,
@@ -39,7 +40,8 @@
     "trSource": "Genellikle ilmenit (FeTiO3) ve rutil (TiO2) gibi minerallerde bulunur. Ayrıca titanyumlu magnetitte, titanitte (CaTiSiO5) ve demir cevherlerinde görülür. Saf metal halini elde etmek için önce titanyum dioksit (TiO2), karbon (C) ve klor (CI2) ile titanyum tetraklorür (TiCI4) elde etmek üzere ısıtılır. Sonra bu bileşik argon atmosferinde bu kez gaz haldeki magnezyum ile ısıtılır.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 176
+    "atomicRadius": 176,
+    "electronegativity": 1.54
   },
   {
     "number": 23,
@@ -60,7 +62,8 @@
     "trSource": "Patronit (VS4), vanadinit [Pb5(VO4)3Cl] ve karnotit [K2(UO2)2(VO4)2.3H2O] minerallerinde bulunur. Saf metal hali, vanadyum triklorür (VCl3) elde etmek üzere karbon (C) ve klor (CI2) ile ısıtılır. Sonrasında da elde edilen bileşik argon atmosferinde magnezyum ile ısıtılarak saf hali elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 171
+    "atomicRadius": 171,
+    "electronegativity": 1.63
   },
   {
     "number": 24,
@@ -81,7 +84,8 @@
     "trSource": "Kromit [Fe,Mg(CrO4)], en önemli mineralidir. Cevherinin, silikon ve alüminyumlu ortamda ısıtılmasıyla ticari üretimi yapılır.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 166
+    "atomicRadius": 166,
+    "electronegativity": 1.66
   },
   {
     "number": 25,
@@ -102,7 +106,8 @@
     "trSource": "En çok bulunan cevherleri pirolüsit (MnO2), psilomelan [(Ba,H2O)2Mn5O10] ve rodokrosittir (MnCO3). Saf metal hali, manganez dioksitin (MnO2), toz halindeki alüminyum ile karıştırıp bir fırında ateşlenmesi ile elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 161
+    "atomicRadius": 161,
+    "electronegativity": 1.55
   },
   {
     "number": 26,
@@ -123,7 +128,8 @@
     "trSource": "Demir cevherlerinden elde edilir. Saf metal hali yüksek fırınlarda kireç taşının, kok kömürünün ve demir cevherinin tabakalar halinde konup sıcak gazların da aşağı itilmesiyle elde edilir. Bu işlem kok kömürünü iyice kızdırır ve demir bu sayede oksitlerinden indirgenerek aşağı aktığı yerde sıvılaşır.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 156
+    "atomicRadius": 156,
+    "electronegativity": 1.83
   },
   {
     "number": 27,
@@ -144,7 +150,8 @@
     "trSource": "Kobaltit  (CoAsS) ve linneit (Co3S4) gibi arsenik, oksijen ve kükürtün olduğu bileşiklerde bulunur. Saf kobalt nikel, bakır ve demi arıtımının yan ürünü olarak elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 152
+    "atomicRadius": 152,
+    "electronegativity": 1.88
   },
   {
     "number": 28,
@@ -165,7 +172,8 @@
     "trSource": "Pentlandit cevherinde bol miktarda bulunur. Cevher yüksek fırında ısıtılarak kükürtün oksijenle yer değiştirmesi sağlanır. Ardından, oksitler demirle tepkimeye giren bir asitle kimyasal işleme tabi tutulur. Söz konusu asit nikel ile tepkimeye girmez.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 149
+    "atomicRadius": 149,
+    "electronegativity": 1.91
   },
   {
     "number": 29,
@@ -186,7 +194,8 @@
     "trSource": "Saf bakır nadiren doğada bulunur. Genellikle kalkoprit (CuFeS2), kalkosit(Cu2S), kovelit (CuS)  yada kuprit (Cu2O) gibi oksitlerde olduğu gibi sülfirlerde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 145
+    "atomicRadius": 145,
+    "electronegativity": 1.9
   },
   {
     "number": 30,
@@ -207,7 +216,8 @@
     "trSource": "Sfalerit (ZnS), kalamin, franklinit, smitsonit (ZnCO3), villemit ve zinkit (ZnO) gibi minerallerde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 142
+    "atomicRadius": 142,
+    "electronegativity": 1.65
   },
   {
     "number": 39,
@@ -228,7 +238,8 @@
     "trSource": "Monazit, ksenotim ve itriya gibi minerallerde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 212
+    "atomicRadius": 212,
+    "electronegativity": 1.22
   },
   {
     "number": 40,
@@ -249,7 +260,8 @@
     "trSource": "Zirkon ve badeleyit gibi birçok mineralde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 206
+    "atomicRadius": 206,
+    "electronegativity": 1.33
   },
   {
     "number": 41,
@@ -270,7 +282,8 @@
     "trSource": "Kolombit mineralinde bulunur. Eskiden kolombiyum (Cb) olarak biliniyordu. Nükleer reaktör, uçak ve roketlerinin paslanma çelik alaşımlarında kullanılır.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 198
+    "atomicRadius": 198,
+    "electronegativity": 1.6
   },
   {
     "number": 42,
@@ -291,7 +304,8 @@
     "trSource": "Molibdenit (MoS2) ve vulfenit (MoO4Pb) minerallerinde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 190
+    "atomicRadius": 190,
+    "electronegativity": 2.16
   },
   {
     "number": 43,
@@ -312,7 +326,8 @@
     "trSource": "İlk kez molibdenyumun siklotronda dötronlarla (ağır hidrojen) bombardıman edilmesi sonucu elde edilmiştir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 183
+    "atomicRadius": 183,
+    "electronegativity": 2.1
   },
   {
     "number": 44,
@@ -333,7 +348,8 @@
     "trSource": "Piroksinit ve pentlanditte bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 178
+    "atomicRadius": 178,
+    "electronegativity": 2.2
   },
   {
     "number": 45,
@@ -354,7 +370,8 @@
     "trSource": "Nikel üretiminin yan ürünü olarak elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 173
+    "atomicRadius": 173,
+    "electronegativity": 2.28
   },
   {
     "number": 46,
@@ -375,7 +392,8 @@
     "trSource": "Platin, nikel, bakır ve cıva cevherlerinde elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 169
+    "atomicRadius": 169,
+    "electronegativity": 2.2
   },
   {
     "number": 47,
@@ -396,7 +414,8 @@
     "trSource": "Argentit (AgS), açık ve koyu pirargirit (Ag3AsS3) ve gevrek gümüş cevherlerinde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 165
+    "atomicRadius": 165,
+    "electronegativity": 1.93
   },
   {
     "number": 48,
@@ -417,7 +436,8 @@
     "trSource": "Çinko arıtımının yan ürünü olarak elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 161
+    "atomicRadius": 161,
+    "electronegativity": 1.69
   },
   {
     "number": 72,
@@ -438,7 +458,8 @@
     "trSource": "Zirkon veya badeleyit mineralinde elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 159
+    "atomicRadius": 159,
+    "electronegativity": 1.3
   },
   {
     "number": 73,
@@ -459,7 +480,8 @@
     "trSource": "En çok tantalit mineralinde bulunur. Her zaman niyobyum ile beraber rastlanır.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 146
+    "atomicRadius": 146,
+    "electronegativity": 1.5
   },
   {
     "number": 74,
@@ -480,7 +502,8 @@
     "trSource": "Şelit (CaWO4) ve volframit  [(Fe,Mn)WO4] minerallerinde bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 139
+    "atomicRadius": 139,
+    "electronegativity": 2.36
   },
   {
     "number": 75,
@@ -501,7 +524,8 @@
     "trSource": "Gadolinit ve molibden minerallerinde küçük miktarlarda bulunur. Erime noktası oldukça yüksektir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 137
+    "atomicRadius": 137,
+    "electronegativity": 1.9
   },
   {
     "number": 76,
@@ -522,7 +546,8 @@
     "trSource": "Platin ile aynı cevherlerden elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 134
+    "atomicRadius": 134,
+    "electronegativity": 2.2
   },
   {
     "number": 77,
@@ -543,7 +568,8 @@
     "trSource": "Platin ile birlikte çakıl yataklarında bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 136
+    "atomicRadius": 136,
+    "electronegativity": 2.2
   },
   {
     "number": 78,
@@ -564,7 +590,8 @@
     "trSource": "Doğal veya temel platinden elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 138
+    "atomicRadius": 138,
+    "electronegativity": 2.28
   },
   {
     "number": 79,
@@ -585,7 +612,8 @@
     "trSource": "Doğal olarak ve bakır cevherleriyle birlikte yeryüzündeki damarlarda bulunur.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 144
+    "atomicRadius": 144,
+    "electronegativity": 2.54
   },
   {
     "number": 80,
@@ -606,7 +634,8 @@
     "trSource": "Cıvanın neredeyse hepsi zincifre veya cıva sülfürden (HgS) elde edilir. Bazı kırmızı zincifre kaynakları o kadar çok cıva içerir ki rastgele alınan numunelerde saf cıva damlalarına rastlanabilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 149
+    "atomicRadius": 149,
+    "electronegativity": 2.0
   },
   {
     "number": 104,
@@ -627,7 +656,8 @@
     "trSource": "Kaliforniyum-249'un, 3 ve 4 saniyeden fazla yarıömürlü izotop oluşturan karbon-12 ve 13 parçacıklarıyla bombardıman edilmesi sonucu elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 157
+    "atomicRadius": 157,
+    "electronegativity": 1.3
   },
   {
     "number": 105,
@@ -648,7 +678,8 @@
     "trSource": "Kaliforniyum-249'un, azot-15 ile bombardıman edilmesiyle elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 149
+    "atomicRadius": 149,
+    "electronegativity": 1.3
   },
   {
     "number": 106,
@@ -669,7 +700,8 @@
     "trSource": "Kaliforniyum-249'un, oksijen-18 ile bombardıman edilmesiyle elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 143
+    "atomicRadius": 143,
+    "electronegativity": 1.3
   },
   {
     "number": 107,
@@ -690,7 +722,8 @@
     "trSource": "Bizmut-204'ün, krom-54 ile bombardıman edilmesiyle elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 141
+    "atomicRadius": 141,
+    "electronegativity": 1.3
   },
   {
     "number": 108,
@@ -711,7 +744,8 @@
     "trSource": "Kurşun-208'in, demir-58 ile bombardıman edilmesiyle elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 134
+    "atomicRadius": 134,
+    "electronegativity": 1.3
   },
   {
     "number": 112,
@@ -732,6 +766,7 @@
     "trSource": "Kurşun-208'in, çinko-70 ile bombardıman edilmesiyle elde edilir.",
     "colors": "D8B4F8",
     "shColor": "927AA8",
-    "atomicRadius": 130
+    "atomicRadius": 130,
+    "electronegativity": 1.3
   }
 ]

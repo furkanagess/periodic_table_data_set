@@ -19,7 +19,8 @@
     "trSource": "Bir boraks türü olan kernitten elde edilir. Yüksek saflıktaki bor, erimiş potasyum floroborat ve potasyum klorürün elektrolizi ile üretilir.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 87
+    "atomicRadius": 87,
+    "electronegativity": 2.04
   },
   {
     "number": 14,
@@ -41,7 +42,8 @@
     "trSource": "Kil, granit, kuartz (SiO2) ve kumun büyük bir kısmını oluşturur. Ticari üretimi kum (SiO2) ve karbonun 2200 °C civarında sıcaklıkta tepkimesi ile yapılır.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 111
+    "atomicRadius": 111,
+    "electronegativity": 1.9
   },
   {
     "number": 32,
@@ -63,7 +65,8 @@
     "trSource": "Bakır, çinko ve kurşun arıtımından elde edilir.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 125
+    "atomicRadius": 125,
+    "electronegativity": 2.01
   },
   {
     "number": 33,
@@ -85,7 +88,8 @@
     "trSource": "Mispikelde (arsenopirit) bulunur.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 114
+    "atomicRadius": 114,
+    "electronegativity": 2.18
   },
   {
     "number": 51,
@@ -107,7 +111,8 @@
     "trSource": "Stibnit (Sb2S3) ve valentinitte (Sb2O3) bulunur.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 133
+    "atomicRadius": 133,
+    "electronegativity": 2.05
   },
   {
     "number": 52,
@@ -129,7 +134,8 @@
     "trSource": "Bakır ve kurşun arıtımının yan ürünü olarak elde edilir.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 123
+    "atomicRadius": 123,
+    "electronegativity": 2.1
   },
   {
     "number": 84,
@@ -151,6 +157,7 @@
     "trSource": "Bizmutun bozunması sonrası uraninitte bulunur.",
     "colors": "FFD9B7",
     "shColor": "B89C84",
-    "atomicRadius": 140
+    "atomicRadius": 140,
+    "electronegativity": 2.0
   }
 ]

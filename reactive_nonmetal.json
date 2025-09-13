@@ -19,7 +19,8 @@
     "trSource": "Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 53
+    "atomicRadius": 53,
+    "electronegativity": 2.2
   },
   {
     "number": 6,
@@ -41,7 +42,8 @@
     "trSource": "Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 67
+    "atomicRadius": 67,
+    "electronegativity": 2.55
   },
   {
     "number": 7,
@@ -63,7 +65,8 @@
     "trSource": "Ayrımsal damıtım ile sıvı havadan elde edilir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 56
+    "atomicRadius": 56,
+    "electronegativity": 3.04
   },
   {
     "number": 8,
@@ -85,7 +88,8 @@
     "trSource": "Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 48
+    "atomicRadius": 48,
+    "electronegativity": 3.44
   },
   {
     "number": 15,
@@ -107,7 +111,8 @@
     "trSource": "Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 98
+    "atomicRadius": 98,
+    "electronegativity": 2.19
   },
   {
     "number": 16,
@@ -129,7 +134,8 @@
     "trSource": "Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 88
+    "atomicRadius": 88,
+    "electronegativity": 2.58
   },
   {
     "number": 34,
@@ -151,6 +157,7 @@
     "trSource": "Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
     "colors": "FD8A8A",
     "shColor": "B16161",
-    "atomicRadius": 103
+    "atomicRadius": 103,
+    "electronegativity": 2.55
   }
 ]

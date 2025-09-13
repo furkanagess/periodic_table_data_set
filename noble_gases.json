@@ -19,7 +19,8 @@
     "trSource": "Doğal gaz yataklarında ve havada (5 ppb oranında) bulunur. Devamlı olarak uzayda kaybolur ve radyoaktif bozunma (alfa parçacıkları) ile tazelenir.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 31
+    "atomicRadius": 31,
+    "electronegativity": null
   },
   {
     "number": 10,
@@ -41,7 +42,8 @@
     "trSource": "Sıvı hava yapımında sıvı oksijen ve azot üretiminin bir yan ürünü olarak elde edilir.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 38
+    "atomicRadius": 38,
+    "electronegativity": null
   },
   {
     "number": 18,
@@ -63,7 +65,8 @@
     "trSource": "Radyoaktif potasyum-40'ın bozunması ile devamlı olarak havaya salınır. Saf hali, sıvı havanın ayrımsal damıtımı ile elde edilir.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 71
+    "atomicRadius": 71,
+    "electronegativity": null
   },
   {
     "number": 36,
@@ -85,7 +88,8 @@
     "trSource": "Atmosferin milyonda birinde bulunur. Sıvı hava üretiminden elde edilir.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 88
+    "atomicRadius": 88,
+    "electronegativity": 3.0
   },
   {
     "number": 54,
@@ -107,7 +111,8 @@
     "trSource": "Sıvı havadan az miktarlarda elde edilir.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 108
+    "atomicRadius": 108,
+    "electronegativity": 2.6
   },
   {
     "number": 86,
@@ -129,6 +134,7 @@
     "trSource": "Dünyanının yüzeyindeki radyumun bozunması sonucu oluşur.",
     "colors": "CBFFA9",
     "shColor": "91B679",
-    "atomicRadius": 120
+    "atomicRadius": 120,
+    "electronegativity": 2.2
   }
 ]

@@ -18,7 +18,8 @@
     "trSource": "Bizmut-209'un, demir-18 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 129
+    "atomicRadius": 129,
+    "electronegativity": 1.3
   },
   {
     "number": 110,
@@ -39,7 +40,8 @@
     "trSource": "Bizmut-209'un, kobalt-59 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 128
+    "atomicRadius": 128,
+    "electronegativity": 1.3
   },
   {
     "number": 111,
@@ -60,7 +62,8 @@
     "trSource": "Bizmut-209'un, nikel-60 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 121
+    "atomicRadius": 121,
+    "electronegativity": 1.3
   },
   {
     "number": 113,
@@ -81,7 +84,8 @@
     "trSource": "Bizmut-209'un, çinko-70 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 136
+    "atomicRadius": 136,
+    "electronegativity": 1.3
   },
   {
     "number": 115,
@@ -102,7 +106,8 @@
     "trSource": "Amerikiyum-243'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 148
+    "atomicRadius": 148,
+    "electronegativity": 1.3
   },
   {
     "number": 116,
@@ -123,7 +128,8 @@
     "trSource": "Küryum-248'in kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 153
+    "atomicRadius": 153,
+    "electronegativity": 1.3
   },
   {
     "number": 117,
@@ -144,7 +150,8 @@
     "trSource": "Berkelyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 162
+    "atomicRadius": 162,
+    "electronegativity": 1.3
   },
   {
     "number": 118,
@@ -165,7 +172,8 @@
     "trSource": "Kaliforniyum-249'un kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "F1F0E8",
     "shColor": "A1A19B",
-    "atomicRadius": 157
+    "atomicRadius": 157,
+    "electronegativity": null
   },
   {
     "number": 119,

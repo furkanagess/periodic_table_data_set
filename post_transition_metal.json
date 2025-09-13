@@ -19,7 +19,8 @@
     "trSource": "Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 118
+    "atomicRadius": 118,
+    "electronegativity": 1.61
   },
   {
     "number": 31,
@@ -41,7 +42,8 @@
     "trSource": "Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 136
+    "atomicRadius": 136,
+    "electronegativity": 1.81
   },
   {
     "number": 49,
@@ -63,7 +65,8 @@
     "trSource": "Bazı çinko cevherlerinde bulunur.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 156
+    "atomicRadius": 156,
+    "electronegativity": 1.78
   },
   {
     "number": 50,
@@ -85,7 +88,8 @@
     "trSource": "En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 145
+    "atomicRadius": 145,
+    "electronegativity": 1.96
   },
   {
     "number": 81,
@@ -107,7 +111,8 @@
     "trSource": "Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 148
+    "atomicRadius": 148,
+    "electronegativity": 1.62
   },
   {
     "number": 82,
@@ -129,7 +134,8 @@
     "trSource": "En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 147
+    "atomicRadius": 147,
+    "electronegativity": 2.33
   },
   {
     "number": 83,
@@ -151,7 +157,8 @@
     "trSource": "Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 146
+    "atomicRadius": 146,
+    "electronegativity": 2.02
   },
   {
     "number": 114,
@@ -173,6 +180,7 @@
     "trSource": "Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "82A0D8",
     "shColor": "6A83B1",
-    "atomicRadius": 142
+    "atomicRadius": 142,
+    "electronegativity": 1.3
   }
 ]

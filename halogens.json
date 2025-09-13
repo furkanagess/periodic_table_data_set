@@ -19,7 +19,8 @@
     "trSource": "Florit ve kriyolitte bulunur. Ticari üretimi için tek pratik yol, hidroflorik asit (HF) veya potasyum florürün (KHF2) elektrolizidir.",
     "colors": "94A684",
     "shColor": "707D65",
-    "atomicRadius": 42
+    "atomicRadius": 42,
+    "electronegativity": 3.98
   },
   {
     "number": 17,
@@ -41,7 +42,8 @@
     "trSource": "Tuz (sodyum klorür, NaCI) en yaygın bileşiğidir. Ticari miktarları sulu sodyum klorürün (deniz suyu veya tuz madenlerindeki tuzlu su) elektrolizi ile elde edilir.",
     "colors": "94A684",
     "shColor": "707D65",
-    "atomicRadius": 79
+    "atomicRadius": 79,
+    "electronegativity": 3.16
   },
   {
     "number": 35,
@@ -63,7 +65,8 @@
     "trSource": "Deniz suyunda bileşikler halinde bulunur.",
     "colors": "94A684",
     "shColor": "707D65",
-    "atomicRadius": 94
+    "atomicRadius": 94,
+    "electronegativity": 2.96
   },
   {
     "number": 53,
@@ -85,7 +88,8 @@
     "trSource": "Karada ve denizde bulunan sodyum ve potasyum bileşiklerinde bulunur.",
     "colors": "94A684",
     "shColor": "707D65",
-    "atomicRadius": 115
+    "atomicRadius": 115,
+    "electronegativity": 2.66
   },
   {
     "number": 85,
@@ -107,6 +111,7 @@
     "trSource": "Doğada bulunmaz. İyota benzer. Bizmutun alfa parçacıkları ile bombardıman edilmesiyle elde edilir.",
     "colors": "94A684",
     "shColor": "707D65",
-    "atomicRadius": 150
+    "atomicRadius": 150,
+    "electronegativity": 2.2
   }
 ]
