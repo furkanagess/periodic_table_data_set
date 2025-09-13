@@ -2,7 +2,7 @@
   {
     "number": 13,
     "enName": "Aluminium",
-    "symbol": "Al",  
+    "symbol": "Al",
     "weight": "26.98153857",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -18,12 +18,13 @@
     "trUsage": "Uçaklardan içecek kutularına kadar pek çok alanda kullanılır. Saf halde fazlasıyla yumuşaktır, bu yüzden sertleştirmek ve mukavemetlendirmek için %1'den daha az oranda silikon veya demir eklenir.",
     "trSource": "Serbest halde bulunmaz. Boksitin (AI2O3) elektrolizi ile elde edilir.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 118
   },
   {
     "number": 31,
     "enName": "Gallium",
-    "symbol": "Ga",  
+    "symbol": "Ga",
     "weight": "69.7231",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -39,12 +40,13 @@
     "trUsage": "Yarı iletkenler, LED (light emitting diodes) lambaları ve GaAs lazer diyotlarının yapımında kullanılır.",
     "trSource": "Yeryüzünde boksit, germanit ve kömür gibi minerallerde bulunur.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 136
   },
   {
     "number": 49,
     "enName": "Indium",
-    "symbol": "In",  
+    "symbol": "In",
     "weight": "114.8181",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -60,12 +62,13 @@
     "trUsage": "Yüksek hızlı rulmanların kaplamasında ve diğer metallerin kaynama noktasını düşüren bir alaşım olarak kullanılır. Nispeten az bir miktarı dişçilik araçlarında ve yarı iletkenlerde kullanılır.",
     "trSource": "Bazı çinko cevherlerinde bulunur.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 156
   },
   {
     "number": 50,
     "enName": "Tin",
-    "symbol": "Sn",  
+    "symbol": "Sn",
     "weight": "118.7107",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -81,12 +84,13 @@
     "trUsage": "Zehirli ve aşındırıcı olmadığı için çelik konservelerin kaplamasında kullanılır. Lehimde (33%Sn:67%Pb), bronzda (20%Sn:80%Cu) ve kurşun-kalay alaşımında bulunur. Kalay ile florun olduğu bir bileşik olan kalay florür (SnF2), bazı diş macunlarında kullanılır.",
     "trSource": "En çok kasiteret (SnO2) ve stanin (Cu2FeSnS4) cevherlerinde bulunur.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 145
   },
   {
     "number": 81,
     "enName": "Thallium",
-    "symbol": "Tl",  
+    "symbol": "Tl",
     "weight": "204.38",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -102,12 +106,13 @@
     "trUsage": "Bileşikleri fare ve karınca zehirlerinde kullanılır. Kızılötesi radyasyonun saptanması için de kullanılmaktadır.",
     "trSource": "Demir piritlerde bulunur. Krokezit, hutehinsot ve loranditte de rastlanılır. Büyük bir kısmı, kurşun ve çinko arıtımının yan ürünlerinden elde edilir.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 148
   },
   {
     "number": 82,
     "enName": "Lead",
-    "symbol": "Pb",  
+    "symbol": "Pb",
     "weight": "207.21",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -123,12 +128,13 @@
     "trUsage": "Lehimde, pillerde ve radyasyona karşı zırhlamada kullanılır.",
     "trSource": "En çok galen ve kurşun sülfür (PbS) cevherlerinde bulunur. Bir miktarı doğal halde bulunur.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 147
   },
   {
     "number": 83,
     "enName": "Bismuth",
-    "symbol": "Bi",  
+    "symbol": "Bi",
     "weight": "208.980401",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -144,12 +150,13 @@
     "trUsage": "Ağırlıklı olarak ilaçlar ve sigortalarda gerekli olan düşük erime noktalı alaşımlarda kullanılır.",
     "trSource": "Doğada serbest olarak ya da bizmutin (Bi2O3) ve bizmut sarısı (Bi2O3) gibi minerallerde bulunur.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 146
   },
   {
     "number": 114,
     "enName": "Flerovium",
-    "symbol": "Fl",  
+    "symbol": "Fl",
     "weight": "289",
     "enCategory": "Post Transition Metal",
     "block": "P",
@@ -165,6 +172,7 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Plütonyumun-244'ün kalsiyum-48 ile bombardıman edilmesiyle elde edilir.",
     "colors": "82A0D8",
-    "shColor": "6A83B1"
+    "shColor": "6A83B1",
+    "atomicRadius": 142
   }
 ]

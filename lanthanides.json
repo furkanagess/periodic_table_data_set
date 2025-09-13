@@ -2,7 +2,7 @@
   {
     "number": 57,
     "enName": "Lanthanum",
-    "symbol": "La",  
+    "symbol": "La",
     "weight": "138.905477",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -18,12 +18,13 @@
     "trUsage": "Yüksek yoğunluklu, karbon ark lambalarının elektrotlarında kullanılır. Aynı zamanda kaliteli evropiyum metali üretiminde kullanılır. Cama ışığı kırıcı özellikler kazandırdığı için, pahalı kamera lenslerinde bulunur.",
     "trSource": "Monazit ve bastnezit minerallerinde nadir toprak elementleriyle beraber bulunur. Monazit kumu tipik olarak %25 lantan içerir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 195
   },
   {
     "number": 58,
     "enName": "Cerium",
-    "symbol": "Ce",  
+    "symbol": "Ce",
     "weight": "140.1161",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -39,12 +40,13 @@
     "trUsage": "Yüksek yoğunluklu karbon lambalarında ve özel metallerde alaşımlama maddesi olarak; oksitleri, optik ve cam sanayinde; tuzları fotoğrafçılıkta ve tekstil sanayinde kullanılır.",
     "trSource": "En çok bulunan nadir toprak metalidir. Monazit kumu [Ce(PO4)] gibi birçok mineralde bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 59,
     "enName": "Praseodymium",
-    "symbol": "Pr",  
+    "symbol": "Pr",
     "weight": "140.907662",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -60,12 +62,13 @@
     "trUsage": "Cam üfleme işlemi sırasındaki sarı ışığı süzdüğü için camcıların koruyucu gözlüklerindeki lenslerin yapımında neodimiyum ile beraber kullanılır. Magnezyum ile alaşımlandığında, hava araçlarının motorlarında kullanılan yüksek mukavemetli bir metal elde edilir. Misch metalinin %5'ini oluşturmaktadır",
     "trSource": "Neodimum ile aynı tuzlardan elde edilir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 60,
     "enName": "Neodymium",
-    "symbol": "Nd",  
+    "symbol": "Nd",
     "weight": "144.2423",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -81,12 +84,13 @@
     "trUsage": "Lazerlerde yapay yakut yapımında kullanılır. Aynı zamanda seramikler, parlak mor cam, kızılötesi radyasyonu süzen özel camlarda ve praseodimiyum ile birlikte özel bir lensin üretiminde kullanılır. Çelik yapımında kullanılan Misch metalinin %18'ini oluşturmaktadır.",
     "trSource": "Monanit kumundan yapılmış halojenür tuzlarının elektrolizi ile elde edilir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 61,
     "enName": "Promethium",
-    "symbol": "Pm",  
+    "symbol": "Pm",
     "weight": "145",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -102,12 +106,13 @@
     "trUsage": "Kalınlık ölçerlerde radyoaktiflik kaynağı olarak kullanılmaktadır.",
     "trSource": "Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 62,
     "enName": "Samarium",
-    "symbol": "Sm",  
+    "symbol": "Sm",
     "weight": "150.362",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -123,12 +128,13 @@
     "trUsage": "Elektronik ve seramik sanayilerinde kullanılır. Kolayca manyetize edilir ve sonradan demanyetize edilmesi oldukça zordur. Bu özelliği gelecekte katıhal ve süper iletken teknolojileri için önemli uygulama alanlarında yer alacağına işaret etmektedir.",
     "trSource": "Diğer nadir toprak elementleriyle monazit kumunda bulunur. Bu kum ağırlık olarak %50 nadir toprak elementerinden, %2.8 samaryumdan oluşur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 63,
     "enName": "Europium",
-    "symbol": "Eu",  
+    "symbol": "Eu",
     "weight": "151.9641",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -144,12 +150,13 @@
     "trUsage": "Renkli televizyonlar için itriyum oksit ile kırmızı fosfor yapımı için kullanılır.",
     "trSource": "Kalsiyum, toryum, seryum ve diğer birçok nadir toprak elementinin fosfat karışımı olan monazit kumundan elde edilir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 64,
     "enName": "Gadolinium",
-    "symbol": "Gd",  
+    "symbol": "Gd",
     "weight": "157.253",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -165,12 +172,13 @@
     "trUsage": "Çelik alaşımlama maddelerinde ve elektronik bileşenlerinin üretiminde kullanılır.",
     "trSource": "Gadolinit ve monazit kumunda diğer nadir toprak elementleriyle bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 185
   },
   {
     "number": 65,
     "enName": "Terbium",
-    "symbol": "Tb",  
+    "symbol": "Tb",
     "weight": "158.925352",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -186,12 +194,13 @@
     "trUsage": "Özel lazerlerde ve katıhal cihazlarında ufak miktarlarda kullanılır.",
     "trSource": "Diğer toprak elementleriyle birlikte %0.03 oranında terbiyum içeren monazit kumunda bulunur. Her ikisi de %1'e kadar terbiyum içeren oksit karışımı olan ksenotim ve öksenitten de elde edilebilmektedir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 66,
     "enName": "Dysprosium",
-    "symbol": "Dy",  
+    "symbol": "Dy",
     "weight": "162.5001",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -207,12 +216,13 @@
     "trUsage": "Kullanımı deneysel ve ezoterik amaçlarla sınırlıdır.",
     "trSource": "Genellikle erbiyum, holmiyum ve diğer nadir toprak elementleriyle birlikte ağırlık olarak %50'si bu elementlerden oluşan monazit kumu gibi bazı minerallerde bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 67,
     "enName": "Holmium",
-    "symbol": "Ho",  
+    "symbol": "Ho",
     "weight": "164.930332",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -228,12 +238,13 @@
     "trUsage": "Çok az pratik kullanımı vardır. Ancak gelecek için umut vaadeden olağanüstü manyetik özelliklere sahiptir.",
     "trSource": "Gadolinitte bulunur. En çok, %50'si nadir toprak elementi ve %0.05'i tipik olarak holmiyumdan oluşan monazitte bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 68,
     "enName": "Erbium",
-    "symbol": "Er",  
+    "symbol": "Er",
     "weight": "167.2593",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -249,12 +260,13 @@
     "trUsage": "Erbiyum oksit, seramiklerde pembe sır elde etmek için kullanılır. Ayrıca, nükleer sanayide birkaç kullanım alanıyla birlikte diğer egzotik metaller için alaşımlama maddesi olarak da değerlendilir. Örnek vermek gerekirse, vanadyumun şekil verilebilirliğini arttırır.",
     "trSource": "Daha ağır nadir toprak metallerinden ksenotim ve öksenit ile birlikte bulunur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 69,
     "enName": "Thulium",
-    "symbol": "Tm",  
+    "symbol": "Tm",
     "weight": "168.934222",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -270,12 +282,13 @@
     "trUsage": "Radyoaktif tulyum, taşınabilir röntgen cihazlarının çalıştırılması için kullanılır. Bu sayede elektrik ekipmanı kullanımına gerek kalmaz.",
     "trSource": "Gadolinit, öksenit, ksenotim ve monanit minerallerinde diğer toprak elementleriyle birlikte bulunur. Ağırlık olarak monazit, genellikle %50 nadir toprak elementi ve %0.007 tulyumdan oluşur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 70,
     "enName": "Ytterbium",
-    "symbol": "Yb",  
+    "symbol": "Yb",
     "weight": "173.0451",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -291,12 +304,13 @@
     "trUsage": "Metalurjik ve kimyasal deneylerde kullanılır.",
     "trSource": "İtriya, monazit, gadolinit ve ksenotim gibi minerallerde bulunur. Monazitin %50'si ağırlık olarak nadir toprak element, %0.03'ü de tipik olarak iterbiyumdan oluşur.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   },
   {
     "number": 71,
     "enName": "Lutetium",
-    "symbol": "Lu",  
+    "symbol": "Lu",
     "weight": "174.96681",
     "enCategory": "Lanthanide",
     "block": "F",
@@ -312,6 +326,7 @@
     "trUsage": "Kullanım alanı yoktur.",
     "trSource": "Gadolinit ve ksenotimde iterbuyumla beraber bulunur. Ağırlık olarak %50'si genellikle nadir toprak elementi ve %0.003'ü lütesyum olan monazit kumundan elde edilir.",
     "colors": "9ED2BE",
-    "shColor": "779E8F"
+    "shColor": "779E8F",
+    "atomicRadius": 175
   }
 ]

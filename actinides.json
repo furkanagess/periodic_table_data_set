@@ -2,7 +2,7 @@
   {
     "number": 89,
     "enName": "Actinium",
-    "symbol": "Ac",  
+    "symbol": "Ac",
     "weight": "227",
     "enCategory": "Actinide",
     "block": "F",
@@ -18,12 +18,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Son derece nadirdir. Bütün uranyum cevherlerinde bulunur. Genellikle radyumun reaktörde nötronlarla kimyasal işleme tabi tutulmasıyla elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 195
   },
   {
     "number": 90,
     "enName": "Thorium",
-    "symbol": "Th",  
+    "symbol": "Th",
     "weight": "232.03774",
     "enCategory": "Actinide",
     "block": "F",
@@ -39,12 +40,13 @@
     "trUsage": "Güçlü alaşımların yapımında ve ultraviyoleli fotoelektrik hücrelerin yapımında kullanılır. Yüksek kaliteli lenslerde yaygın olarak kullanılır. Nükleer bir yakıt olan uranyum-223'ün yapımı için nötronlar ile bombardıman edilir.",
     "trSource": "Monazit ve torit gibi çeşitli minerallerde bulunur.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 180
   },
   {
     "number": 91,
     "enName": "Protactinium",
-    "symbol": "Pa",  
+    "symbol": "Pa",
     "weight": "231.035882",
     "enCategory": "Actinide",
     "block": "F",
@@ -60,12 +62,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Doğada bulunmaz. Uranyum, toryum ve plütonyumun fizyon ürünlerinde bulunur.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 180
   },
   {
     "number": 92,
     "enName": "Uranium",
-    "symbol": "U",  
+    "symbol": "U",
     "weight": "238.028913",
     "enCategory": "Actinide",
     "block": "F",
@@ -81,12 +84,13 @@
     "trUsage": "Yüzlerce yıl boyunca camlar için bir pigment olarak kullanılmıştır. Günümüzde nükleer reaktörlerde ve bombalarda yakıt olarak kullanılmaktadır.",
     "trSource": "Birçok kayada görülür. Ancak, büyük miktarları ancak uraninit ve karnotit gibi minerallerde bulunur.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 93,
     "enName": "Neptunium",
-    "symbol": "Np",  
+    "symbol": "Np",
     "weight": "237",
     "enCategory": "Actinide",
     "block": "F",
@@ -102,12 +106,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Uranyumun yavaş nötronlarla bombardıman edilmesi sonucu elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 94,
     "enName": "Plutonium",
-    "symbol": "Pu",  
+    "symbol": "Pu",
     "weight": "244",
     "enCategory": "Actinide",
     "block": "F",
@@ -123,12 +128,13 @@
     "trUsage": "Bomba ve reaktörlerde kullanılır. Az miktarlarla termo-elektrik jeneratörlerinde kullanılır.",
     "trSource": "Nadiren bazı uranyum cevherlerinde bulunur. Uranyumun nötronlarla bombardıman edilmesi ile elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 95,
     "enName": "Americium",
-    "symbol": "Am",  
+    "symbol": "Am",
     "weight": "243",
     "enCategory": "Actinide",
     "block": "F",
@@ -144,12 +150,13 @@
     "trUsage": "Amerikiyum-241 günümüzde yangın detektörlerinde kullanılmaktadır.",
     "trSource": "Plütonyumun nötronlarla bombardıman edilmesi ile elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 96,
     "enName": "Curium",
-    "symbol": "Cm",  
+    "symbol": "Cm",
     "weight": "247",
     "enCategory": "Actinide",
     "block": "F",
@@ -165,12 +172,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Plütonyumun helyum iyonlarıyla bombardıman edilmesi sonucu elde edilir. Karanlıkta parlayacak kadar radyoaktiftir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 97,
     "enName": "Berkelium",
-    "symbol": "Bk",  
+    "symbol": "Bk",
     "weight": "247",
     "enCategory": "Actinide",
     "block": "F",
@@ -186,12 +194,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Bazı bileşikleri üretilip üzerlerinde çalışılmıştır. Amerikiyumun alfa parçacıklarıyla bombardıman edilmesi ile elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 98,
     "enName": "Californium",
-    "symbol": "Cf",  
+    "symbol": "Cf",
     "weight": "251",
     "enCategory": "Actinide",
     "block": "F",
@@ -207,12 +216,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Küryumun helyum iyonları ile bombardıman edilmesi sonucu elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 99,
     "enName": "Einsteinium",
-    "symbol": "Es",  
+    "symbol": "Es",
     "weight": "252",
     "enCategory": "Actinide",
     "block": "F",
@@ -228,12 +238,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Uranyumun nötronlarla bombardıman edilmesiyle edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 100,
     "enName": "Fermium",
-    "symbol": "Fm",  
+    "symbol": "Fm",
     "weight": "257",
     "enCategory": "Actinide",
     "block": "F",
@@ -249,12 +260,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Daha hafif transuranyum elementlerinin yine daha hafif parçacıklar ile bombardıman edilmesiyle ya da nötron yakalama ile elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 101,
     "enName": "Mendelevium",
-    "symbol": "Md",  
+    "symbol": "Md",
     "weight": "258",
     "enCategory": "Actinide",
     "block": "F",
@@ -270,12 +282,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Aynştanyumun helyum iyonları ile bombardıman edilmesiyle elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 102,
     "enName": "Nobelium",
-    "symbol": "No",  
+    "symbol": "No",
     "weight": "259",
     "enCategory": "Actinide",
     "block": "F",
@@ -291,12 +304,13 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Küryumun karbon-13 ile bombardıman edilmesiyle elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   },
   {
     "number": 103,
     "enName": "Lawrencium",
-    "symbol": "Lr",  
+    "symbol": "Lr",
     "weight": "266",
     "enCategory": "Actinide",
     "block": "F",
@@ -312,6 +326,7 @@
     "trUsage": "Önemli bir ticari kullanımı yoktur.",
     "trSource": "Kaliforniyumun bor iyonlarıyla bombardıman edilmesiyle elde edilir.",
     "colors": "FFC7EA",
-    "shColor": "B68DA6"
+    "shColor": "B68DA6",
+    "atomicRadius": 175
   }
 ]

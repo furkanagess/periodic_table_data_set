@@ -2,7 +2,7 @@
   {
     "number": 3,
     "enName": "Lithium",
-    "symbol": "Li",  
+    "symbol": "Li",
     "weight": "6.94",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -18,12 +18,13 @@
     "trUsage": "Bataryalarda kullanılır. Aynı zamanda bazı cam ve seramik çeşitlerinde, belli bir miktarı da yağlayıcı maddelerin yapımında kullanılır.",
     "trSource": "Eritilmiş lityum klorürden elektrik akımı geçirerek ve spodümen adlı silikat mineralinden elde edilir.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 167
   },
   {
     "number": 11,
     "enName": "Sodium",
-    "symbol": "Na",  
+    "symbol": "Na",
     "weight": "22.98976928",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -39,12 +40,13 @@
     "trUsage": "Saf metal halinin çok az kullanım alanı vardır. Ancak bileşikleri tıpta, tarımda ve fotoğrafçılıkta kullanılır. Sodyum klorür sofra tuzudur. Sıvı sodyum bazen nükleer reaktörleri soğutmak için kullanılır.",
     "trSource": "Eritilmiş sodyum klorür (tuz), boraks ve kriyolitin elektrolizi ile elde edilir.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 190
   },
   {
     "number": 19,
     "enName": "Potassium",
-    "symbol": "K",  
+    "symbol": "K",
     "weight": "39.09831",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -60,12 +62,13 @@
     "trUsage": "Cam ve sabun yapımında potas şeklinde kullanılır. Aynı zamanda, patlayıcı imalatında ve havai fişeklere leylak rengi vermek için güherçile veya diğer adıyla potasyum nitrat (KNO3) olarak kullanılır. Eskiden kalium (K) deniyordu. Sinir ve kas dokularının çalışması için hayati önem arz eder.",
     "trSource": "Karnalit  [(KMgCl3).6H2O] ve silvit (potasyum klorür, KCL) gibi minerallerde bulunur. Saf metal hali, sıcak potasyum klorür ve sodyum buharının özel bir imbik (retort) içinde tepkimeye uğraması ile elde edilir.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 243
   },
   {
     "number": 37,
     "enName": "Rubidium",
-    "symbol": "Rb",  
+    "symbol": "Rb",
     "weight": "85.46783",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -81,12 +84,13 @@
     "trUsage": "Katalizör, foto hücre, vakum ve katot ışın tüplerinde kullanılır.",
     "trSource": "Bol miktarda bulunur ancak o kadar yaygındır ki üretimi sınırlıdır. Genellikle lityum üretiminden elde edilmektedir.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 265
   },
   {
     "number": 55,
     "enName": "Caesium",
-    "symbol": "Cs",  
+    "symbol": "Cs",
     "weight": "132.905452",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -102,12 +106,13 @@
     "trUsage": "Vakumda ve katot ışın tüplerinde hava kalıntılarını ortadan kaldırmaya yönelik bir gaz alıcı olarak kullanılır. Atom saati ve fotoelektrik cihazların yapımında da kullanılır. Hemen iyonlaştığı için, iyon roketinin motor yakıtı olarak kullanılmaktadır.",
     "trSource": "Polusit [(Cs4Al4Si9O26).H2O] ve az miktarda lepidolitte bulunur.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 298
   },
   {
     "number": 87,
     "enName": "Francium",
-    "symbol": "Fr",  
+    "symbol": "Fr",
     "weight": "223",
     "enCategory": "Alkali Metal",
     "block": "S",
@@ -123,6 +128,7 @@
     "trUsage": "İzotoplarının çok kısa yarı ömrü olduğu için fransiyumun ticari olarak önemli bir kullanımı yoktur.",
     "trSource": "Aktinyumun bozunması ile oluşur. Kimyasal özellikleri sezyuma benzer. Radyum ya da astatine bozunur.",
     "colors": "CAEDFF",
-    "shColor": "96B0BE"
+    "shColor": "96B0BE",
+    "atomicRadius": 260
   }
 ]

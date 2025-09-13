@@ -2,7 +2,7 @@
   {
     "number": 1,
     "enName": "Hydrogen",
-    "symbol": "H",  
+    "symbol": "H",
     "weight": "1.008",
     "enCategory": "Reactive Nonmetal",
     "block": "S",
@@ -18,12 +18,13 @@
     "trUsage": "Yüksek miktarlarda hidrojen amonyak üretiminde kullanılır. Aynı zamanda balonlarda, metal arıtımında ve roketlerde yakıt olarak kullanılır. En ağır iki izotopu döteryum (D) ve trityum (T) sırasıyla nükler fisyon ve füzyon için kullanılır.",
     "trSource": "Ticari miktarları, kızgın buharın metan veya karbon ile tepkimeye sokulmasıyla elde edilir. Metallerin asit çözeltileri veya elektroliz ile tepkimeye girdiği laboratuvar çalışmalarında da elde edilmesi mümkündür.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 53
   },
   {
     "number": 6,
     "enName": "Carbon",
-    "symbol": "C",  
+    "symbol": "C",
     "weight": "12.011",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -39,12 +40,13 @@
     "trUsage": "Çelik üretimi, filtreler ve daha pek çok alanda kullanılır. Radyokarbon tarihlendirmesi, eski nesneleri karbon-14 izotopu ile tarihlendirir.",
     "trSource": "Organik bileşiklerin az miktarda oksijenle yakılmasıyla elde edilir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 67
   },
   {
     "number": 7,
     "enName": "Nitrogen",
-    "symbol": "N",  
+    "symbol": "N",
     "weight": "14.007",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -60,12 +62,13 @@
     "trUsage": "Amonyak ve diğer gübrelerin üretimi başlıca kullanım alanıdır. Ayrıca, patlayıcılarda kullanılan nitrik asit yapımında, kaynakçılıkta ve geliştirilmiş petrol üretiminde kullanılır.",
     "trSource": "Ayrımsal damıtım ile sıvı havadan elde edilir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 56
   },
   {
     "number": 8,
     "enName": "Oxygen",
-    "symbol": "O",  
+    "symbol": "O",
     "weight": "15.999",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -81,12 +84,13 @@
     "trUsage": "Çelik yapımında, kaynakçılıkta ve yaşam desteğinde kullanılır. Atmosferin üst katmanında doğal olarak bulunan ozon (O3) dünyayı ultraviyole radyasyonundan korur.",
     "trSource": "Ağırlıklı olarak sıvı havadan ayrımsal damıtma yoluyla elde edilir. Eser miktarı, laboratuvar ortamında suyun elektroliziyle veya potasyum kloratın (KClO3) manganez dioksit (MnO2) ile ısıtılması ile edilir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 48
   },
   {
     "number": 15,
     "enName": "Phosphorus",
-    "symbol": "P",  
+    "symbol": "P",
     "weight": "30.973762",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -102,12 +106,13 @@
     "trUsage": "Gübre ve deterjan üretiminde kullanılır. Belli bir miktarı havai fişek, emniyet kibriti ve ateşli silahlarlarda kullanılır. Aynı zamanda, hem kendisi hem de karanlıkta parlayan bileşikleri bazı alanlarda kullanılır.",
     "trSource": "Fosfatlı kayada yaygın olarak bulunur. Saf fosfor fosfatlı kaya, kok kömürü ve silis karışımının yaklaşık 1450 derecede ısıtılmasıyla elde edilir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 98
   },
   {
     "number": 16,
     "enName": "Sulfur",
-    "symbol": "S",  
+    "symbol": "S",
     "weight": "32.06",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -123,12 +128,13 @@
     "trUsage": "Kibrit, barut, kauçuk, boya, tıbbi ve zirai ilaçların yapımında kullanılır. Aynı zamanda sülfirik asit (H2SO4) yapımında da yararlanılır.",
     "trSource": "Saf halde ve zincifre, galen, sfalerit ve stibnit gibi cevherlerde bulunur. Saf hali Frasch prosesi yardımıyla yeraltı yataklarından elde edilir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 88
   },
   {
     "number": 34,
     "enName": "Selenium",
-    "symbol": "Se",  
+    "symbol": "Se",
     "weight": "78.9718",
     "enCategory": "Reactive Nonmetal",
     "block": "P",
@@ -144,6 +150,7 @@
     "trUsage": "Işığa maruz kaldığında elektriği daha kolay iletir. Fotoelektrik hücreler, televizyon kameraları ve kserografi makinelerinde kullanılır. Güneş pilinde ve doğrutucularda da yarı iletken olarak kullanılır. Ayrıca, cama kırmızı renk verir.",
     "trSource": "Kurşun, bakır ve nikel arıtımından elde edilir. Üzerine ışık düştüğünde elektriği iletir.",
     "colors": "FD8A8A",
-    "shColor": "B16161"
+    "shColor": "B16161",
+    "atomicRadius": 103
   }
 ]
